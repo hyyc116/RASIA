@@ -25,7 +25,7 @@ def stat_sec_type(dirs):
         if count%1000==1:
             print 'progress',count
         filepath=dirs+"/"+file
-        xml_str=open("../test.XML").read()
+        xml_str=open(filepath).read()
         soup = parse_xml_with_bs(xml_str)
         for sec in  objects.find_all('sec'):
             if sec.parent.name=='article':
