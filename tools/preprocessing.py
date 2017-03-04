@@ -27,7 +27,7 @@ def stat_sec_type(dirs):
         filepath=dirs+"/"+file
         xml_str=open(filepath).read()
         soup = parse_xml_with_bs(xml_str)
-        for sec in  objects.find_all('sec'):
+        for sec in  soup.find_all('sec'):
             if sec.parent.name=='article':
                 sec_type = sec.get('sec-type')
                 if sec_type is None:
