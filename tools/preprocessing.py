@@ -22,7 +22,7 @@ def stat_sec_type(dirs):
     count = 0
     for file in os.listdir(dirs):
         count+=1
-        if count%1000=1:
+        if count%1000==1:
             print 'progress',count
         filepath=dirs+"/"+file
         xml_str=open("../test.XML").read()
