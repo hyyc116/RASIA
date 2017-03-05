@@ -20,9 +20,8 @@ There are two main task in this project.
 
 ##Tools
 
-    1. Scikit-learn 
-    2. FastText 
-    3. CRF 
+1. [Scikit-learn](http://scikit-learn.org/stable/)  
+2. [FastText](https://github.com/facebookresearch/fastText)  
 
 ##Directory
     |--tools

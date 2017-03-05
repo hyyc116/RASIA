@@ -33,6 +33,7 @@ def parse_all(indexpath):
         if doi in doiset:
             continue
         else:
+            doiset.add(doi)
             progress_count+=1
             if progress_count%1000==1:
                 sys.stderr.write("progress:{:}\n".format(progress_count))
