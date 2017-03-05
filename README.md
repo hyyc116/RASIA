@@ -36,6 +36,10 @@ data will be saved to data/sec-header.json and data/sec-type.json. The log info 
 
     python tools/plos_xml_statistics.py [path direcotry] 1>plos_statstic.log 2>header_style.txt 
 
+For scienceDirect data:
+
+    python tools/sc_xml_statistics.py [index file path] 1>headers.txt 2> sc_statistic.log 
+
 
 
 
