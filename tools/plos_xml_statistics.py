@@ -1,4 +1,5 @@
 #coding:utf-8
+""" statistic of all plos xml of headers and sec type """
 import sys
 import xmltodict
 import json

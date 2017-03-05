@@ -6,6 +6,7 @@ __pycache__/
 .DS_Store
 data/*
 log/*
+test/*
 
 # C extensions
 *.so
