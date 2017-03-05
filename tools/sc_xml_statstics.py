@@ -1,5 +1,5 @@
 #coding:utf-8
-
+"""stat section headers"""
 import sys
 from bs4 import UnicodeDammit
 from bs4 import SoupStrainer
