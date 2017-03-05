@@ -26,6 +26,7 @@ def parse_all(indexpath):
     progress_count=0
     headerdict=defaultdict(int)
     doiset=set()
+    paths=[]
     for line in open(indexpath):
         line=line.strip()
         doi,headers = parse_xml(line)
@@ -34,6 +35,7 @@ def parse_all(indexpath):
             continue
         else:
             doiset.add(doi)
+            paths.append(line)
             progress_count+=1
             if progress_count%1000==1:
                 sys.stderr.write("progress:{:}\n".format(progress_count))
@@ -51,7 +53,7 @@ def parse_all(indexpath):
 
     sys.stderr.write("Unique papers:{:}.\nNumber of headers:{:}.\n".format(progress_count,header_count))
     sys.stderr.write("Ratio of high frequency headers: {:.10f}\n".format(high_frequency_count/float(header_count)))
-
+    open("data/paths.txt","w").write("\n".join(paths))
 
 if __name__=="__main__":
     parse_all(sys.argv[1])
