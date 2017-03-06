@@ -48,7 +48,7 @@ def parse_all(indexpath):
         
         for header in headers:
             header_count+=1
-            headerdict['header']+=1
+            headerdict[header]+=1
 
     #print high frequent headers
     high_frequency_count=0
