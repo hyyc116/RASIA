@@ -13,6 +13,8 @@ from datetime import datetime
 #parse xml 
 def parse_xml(path):
     soup = bs(open(path).read(),'lxml')
+    if len(soup.select('doi'))==0:
+        return None,None
     doi = soup.select('doi')[0].get_text()
     headers=[]
     for node in soup.select('h2.svArticle'):
@@ -32,6 +34,8 @@ def parse_all(indexpath):
     for line in open(indexpath):
         line=line.strip()
         doi,headers = parse_xml(line)
+        if doi is None:
+            continue
         #if duplicate 
         if doi in doiset:
             continue
