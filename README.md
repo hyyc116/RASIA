@@ -45,11 +45,22 @@ From the result of statistics, we find there are only 205 unique section header 
 
 So, we use scienceDirect as our data.
 
+#####Section header based identification
+
 1. Randomly select 300 papers, and label the general structure of papers.
     
-        python tools/random_selection.py rn paths.txt 300 > selected_papers.txt
+        python tools/random_selection.py rn paths.txt 300 > sc_selected_papers.txt
 
-        
+        python section_header_based/extract_headers_for_manually_labeling.py sc_selelcted_papers.txt > section_headers_for_labeling.txt
+
+2. manually labeling of selected papers with two PHD students.
+
+3. After checking, build the section header based dataset.
+
+4. We use three models: SVM,CRF,DICTIONARY, baseline is CRF and features used in [Parscit](https://github.com/knmnyn/ParsCit). 
+
+#####Section content based identification
+
 
 
 

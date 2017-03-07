@@ -20,5 +20,8 @@ if __name__=="__main__":
     for line in open(sys.argv[1]):
         path = line.strip()
         doi,headers = parse_xml(path)
+        count=0
         for i,header in enumerate(headers):
+            count+=1
+            sys.stderr.write('{:}'.format(count))
             print doi+"\t"+str(i)+"\t"+unicode(header.encode('utf-8'),errors='ignore')+"\t"+path
