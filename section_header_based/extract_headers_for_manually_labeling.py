@@ -34,3 +34,6 @@ if __name__=="__main__":
 
         for i,header in enumerate(headers):
             print doi+"\t"+str(i)+"\t"+unicode(header.encode('utf-8'),errors='ignore')+"\t"+path
+
+        sys.stderr.write('total:{:}\n'.format(len(doiset)))
+
