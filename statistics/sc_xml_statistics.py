@@ -54,7 +54,7 @@ def parse_all(indexpath):
     high_frequency_count=0
     for k,v in sorted(headerdict.items(),key=lambda x:x[1],reverse=True):
         if v>100:
-            high_frequency_count+=1
+            high_frequency_count+=v
             print "{:}\t{:}".format(k,v)
 
     sys.stderr.write("Unique papers:{:}.\nNumber of headers:{:}.\n".format(progress_count,header_count))

@@ -41,6 +41,25 @@ For scienceDirect data:
 
     python statistics/sc_xml_statistics.py [index file path] 1>headers.txt 2> sc_statistic.log 
 
+From the result of statistics, we find there are only 205 unique section header in PLOS_XML, and occupy 97% to total section headers. So, PLOS_XML data don't need a complicated classifier, only a dictionary could have a very high precision. But for science direct files, the high frequency section headers only occupy 51%. 
+
+So, we use scienceDirect as our data.
+
+1. Randomly select 300 papers, and label the general structure of papers.
+    
+        python tools/random_selection.py rn paths.txt 300 > selected_papers.txt
+
+        
+
+
+
+
+
+##Paper
+
+
+
+
 
 
 
