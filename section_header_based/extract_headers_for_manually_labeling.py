@@ -17,11 +17,14 @@ def parse_xml(path):
 
 
 if __name__=="__main__":
+    count=0
     for line in open(sys.argv[1]):
         path = line.strip()
         doi,headers = parse_xml(path)
-        count=0
+        if doi is None:
+            continue
+        count+=1
+        sys.stderr.write('{:}\n'.format(count))
+
         for i,header in enumerate(headers):
-            count+=1
-            sys.stderr.write('{:}\n'.format(count))
             print doi+"\t"+str(i)+"\t"+unicode(header.encode('utf-8'),errors='ignore')+"\t"+path
