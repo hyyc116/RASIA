@@ -18,11 +18,17 @@ def parse_xml(path):
 
 if __name__=="__main__":
     count=0
+    doiset=set()
     for line in open(sys.argv[1]):
         path = line.strip()
         doi,headers = parse_xml(path)
         if doi is None:
             continue
+
+        if doi in doiset:
+            continue
+
+        doiset.add(doi)
         count+=1
         sys.stderr.write('{:}\n'.format(count))
 
