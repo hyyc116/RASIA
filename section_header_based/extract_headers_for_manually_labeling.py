@@ -21,4 +21,4 @@ if __name__=="__main__":
         path = line.strip()
         doi,headers = parse_xml(path)
         for i,header in enumerate(headers):
-            print doi+"\t"+str(i)+"\t"+header
+            print doi+"\t"+str(i)+"\t"+header.encode('utf-8')+"\t"+path
