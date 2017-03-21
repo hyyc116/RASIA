@@ -1,0 +1,12 @@
+doi,0,introduction
+doi,1,related work
+doi,2,method
+doi,3,result
+doi,4,conclusion
+
+doi,0,introduction
+doi,1,methodology
+doi,2,experiments
+doi,3,result
+doi,4,discussion
+doi,5,conclusions
