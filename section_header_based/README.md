@@ -1,5 +1,4 @@
-##section header based structure identification
-====================
+#section header based structure identification
 
 In this directory, scripts are used to do model training and prediction. 
 
