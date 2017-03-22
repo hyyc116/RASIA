@@ -59,7 +59,7 @@ So, we use scienceDirect as our data.
 
 3. After checking, build the section header based dataset.
 
-4. We use three models: SVM,CRF,DICTIONARY, baseline is CRF and features used in [Parscit](https://github.com/knmnyn/ParsCit). 
+4. We use three models: SVM,CRF baseline is CRF and features used in [Parscit](https://github.com/knmnyn/ParsCit). 
 
 ##### Section content based identification
 
