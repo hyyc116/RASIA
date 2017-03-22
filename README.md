@@ -34,7 +34,7 @@ There are two main task in this project.
 
 ## Usage
 
-#####Preprocessing
+##### Preprocessing
 data will be saved to data/sec-header.json and data/sec-type.json. The log info will print through standard outstream and data will be outputed through error stream. 
 
     python statistics/plos_xml_statistics.py [path direcotry] 1>plos_statstic.log 2>header_style.txt 
@@ -68,7 +68,7 @@ So, we use scienceDirect as our data.
 
 
 
-##Paper
+## Paper
 
 
 

@@ -1,8 +1,8 @@
-#section header based structure identification
+# section header based structure identification
 
 In this directory, scripts are used to do model training and prediction. 
 
-##experiments
+## experiments
 Two methods will be used.
 
 1. Word feature based classification -- based on SVM and word feature.
@@ -11,19 +11,19 @@ Two methods will be used.
 ####Train and test models
 Train two models: svm and crf with following command.
 
-######To SVM:
+###### To SVM:
     
     python headers_based_trainer.py train -i '../data/sc_headers.csv' -m SVM -o 'models/svm'
 
 trained models will be saved as 'models/svm-model.pkl' and 'models/svm-vec.pkl'.
 
-######To CRF:
+###### To CRF:
 
     python headers_based_trainer.py train -i '../data/sc_headers.csv' -m CRF -o 'models/crf'
 
 trained models will be saved as 'models/crf-model.pkl'.
 
-####Predict new samples
+#### Predict new samples
 Using these two trained models to predict labels. The line format of input file is:
 
     doi1,header1,0
@@ -40,11 +40,11 @@ Using these two trained models to predict labels. The line format of input file 
 
 The data of two different articles are separated by a blank line.
 
-######To SVM:
+###### To SVM:
     
      python headers_based_trainer.py predict -i samples.txt -m SVM -o 'models/svm'
 
-######To CRF:
+###### To CRF:
     
     python headers_based_trainer.py predict -i samples.txt -m CRF -o 'models/crf'
 
