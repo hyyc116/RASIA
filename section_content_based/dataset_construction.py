@@ -13,6 +13,7 @@ import json
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s',level=logging.INFO)
 
 def build_dataset(content_headers_path,sc_index_path,saved_path):
+    logging.info('Loading pre-defined section headers...')
     header_dict=defaultdict(str)
     header_set=set()
     for line in open(content_headers_path):
@@ -21,6 +22,7 @@ def build_dataset(content_headers_path,sc_index_path,saved_path):
         header_dict[splits[0]]=splits[1]
         header_set.add(splits[0])
 
+    logging.info('{:} pre-defined section headers loaded complete'.format(len(header_set)))
     data=[]
     count = 0
     for line in open(sc_index_path):
@@ -42,12 +44,10 @@ def build_dataset(content_headers_path,sc_index_path,saved_path):
     logging.info('results saved to {:}'.format(saved_path))
     open(saved_path,'w').write(json.dumps(data_json))
     logging.info('Done')
-
-def main():
-    build_dataset(sys.argv[1],sys.argv[2],sys.argv[3])
+    
 
 if __name__ == '__main__':
-    main()
+    build_dataset(sys.argv[1],sys.argv[2],sys.argv[3])
 
                 
 
