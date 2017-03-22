@@ -28,7 +28,7 @@ def build_dataset(content_headers_path,sc_index_path,saved_path):
     count = 0
     for line in open(sc_index_path):
         count+=1
-        if count%1000==1:
+        if count%100==1:
             logging.info('PROGRESS:{:}'.format(count))
         path = line.strip()
         for header,content in parse_content(path):
