@@ -8,7 +8,7 @@ Two methods will be used.
 1. Word feature based classification -- based on SVM and word feature.
 2. sequence labeling -- CRF based.
 
-####Train and test models
+#### Train and test models
 Train two models: svm and crf with following command.
 
 ###### To SVM:
