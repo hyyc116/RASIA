@@ -9,7 +9,7 @@ Two methods will be used.
 2. sequence labeling -- CRF based.
 
 #### Train and test models
-Train two models: svm and crf with following command.
+Train two models: SVM and CRF with following command.
 
 ###### To SVM:
     
