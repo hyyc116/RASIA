@@ -59,7 +59,7 @@ class content_based_classifier:
         }
         self.labels_ =[self.tag_dict_[i] for i in sorted(self.tag_dict_.keys())]
         self.test_size_=test_size
-        self.vec_= TfidfVectorizer(stokenizer=tokenize, stop_words='english', max_df=0.5)
+        self.vec_= TfidfVectorizer(tokenizer=tokenize, stop_words='english', max_df=0.5)
 
     #set dataset and get train text
     def set_dataset(self,data_path):
