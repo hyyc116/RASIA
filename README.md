@@ -8,31 +8,31 @@ There are two main task in this project.
     1. Identification of General Structure of scientific articles.
     2. Applications in bibliometrics, scientometrics and text mining.
 
-##Data
+## Data
 
     1. Research articles from Computer Science, labeled as CS
     2. Articles from PLOS. PLOS ONE used, labeled as PLOS
 
 
-##Method
+## Method
 
     1. section header based identification 
     2. section content based identification 
     3. hybrid identification 
 
-##Tools
+## Tools
 
 1. [Scikit-learn](http://scikit-learn.org/stable/)  
 2. [FastText](https://github.com/facebookresearch/fastText)  
 
-##Directory
+## Directory
     |--statistics
         |--plos_xml_statistics.py: do some statistics of PLOS_XML data.
         |--sc_xml_statistics.py
     |--tools
         |--random_selection.py: random select N lines from given file.
 
-##Usage
+## Usage
 
 #####Preprocessing
 data will be saved to data/sec-header.json and data/sec-type.json. The log info will print through standard outstream and data will be outputed through error stream. 
@@ -47,7 +47,7 @@ From the result of statistics, we find there are only 205 unique section header 
 
 So, we use scienceDirect as our data.
 
-#####Section header based identification
+##### Section header based identification
 
 1. Randomly select 300 papers, and label the general structure of papers.
     
@@ -61,7 +61,7 @@ So, we use scienceDirect as our data.
 
 4. We use three models: SVM,CRF,DICTIONARY, baseline is CRF and features used in [Parscit](https://github.com/knmnyn/ParsCit). 
 
-#####Section content based identification
+##### Section content based identification
 
 
 
