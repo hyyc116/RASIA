@@ -7,8 +7,7 @@ from bs4 import BeautifulSoup as bs
 import re
 from collections import defaultdict
 from datetime import datetime
-
-
+import re
 
 #parse xml 
 def parse_xml(path):
@@ -21,6 +20,44 @@ def parse_xml(path):
         header = re.sub(r'\d+\.?\s*','',node.get_text()).strip()
         headers.append(header)
     return doi,headers
+
+
+def parse_content(path):
+    isContent = False
+    content=open(path).read().strip()
+    soup = bs(open(path).read(),'lxml')
+    content_node = soup.select('content')[0]
+    isContent=False
+    content=''
+    header=''
+    for child in content_node.children:
+        name = child.name
+        if name is not None:
+            if name=='content_start':
+                isContent=True
+            elif name=='content_end':
+                isContent=False
+
+            if isContent:
+
+                if name=='h2':
+
+                    class_str = child['class'][0]
+
+                    if class_str=='svArticle':
+                        if header!='':
+                            content = re.sub(r'<[^>]*?>','',content)
+                            content = re.sub(r'\s+',' ',content)
+                            content = content.replace('{math_begin}','').replace('{math_end}','').replace(u' ','').replace(u' )',')')
+                            yield header,content
+
+                        header = re.sub('\d*\.?','',child.get_text()).strip()
+                        content=''
+
+                if name=='p':
+                    class_str = child['class'][0]
+                    if class_str=='svArticle_section':
+                        content +=child.get_text()
 
 
 #parse all xml file of sciendirect 
@@ -64,7 +101,8 @@ def parse_all(indexpath):
 
 
 if __name__=="__main__":
-    parse_all(sys.argv[1])
+    # parse_all(sys.argv[1])
+    parse_content('../test/0.xml')
 
 
 
