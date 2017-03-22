@@ -11,9 +11,10 @@ from collections import defaultdict
 from statistics.sc_xml_statistics import *
 import json
 import logging
-
+import random
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s',level=logging.INFO)
+
 
 def build_dataset(content_headers_path,sc_index_path,saved_path):
     logging.info('Loading pre-defined section headers...')
@@ -26,7 +27,8 @@ def build_dataset(content_headers_path,sc_index_path,saved_path):
         header_set.add(splits[0])
 
     logging.info('{:} pre-defined section headers loaded complete'.format(len(header_set)))
-    data=[]
+    
+    label_dict=defaultdict(list)
     count = 0
     for line in open(sc_index_path):
         count+=1
@@ -39,7 +41,14 @@ def build_dataset(content_headers_path,sc_index_path,saved_path):
                     'header':header_dict[header],
                     'content':content
                 }
-                data.append(sample)
+                label_dict[header_dict[header]].append(sample)
+    data=[]           
+    logging.info('random select 5000 samples for every label.')
+    for label in sorted(label_dict.keys()):
+        logging.info('{:}:{:}'.format(label,len(label_dict[label])))
+        data.extend(random.sample(label_dict[label]),5000)
+
+    random.shuffle(data)  
 
     data_json={
         'data':data
