@@ -1,0 +1,920 @@
+10.1016/S0026-2714(00)00260-2,0,Introduction,0,/public/data/computer_science/Microelectronics_Reliability/2001/xml/1545.xml
+10.1016/S0026-2714(00)00260-2,1,Experimental,3,/public/data/computer_science/Microelectronics_Reliability/2001/xml/1545.xml
+10.1016/S0026-2714(00)00260-2,2,Stress in shallow trench isolation,3,/public/data/computer_science/Microelectronics_Reliability/2001/xml/1545.xml
+10.1016/S0026-2714(00)00260-2,3,Summary,4,/public/data/computer_science/Microelectronics_Reliability/2001/xml/1545.xml
+10.1016/j.compbiomed.2013.01.024,0,Introduction,0,/public/data/computer_science/Computers_in_Biology_and_Medicine/2013/xml/199.xml
+10.1016/j.compbiomed.2013.01.024,1,Related work,1,/public/data/computer_science/Computers_in_Biology_and_Medicine/2013/xml/199.xml
+10.1016/j.compbiomed.2013.01.024,2,Test case reuse-based integration testing,2,/public/data/computer_science/Computers_in_Biology_and_Medicine/2013/xml/199.xml
+10.1016/j.compbiomed.2013.01.024,3,Evaluation,3,/public/data/computer_science/Computers_in_Biology_and_Medicine/2013/xml/199.xml
+10.1016/j.compbiomed.2013.01.024,4,Conclusion and future work,4,/public/data/computer_science/Computers_in_Biology_and_Medicine/2013/xml/199.xml
+10.1016/j.compbiomed.2013.01.024,5,Conflict of interest,-1,/public/data/computer_science/Computers_in_Biology_and_Medicine/2013/xml/199.xml
+10.1016/j.jcp.2007.02.027,0,Introduction,0,/public/data/computer_science/Journal_of_Computational_Physics/2007/xml/2376.xml
+10.1016/j.jcp.2007.02.027,1,Model MHD problem,2,/public/data/computer_science/Journal_of_Computational_Physics/2007/xml/2376.xml
+10.1016/j.jcp.2007.02.027,2,Discretizations,2,/public/data/computer_science/Journal_of_Computational_Physics/2007/xml/2376.xml
+10.1016/j.jcp.2007.02.027,3,One-level NewtonKrylovSchwarz methods,2,/public/data/computer_science/Journal_of_Computational_Physics/2007/xml/2376.xml
+10.1016/j.jcp.2007.02.027,4,Explicit method,2,/public/data/computer_science/Journal_of_Computational_Physics/2007/xml/2376.xml
+10.1016/j.jcp.2007.02.027,5,Numerical experiments,3,/public/data/computer_science/Journal_of_Computational_Physics/2007/xml/2376.xml
+10.1016/j.jcp.2007.02.027,6,Conclusions and future work,4,/public/data/computer_science/Journal_of_Computational_Physics/2007/xml/2376.xml
+10.1016/j.cor.2009.10.003,0,Introduction,0,/public/data/computer_science/Computers___Operations_Research/2010/xml/129.xml
+10.1016/j.cor.2009.10.003,1,The dial-a-ride problem,2,/public/data/computer_science/Computers___Operations_Research/2010/xml/129.xml
+10.1016/j.cor.2009.10.003,2,Solution framework,2,/public/data/computer_science/Computers___Operations_Research/2010/xml/129.xml
+10.1016/j.cor.2009.10.003,3,Computational results,3,/public/data/computer_science/Computers___Operations_Research/2010/xml/129.xml
+10.1016/j.cor.2009.10.003,4,Conclusion,4,/public/data/computer_science/Computers___Operations_Research/2010/xml/129.xml
+10.1016/j.cviu.2007.09.003,0,Introduction,0,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2008/xml/223.xml
+10.1016/j.cviu.2007.09.003,1,Problem formulation,2,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2008/xml/223.xml
+10.1016/j.cviu.2007.09.003,2,Review of shape-from-shading methods,1,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2008/xml/223.xml
+10.1016/j.cviu.2007.09.003,3,Selection of three shape-from-shading methods for the tests,2,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2008/xml/223.xml
+10.1016/j.cviu.2007.09.003,4,Methodology,2,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2008/xml/223.xml
+10.1016/j.cviu.2007.09.003,5,Tests,3,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2008/xml/223.xml
+10.1016/j.cviu.2007.09.003,6,Conclusion,4,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2008/xml/223.xml
+10.1016/j.sigpro.2003.10.023,0,Introduction,0,/public/data/computer_science/Signal_Processing/2001/xml/1893.xml
+10.1016/j.sigpro.2003.10.023,1,A dissonant frequency filtering,2,/public/data/computer_science/Signal_Processing/2001/xml/1893.xml
+10.1016/j.sigpro.2003.10.023,2,Experimental results,3,/public/data/computer_science/Signal_Processing/2001/xml/1893.xml
+10.1016/j.sigpro.2003.10.023,3,Conclusion,4,/public/data/computer_science/Signal_Processing/2001/xml/1893.xml
+10.1016/j.imavis.2008.03.002,0,Introduction,0,/public/data/computer_science/Image_and_Vision_Computing/2008/xml/149.xml
+10.1016/j.imavis.2008.03.002,1,Overview of image interpolation,1,/public/data/computer_science/Image_and_Vision_Computing/2008/xml/149.xml
+10.1016/j.imavis.2008.03.002,2,Robust orientation diffusion,2,/public/data/computer_science/Image_and_Vision_Computing/2008/xml/149.xml
+10.1016/j.imavis.2008.03.002,3,Corner region recognition and corner shock filtering,2,/public/data/computer_science/Image_and_Vision_Computing/2008/xml/149.xml
+10.1016/j.imavis.2008.03.002,4,Edge-and-corner preserving interpolation and reconstruction,2,/public/data/computer_science/Image_and_Vision_Computing/2008/xml/149.xml
+10.1016/j.imavis.2008.03.002,5,Experimental results,3,/public/data/computer_science/Image_and_Vision_Computing/2008/xml/149.xml
+10.1016/j.imavis.2008.03.002,6,Conclusions,4,/public/data/computer_science/Image_and_Vision_Computing/2008/xml/149.xml
+10.1016/j.ejor.2005.08.009,0,Introduction,1,/public/data/computer_science/European_Journal_of_Operational_Research/2006/xml/454.xml
+10.1016/j.ejor.2005.08.009,1,Problem formulation,2,/public/data/computer_science/European_Journal_of_Operational_Research/2006/xml/454.xml
+10.1016/j.ejor.2005.08.009,2,Related work,1,/public/data/computer_science/European_Journal_of_Operational_Research/2006/xml/454.xml
+10.1016/j.ejor.2005.08.009,3,Series-parallel and Y transformations,2,/public/data/computer_science/European_Journal_of_Operational_Research/2006/xml/454.xml
+10.1016/j.ejor.2005.08.009,4,The algorithm,2,/public/data/computer_science/European_Journal_of_Operational_Research/2006/xml/454.xml
+10.1016/j.ejor.2005.08.009,5,Correctness and properties,3,/public/data/computer_science/European_Journal_of_Operational_Research/2006/xml/454.xml
+10.1016/j.ejor.2005.08.009,6,MPFE precision,3,/public/data/computer_science/European_Journal_of_Operational_Research/2006/xml/454.xml
+10.1016/j.ejor.2005.08.009,7,Discussion,4,/public/data/computer_science/European_Journal_of_Operational_Research/2006/xml/454.xml
+10.1016/j.eswa.2013.01.030,0,Introduction,0,/public/data/computer_science/Expert_Systems_with_Applications/2013/xml/1139.xml
+10.1016/j.eswa.2013.01.030,1,Related work,1,/public/data/computer_science/Expert_Systems_with_Applications/2013/xml/1139.xml
+10.1016/j.eswa.2013.01.030,2,System architecture and research methodology,2,/public/data/computer_science/Expert_Systems_with_Applications/2013/xml/1139.xml
+10.1016/j.eswa.2013.01.030,3,Experimental results and discussion,3,/public/data/computer_science/Expert_Systems_with_Applications/2013/xml/1139.xml
+10.1016/j.eswa.2013.01.030,4,System evaluation,3,/public/data/computer_science/Expert_Systems_with_Applications/2013/xml/1139.xml
+10.1016/j.eswa.2013.01.030,5,Conclusion,4,/public/data/computer_science/Expert_Systems_with_Applications/2013/xml/1139.xml
+10.1016/S0165-1684(02)00336-5,0,Introduction,0,/public/data/computer_science/Signal_Processing/2001/xml/2205.xml
+10.1016/S0165-1684(02)00336-5,1,The general algorithmic method,2,/public/data/computer_science/Signal_Processing/2001/xml/2205.xml
+10.1016/S0165-1684(02)00336-5,2,Application to the Poisson noise process,3,/public/data/computer_science/Signal_Processing/2001/xml/2205.xml
+10.1016/S0165-1684(02)00336-5,3,Application to the Gaussian additive noise,3,/public/data/computer_science/Signal_Processing/2001/xml/2205.xml
+10.1016/S0165-1684(02)00336-5,4,Application to the gamma likelihood,3,/public/data/computer_science/Signal_Processing/2001/xml/2205.xml
+10.1016/S0165-1684(02)00336-5,5,Numerical illustrations,3,/public/data/computer_science/Signal_Processing/2001/xml/2205.xml
+10.1016/S0165-1684(02)00336-5,6,Application to real images,3,/public/data/computer_science/Signal_Processing/2001/xml/2205.xml
+10.1016/S0165-1684(02)00336-5,7,Conclusion,4,/public/data/computer_science/Signal_Processing/2001/xml/2205.xml
+10.1016/j.ijmedinf.2005.07.025,0,Introduction,0,/public/data/computer_science/International_Journal_of_Medical_Informatics/2003/xml/540.xml
+10.1016/j.ijmedinf.2005.07.025,1,Background,1,/public/data/computer_science/International_Journal_of_Medical_Informatics/2003/xml/540.xml
+10.1016/j.ijmedinf.2005.07.025,2,Methods,2,/public/data/computer_science/International_Journal_of_Medical_Informatics/2003/xml/540.xml
+10.1016/j.ijmedinf.2005.07.025,3,Results,3,/public/data/computer_science/International_Journal_of_Medical_Informatics/2003/xml/540.xml
+10.1016/j.ijmedinf.2005.07.025,4,Discussion,4,/public/data/computer_science/International_Journal_of_Medical_Informatics/2003/xml/540.xml
+10.1016/j.ijmedinf.2005.07.025,5,Conclusions,4,/public/data/computer_science/International_Journal_of_Medical_Informatics/2003/xml/540.xml
+10.1016/j.ins.2007.01.011,0,Introduction,0,/public/data/computer_science/Information_Sciences/2005/xml/4776.xml
+10.1016/j.ins.2007.01.011,1,General ideas,2,/public/data/computer_science/Information_Sciences/2005/xml/4776.xml
+10.1016/j.ins.2007.01.011,2,Algorithm,2,/public/data/computer_science/Information_Sciences/2005/xml/4776.xml
+10.1016/j.ins.2007.01.011,3,Experimental results and discussions,3,/public/data/computer_science/Information_Sciences/2005/xml/4776.xml
+10.1016/j.ins.2007.01.011,4,Conclusion,4,/public/data/computer_science/Information_Sciences/2005/xml/4776.xml
+10.1016/S0169-2607(01)00172-9,0,Introduction,0,/public/data/computer_science/Computer_Methods_and_Programs_in_Biomedicine/2000/xml/61.xml
+10.1016/S0169-2607(01)00172-9,1,Materials and methods,2,/public/data/computer_science/Computer_Methods_and_Programs_in_Biomedicine/2000/xml/61.xml
+10.1016/S0169-2607(01)00172-9,2,Results,3,/public/data/computer_science/Computer_Methods_and_Programs_in_Biomedicine/2000/xml/61.xml
+10.1016/S0169-2607(01)00172-9,3,Discussion,4,/public/data/computer_science/Computer_Methods_and_Programs_in_Biomedicine/2000/xml/61.xml
+10.1016/S0169-2607(01)00172-9,4,Conclusion,4,/public/data/computer_science/Computer_Methods_and_Programs_in_Biomedicine/2000/xml/61.xml
+10.1016/j.eswa.2011.02.043,0,Introduction,0,/public/data/computer_science/Expert_Systems_with_Applications/2011/xml/1609.xml
+10.1016/j.eswa.2011.02.043,1,Support vector machine,1,/public/data/computer_science/Expert_Systems_with_Applications/2011/xml/1609.xml
+10.1016/j.eswa.2011.02.043,2,CPSO-SVM classification model,2,/public/data/computer_science/Expert_Systems_with_Applications/2011/xml/1609.xml
+10.1016/j.eswa.2011.02.043,3,Fault diagnosis of sensor based on CPSO-SVM,2,/public/data/computer_science/Expert_Systems_with_Applications/2011/xml/1609.xml
+10.1016/j.eswa.2011.02.043,4,Experimental analysis for fault diagnosis of sensor based on CPSO-SVM,3,/public/data/computer_science/Expert_Systems_with_Applications/2011/xml/1609.xml
+10.1016/j.eswa.2011.02.043,5,Conclusion,4,/public/data/computer_science/Expert_Systems_with_Applications/2011/xml/1609.xml
+10.1016/S1093-3263(01)00099-7,0,Introduction,0,/public/data/computer_science/Journal_of_Molecular_Graphics_and_Modelling/2001/xml/38.xml
+10.1016/S1093-3263(01)00099-7,1,Methods,2,/public/data/computer_science/Journal_of_Molecular_Graphics_and_Modelling/2001/xml/38.xml
+10.1016/S1093-3263(01)00099-7,2,Results,3,/public/data/computer_science/Journal_of_Molecular_Graphics_and_Modelling/2001/xml/38.xml
+10.1016/S1093-3263(01)00099-7,3,Discussion,4,/public/data/computer_science/Journal_of_Molecular_Graphics_and_Modelling/2001/xml/38.xml
+10.1016/j.eswa.2009.06.086,0,Introduction,0,/public/data/computer_science/Expert_Systems_with_Applications/2010/xml/822.xml
+10.1016/j.eswa.2009.06.086,1,Notations and problem formulation,2,/public/data/computer_science/Expert_Systems_with_Applications/2010/xml/822.xml
+10.1016/j.eswa.2009.06.086,2,QoS-Aware Multicast Routing architecture,2,/public/data/computer_science/Expert_Systems_with_Applications/2010/xml/822.xml
+10.1016/j.eswa.2009.06.086,3,Design of MOEAQ,2,/public/data/computer_science/Expert_Systems_with_Applications/2010/xml/822.xml
+10.1016/j.eswa.2009.06.086,4,Analysis of MOEAQ,3,/public/data/computer_science/Expert_Systems_with_Applications/2010/xml/822.xml
+10.1016/j.eswa.2009.06.086,5,MOEAQ-based QoS multicast routing protocol,3,/public/data/computer_science/Expert_Systems_with_Applications/2010/xml/822.xml
+10.1016/j.eswa.2009.06.086,6,Simulations and performance evaluation,3,/public/data/computer_science/Expert_Systems_with_Applications/2010/xml/822.xml
+10.1016/j.eswa.2009.06.086,7,Conclusions,4,/public/data/computer_science/Expert_Systems_with_Applications/2010/xml/822.xml
+10.1016/S0747-5632(03)00022-0,0,Introduction,0,/public/data/computer_science/Computers_in_Human_Behavior/2003/xml/3.xml
+10.1016/S0747-5632(03)00022-0,1,Method,2,/public/data/computer_science/Computers_in_Human_Behavior/2003/xml/3.xml
+10.1016/S0747-5632(03)00022-0,2,Results and discussion,3,/public/data/computer_science/Computers_in_Human_Behavior/2003/xml/3.xml
+10.1016/S0747-5632(03)00022-0,3,Conclusions,4,/public/data/computer_science/Computers_in_Human_Behavior/2003/xml/3.xml
+10.1016/j.gmod.2005.10.001,0,Introduction,0,/public/data/computer_science/Graphical_Models/2006/xml/14.xml
+10.1016/j.gmod.2005.10.001,1,Preliminaries,0,/public/data/computer_science/Graphical_Models/2006/xml/14.xml
+10.1016/j.gmod.2005.10.001,2,Related work,1,/public/data/computer_science/Graphical_Models/2006/xml/14.xml
+10.1016/j.gmod.2005.10.001,3,Inner Voronoi based pair-mesh,2,/public/data/computer_science/Graphical_Models/2006/xml/14.xml
+10.1016/j.gmod.2005.10.001,4,Power crust based pair-mesh,2,/public/data/computer_science/Graphical_Models/2006/xml/14.xml
+10.1016/j.gmod.2005.10.001,5,Conclusions and future work,4,/public/data/computer_science/Graphical_Models/2006/xml/14.xml
+10.1016/j.cpc.2006.09.005,0,Introduction,0,/public/data/computer_science/Computer_Physics_Communications/2007/xml/118.xml
+10.1016/j.cpc.2006.09.005,1,Lattice-Boltzmann method,2,/public/data/computer_science/Computer_Physics_Communications/2007/xml/118.xml
+10.1016/j.cpc.2006.09.005,2,Implementation of LBM,2,/public/data/computer_science/Computer_Physics_Communications/2007/xml/118.xml
+10.1016/j.cpc.2006.09.005,3,Algorithms,2,/public/data/computer_science/Computer_Physics_Communications/2007/xml/118.xml
+10.1016/j.cpc.2006.09.005,4,Performance,3,/public/data/computer_science/Computer_Physics_Communications/2007/xml/118.xml
+10.1016/j.cpc.2006.09.005,5,Code optimization,3,/public/data/computer_science/Computer_Physics_Communications/2007/xml/118.xml
+10.1016/j.cpc.2006.09.005,6,Conclusions,4,/public/data/computer_science/Computer_Physics_Communications/2007/xml/118.xml
+10.1016/j.patrec.2009.12.030,0,Introduction,0,/public/data/computer_science/Pattern_Recognition_Letters/2010/xml/470.xml
+10.1016/j.patrec.2009.12.030,1,Face recognition grand challenge database,1,/public/data/computer_science/Pattern_Recognition_Letters/2010/xml/470.xml
+10.1016/j.patrec.2009.12.030,2,Combining several sources of information,2,/public/data/computer_science/Pattern_Recognition_Letters/2010/xml/470.xml
+10.1016/j.patrec.2009.12.030,3,Results and discussion,3,/public/data/computer_science/Pattern_Recognition_Letters/2010/xml/470.xml
+10.1016/j.patrec.2009.12.030,4,Conclusions,4,/public/data/computer_science/Pattern_Recognition_Letters/2010/xml/470.xml
+10.1016/j.cviu.2012.08.004,0,Introduction,0,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2012/xml/107.xml
+10.1016/j.cviu.2012.08.004,1,Methods,2,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2012/xml/107.xml
+10.1016/j.cviu.2012.08.004,2,Experiments,3,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2012/xml/107.xml
+10.1016/j.cviu.2012.08.004,3,Automatic detection and segmentation of CSF,3,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2012/xml/107.xml
+10.1016/j.cviu.2012.08.004,4,Discussion,4,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2012/xml/107.xml
+10.1016/S0377-2217(99)00156-3,0,Introduction,0,/public/data/computer_science/European_Journal_of_Operational_Research/1998/xml/19.xml
+10.1016/S0377-2217(99)00156-3,1,Overview,1,/public/data/computer_science/European_Journal_of_Operational_Research/1998/xml/19.xml
+10.1016/S0377-2217(99)00156-3,2,A heuristic procedure,2,/public/data/computer_science/European_Journal_of_Operational_Research/1998/xml/19.xml
+10.1016/S0377-2217(99)00156-3,3,"Lower bounds to R|ri,qi|Cmax",2,/public/data/computer_science/European_Journal_of_Operational_Research/1998/xml/19.xml
+10.1016/S0377-2217(99)00156-3,4,The branching rule,2,/public/data/computer_science/European_Journal_of_Operational_Research/1998/xml/19.xml
+10.1016/S0377-2217(99)00156-3,5,Computational results,3,/public/data/computer_science/European_Journal_of_Operational_Research/1998/xml/19.xml
+10.1016/j.eswa.2009.09.039,0,Introduction,0,/public/data/computer_science/Expert_Systems_with_Applications/2010/xml/1558.xml
+10.1016/j.eswa.2009.09.039,1,Multiband feature fusion technique,1,/public/data/computer_science/Expert_Systems_with_Applications/2010/xml/1558.xml
+10.1016/j.eswa.2009.09.039,2,Classification and fusion,2,/public/data/computer_science/Expert_Systems_with_Applications/2010/xml/1558.xml
+10.1016/j.eswa.2009.09.039,3,Experimental results,3,/public/data/computer_science/Expert_Systems_with_Applications/2010/xml/1558.xml
+10.1016/j.eswa.2009.09.039,4,Conclusion,4,/public/data/computer_science/Expert_Systems_with_Applications/2010/xml/1558.xml
+10.1016/j.trc.2014.01.014,0,Introduction,0,/public/data/computer_science/Transportation_Research_Part_C__Emerging_Technologies/2014/xml/2.xml
+10.1016/j.trc.2014.01.014,1,Link based dynamic network loading model,1,/public/data/computer_science/Transportation_Research_Part_C__Emerging_Technologies/2014/xml/2.xml
+10.1016/j.trc.2014.01.014,2,Reinforcement learning for dynamic speed limit control,2,/public/data/computer_science/Transportation_Research_Part_C__Emerging_Technologies/2014/xml/2.xml
+10.1016/j.trc.2014.01.014,3,Test case study,3,/public/data/computer_science/Transportation_Research_Part_C__Emerging_Technologies/2014/xml/2.xml
+10.1016/j.trc.2014.01.014,4,Conclusions,4,/public/data/computer_science/Transportation_Research_Part_C__Emerging_Technologies/2014/xml/2.xml
+10.1016/j.compag.2007.02.002,0,Introduction,0,/public/data/computer_science/Computers_and_Electronics_in_Agriculture/2006/xml/76.xml
+10.1016/j.compag.2007.02.002,1,Materials and methods,2,/public/data/computer_science/Computers_and_Electronics_in_Agriculture/2006/xml/76.xml
+10.1016/j.compag.2007.02.002,2,Discussion,4,/public/data/computer_science/Computers_and_Electronics_in_Agriculture/2006/xml/76.xml
+10.1016/j.compag.2007.02.002,3,Conclusion,4,/public/data/computer_science/Computers_and_Electronics_in_Agriculture/2006/xml/76.xml
+10.1016/j.engappai.2013.04.009,0,Introduction,0,/public/data/computer_science/Engineering_Applications_of_Artificial_Intelligence/2013/xml/46.xml
+10.1016/j.engappai.2013.04.009,1,Background,1,/public/data/computer_science/Engineering_Applications_of_Artificial_Intelligence/2013/xml/46.xml
+10.1016/j.engappai.2013.04.009,2,Mock agent test cases design framework,2,/public/data/computer_science/Engineering_Applications_of_Artificial_Intelligence/2013/xml/46.xml
+10.1016/j.engappai.2013.04.009,3,Defining test case stereotypes with the eclipse plug-in,2,/public/data/computer_science/Engineering_Applications_of_Artificial_Intelligence/2013/xml/46.xml
+10.1016/j.engappai.2013.04.009,4,Evaluation,3,/public/data/computer_science/Engineering_Applications_of_Artificial_Intelligence/2013/xml/46.xml
+10.1016/j.engappai.2013.04.009,5,Conclusion and future work,4,/public/data/computer_science/Engineering_Applications_of_Artificial_Intelligence/2013/xml/46.xml
+10.1016/j.jcp.2008.07.003,0,Introduction,0,/public/data/computer_science/Journal_of_Computational_Physics/2007/xml/1756.xml
+10.1016/j.jcp.2008.07.003,1,Compound matrix method,1,/public/data/computer_science/Journal_of_Computational_Physics/2007/xml/1756.xml
+10.1016/j.jcp.2008.07.003,2,Compound matrix eigenfunction,2,/public/data/computer_science/Journal_of_Computational_Physics/2007/xml/1756.xml
+10.1016/j.jcp.2008.07.003,3,Example: An elastic tube under axial compression,3,/public/data/computer_science/Journal_of_Computational_Physics/2007/xml/1756.xml
+10.1016/j.jcp.2008.07.003,4,Concluding remarks,4,/public/data/computer_science/Journal_of_Computational_Physics/2007/xml/1756.xml
+10.1016/j.eij.2013.03.001,0,Introduction,0,/public/data/computer_science/Egyptian_Informatics_Journal/2013/xml/9.xml
+10.1016/j.eij.2013.03.001,1,The DeLone and McLean success model as applied to call centers,1,/public/data/computer_science/Egyptian_Informatics_Journal/2013/xml/9.xml
+10.1016/j.eij.2013.03.001,2,Mapping call centers performance indicators to the DeLone and McLean IS model,2,/public/data/computer_science/Egyptian_Informatics_Journal/2013/xml/9.xml
+10.1016/j.eij.2013.03.001,3,Proposed Weighted Call Center Performance Index (W-CCPI),2,/public/data/computer_science/Egyptian_Informatics_Journal/2013/xml/9.xml
+10.1016/j.eij.2013.03.001,4,Data analysis and results,3,/public/data/computer_science/Egyptian_Informatics_Journal/2013/xml/9.xml
+10.1016/j.eij.2013.03.001,5,Conclusion,4,/public/data/computer_science/Egyptian_Informatics_Journal/2013/xml/9.xml
+10.1016/j.cag.2010.09.010,0,Introduction,0,/public/data/computer_science/Computers___Graphics/2011/xml/111.xml
+10.1016/j.cag.2010.09.010,1,Related work,1,/public/data/computer_science/Computers___Graphics/2011/xml/111.xml
+10.1016/j.cag.2010.09.010,2,Overview of the proposed method,1,/public/data/computer_science/Computers___Graphics/2011/xml/111.xml
+10.1016/j.cag.2010.09.010,3,Watermark embedding,2,/public/data/computer_science/Computers___Graphics/2011/xml/111.xml
+10.1016/j.cag.2010.09.010,4,Watermark extraction,2,/public/data/computer_science/Computers___Graphics/2011/xml/111.xml
+10.1016/j.cag.2010.09.010,5,Results and comparisons,3,/public/data/computer_science/Computers___Graphics/2011/xml/111.xml
+10.1016/j.cag.2010.09.010,6,Conclusion and future work,4,/public/data/computer_science/Computers___Graphics/2011/xml/111.xml
+10.1016/j.jbi.2011.11.002,0,Introduction,0,/public/data/computer_science/Journal_of_Biomedical_Informatics/2012/xml/99.xml
+10.1016/j.jbi.2011.11.002,1,Related work,1,/public/data/computer_science/Journal_of_Biomedical_Informatics/2012/xml/99.xml
+10.1016/j.jbi.2011.11.002,2,Methods,2,/public/data/computer_science/Journal_of_Biomedical_Informatics/2012/xml/99.xml
+10.1016/j.jbi.2011.11.002,3,Results,3,/public/data/computer_science/Journal_of_Biomedical_Informatics/2012/xml/99.xml
+10.1016/j.jbi.2011.11.002,4,Discussion,4,/public/data/computer_science/Journal_of_Biomedical_Informatics/2012/xml/99.xml
+10.1016/j.jbi.2011.11.002,5,Conclusion,4,/public/data/computer_science/Journal_of_Biomedical_Informatics/2012/xml/99.xml
+10.1016/j.datak.2004.05.008,0,Introduction,0,/public/data/computer_science/Data___Knowledge_Engineering/2005/xml/74.xml
+10.1016/j.datak.2004.05.008,1,Structure of biological data,2,/public/data/computer_science/Data___Knowledge_Engineering/2005/xml/74.xml
+10.1016/j.datak.2004.05.008,2,Design of extraction rules,2,/public/data/computer_science/Data___Knowledge_Engineering/2005/xml/74.xml
+10.1016/j.datak.2004.05.008,3,Rule induction system,2,/public/data/computer_science/Data___Knowledge_Engineering/2005/xml/74.xml
+10.1016/j.datak.2004.05.008,4,Experimental results,3,/public/data/computer_science/Data___Knowledge_Engineering/2005/xml/74.xml
+10.1016/j.datak.2004.05.008,5,Related work,1,/public/data/computer_science/Data___Knowledge_Engineering/2005/xml/74.xml
+10.1016/j.datak.2004.05.008,6,Conclusions and future work,4,/public/data/computer_science/Data___Knowledge_Engineering/2005/xml/74.xml
+10.1016/j.jmgm.2012.10.010,0,Introduction,0,/public/data/computer_science/Journal_of_Molecular_Graphics_and_Modelling/2013/xml/139.xml
+10.1016/j.jmgm.2012.10.010,1,Materials and methods,2,/public/data/computer_science/Journal_of_Molecular_Graphics_and_Modelling/2013/xml/139.xml
+10.1016/j.jmgm.2012.10.010,2,Results and discussion,3,/public/data/computer_science/Journal_of_Molecular_Graphics_and_Modelling/2013/xml/139.xml
+10.1016/j.jmgm.2012.10.010,3,Conclusion,4,/public/data/computer_science/Journal_of_Molecular_Graphics_and_Modelling/2013/xml/139.xml
+10.1016/j.csda.2011.06.028,0,Introduction,0,/public/data/computer_science/Computational_Statistics___Data_Analysis/2006/xml/443.xml
+10.1016/j.csda.2011.06.028,1,Item factor analysis and mixed effects models with binary responses,1,/public/data/computer_science/Computational_Statistics___Data_Analysis/2006/xml/443.xml
+10.1016/j.csda.2011.06.028,2,Direct sampling based MCEM algorithm,2,/public/data/computer_science/Computational_Statistics___Data_Analysis/2006/xml/443.xml
+10.1016/j.csda.2011.06.028,3,Numerical examples,3,/public/data/computer_science/Computational_Statistics___Data_Analysis/2006/xml/443.xml
+10.1016/j.csda.2011.06.028,4,Discussion,4,/public/data/computer_science/Computational_Statistics___Data_Analysis/2006/xml/443.xml
+10.1016/j.comnet.2005.01.007,0,Introduction,0,/public/data/computer_science/Computer_Networks/2005/xml/45.xml
+10.1016/j.comnet.2005.01.007,1,AS level Internet topology,1,/public/data/computer_science/Computer_Networks/2005/xml/45.xml
+10.1016/j.comnet.2005.01.007,2,Border gateway protocol version,1,/public/data/computer_science/Computer_Networks/2005/xml/45.xml
+10.1016/j.comnet.2005.01.007,3,Supplemental protocol,1,/public/data/computer_science/Computer_Networks/2005/xml/45.xml
+10.1016/j.comnet.2005.01.007,4,Alternative approach for reducing unreachable destinations,2,/public/data/computer_science/Computer_Networks/2005/xml/45.xml
+10.1016/j.comnet.2005.01.007,5,Simulation,3,/public/data/computer_science/Computer_Networks/2005/xml/45.xml
+10.1016/j.comnet.2005.01.007,6,Conclusion,4,/public/data/computer_science/Computer_Networks/2005/xml/45.xml
+10.1016/j.ijhcs.2011.07.001,0,Introduction,0,/public/data/computer_science/International_Journal_of_Human-Computer_Studies/2011/xml/67.xml
+10.1016/j.ijhcs.2011.07.001,1,Background,1,/public/data/computer_science/International_Journal_of_Human-Computer_Studies/2011/xml/67.xml
+10.1016/j.ijhcs.2011.07.001,2,Proposed agent system,2,/public/data/computer_science/International_Journal_of_Human-Computer_Studies/2011/xml/67.xml
+10.1016/j.ijhcs.2011.07.001,3,SaliencyMap agent: saliency map calculation,2,/public/data/computer_science/International_Journal_of_Human-Computer_Studies/2011/xml/67.xml
+10.1016/j.ijhcs.2011.07.001,4,Advertisement inclusion,2,/public/data/computer_science/International_Journal_of_Human-Computer_Studies/2011/xml/67.xml
+10.1016/j.ijhcs.2011.07.001,5,Experimentation,3,/public/data/computer_science/International_Journal_of_Human-Computer_Studies/2011/xml/67.xml
+10.1016/j.ijhcs.2011.07.001,6,Discussion,4,/public/data/computer_science/International_Journal_of_Human-Computer_Studies/2011/xml/67.xml
+10.1016/j.ijhcs.2011.07.001,7,Conclusions and future lines,4,/public/data/computer_science/International_Journal_of_Human-Computer_Studies/2011/xml/67.xml
+10.1016/j.ijepes.2009.09.012,0,Introduction,0,/public/data/computer_science/International_Journal_of_Electrical_Power___Energy_Systems/2010/xml/401.xml
+10.1016/j.ijepes.2009.09.012,1,Experimental set up,2,/public/data/computer_science/International_Journal_of_Electrical_Power___Energy_Systems/2010/xml/401.xml
+10.1016/j.ijepes.2009.09.012,2,Proposed fuzzy logic models,2,/public/data/computer_science/International_Journal_of_Electrical_Power___Energy_Systems/2010/xml/401.xml
+10.1016/j.ijepes.2009.09.012,3,Results and discussions,3,/public/data/computer_science/International_Journal_of_Electrical_Power___Energy_Systems/2010/xml/401.xml
+10.1016/j.ijepes.2009.09.012,4,Conclusion,4,/public/data/computer_science/International_Journal_of_Electrical_Power___Energy_Systems/2010/xml/401.xml
+10.1016/j.csda.2004.01.006,0,Introduction,0,/public/data/computer_science/Computational_Statistics___Data_Analysis/2002/xml/388.xml
+10.1016/j.csda.2004.01.006,1,Estimating for FDR controlling procedures,2,/public/data/computer_science/Computational_Statistics___Data_Analysis/2002/xml/388.xml
+10.1016/j.csda.2004.01.006,2,Simulation experiment,3,/public/data/computer_science/Computational_Statistics___Data_Analysis/2002/xml/388.xml
+10.1016/j.csda.2004.01.006,3,Experimental results,3,/public/data/computer_science/Computational_Statistics___Data_Analysis/2002/xml/388.xml
+10.1016/j.csda.2004.01.006,4,Concluding remarks,4,/public/data/computer_science/Computational_Statistics___Data_Analysis/2002/xml/388.xml
+10.1016/j.envsoft.2007.03.006,0,Introduction,0,/public/data/computer_science/Environmental_Modelling___Software/2008/xml/95.xml
+10.1016/j.envsoft.2007.03.006,1,Description of the OSCAR System,1,/public/data/computer_science/Environmental_Modelling___Software/2008/xml/95.xml
+10.1016/j.envsoft.2007.03.006,2,Model evaluation methodology,2,/public/data/computer_science/Environmental_Modelling___Software/2008/xml/95.xml
+10.1016/j.envsoft.2007.03.006,3,Results and discussions,3,/public/data/computer_science/Environmental_Modelling___Software/2008/xml/95.xml
+10.1016/j.envsoft.2007.03.006,4,Conclusions,4,/public/data/computer_science/Environmental_Modelling___Software/2008/xml/95.xml
+10.1016/S0305-0548(99)00152-5,0,Introduction,0,/public/data/computer_science/Computers___Operations_Research/2001/xml/46.xml
+10.1016/S0305-0548(99)00152-5,1,Monotonicity and concavity of value functions,1,/public/data/computer_science/Computers___Operations_Research/2001/xml/46.xml
+10.1016/S0305-0548(99)00152-5,2,Shape-preserving interpolation,2,/public/data/computer_science/Computers___Operations_Research/2001/xml/46.xml
+10.1016/S0305-0548(99)00152-5,3,A numerical experiment,3,/public/data/computer_science/Computers___Operations_Research/2001/xml/46.xml
+10.1016/S0305-0548(99)00152-5,4,Conclusion,4,/public/data/computer_science/Computers___Operations_Research/2001/xml/46.xml
+10.1016/S0957-4174(02)00186-0,0,Introduction,0,/public/data/computer_science/Expert_Systems_with_Applications/2003/xml/61.xml
+10.1016/S0957-4174(02)00186-0,1,Web search,1,/public/data/computer_science/Expert_Systems_with_Applications/2003/xml/61.xml
+10.1016/S0957-4174(02)00186-0,2,The proposed system,2,/public/data/computer_science/Expert_Systems_with_Applications/2003/xml/61.xml
+10.1016/S0957-4174(02)00186-0,3,Experiments and results,3,/public/data/computer_science/Expert_Systems_with_Applications/2003/xml/61.xml
+10.1016/S0957-4174(02)00186-0,4,Conclusion and future work,4,/public/data/computer_science/Expert_Systems_with_Applications/2003/xml/61.xml
+10.1016/j.eswa.2006.05.033,0,Introduction,0,/public/data/computer_science/Expert_Systems_with_Applications/2007/xml/343.xml
+10.1016/j.eswa.2006.05.033,1,Related work,1,/public/data/computer_science/Expert_Systems_with_Applications/2007/xml/343.xml
+10.1016/j.eswa.2006.05.033,2,Geometric representations of feature-associations,2,/public/data/computer_science/Expert_Systems_with_Applications/2007/xml/343.xml
+10.1016/j.eswa.2006.05.033,3,Algorithm,2,/public/data/computer_science/Expert_Systems_with_Applications/2007/xml/343.xml
+10.1016/j.eswa.2006.05.033,4,Experimental results,3,/public/data/computer_science/Expert_Systems_with_Applications/2007/xml/343.xml
+10.1016/j.eswa.2006.05.033,5,Conclusion,4,/public/data/computer_science/Expert_Systems_with_Applications/2007/xml/343.xml
+10.1016/j.envsoft.2013.11.002,0,Introduction,0,/public/data/computer_science/Environmental_Modelling___Software/2014/xml/46.xml
+10.1016/j.envsoft.2013.11.002,1,Methodology of parallel computing,2,/public/data/computer_science/Environmental_Modelling___Software/2014/xml/46.xml
+10.1016/j.envsoft.2013.11.002,2,Results and discussion,3,/public/data/computer_science/Environmental_Modelling___Software/2014/xml/46.xml
+10.1016/j.envsoft.2013.11.002,3,Conclusion,4,/public/data/computer_science/Environmental_Modelling___Software/2014/xml/46.xml
+10.1016/j.adhoc.2008.05.004,0,Introduction,0,/public/data/computer_science/Ad_Hoc_Networks/2009/xml/77.xml
+10.1016/j.adhoc.2008.05.004,1,Related work and motivation,1,/public/data/computer_science/Ad_Hoc_Networks/2009/xml/77.xml
+10.1016/j.adhoc.2008.05.004,2,Model background,1,/public/data/computer_science/Ad_Hoc_Networks/2009/xml/77.xml
+10.1016/j.adhoc.2008.05.004,3,Interference model,2,/public/data/computer_science/Ad_Hoc_Networks/2009/xml/77.xml
+10.1016/j.adhoc.2008.05.004,4,Collision model,2,/public/data/computer_science/Ad_Hoc_Networks/2009/xml/77.xml
+10.1016/j.adhoc.2008.05.004,5,Energy model,2,/public/data/computer_science/Ad_Hoc_Networks/2009/xml/77.xml
+10.1016/j.adhoc.2008.05.004,6,Results and analysis,3,/public/data/computer_science/Ad_Hoc_Networks/2009/xml/77.xml
+10.1016/j.adhoc.2008.05.004,7,Model verification,3,/public/data/computer_science/Ad_Hoc_Networks/2009/xml/77.xml
+10.1016/j.adhoc.2008.05.004,8,Conclusion,4,/public/data/computer_science/Ad_Hoc_Networks/2009/xml/77.xml
+10.1016/j.apergo.2008.02.022,0,Introduction,0,/public/data/computer_science/Applied_Ergonomics/2008/xml/44.xml
+10.1016/j.apergo.2008.02.022,1,Methods,2,/public/data/computer_science/Applied_Ergonomics/2008/xml/44.xml
+10.1016/j.apergo.2008.02.022,2,Results,3,/public/data/computer_science/Applied_Ergonomics/2008/xml/44.xml
+10.1016/j.apergo.2008.02.022,3,Discussion,4,/public/data/computer_science/Applied_Ergonomics/2008/xml/44.xml
+10.1016/j.bspc.2013.06.002,0,Introduction,0,/public/data/computer_science/Biomedical_Signal_Processing_and_Control/2013/xml/13.xml
+10.1016/j.bspc.2013.06.002,1,Materials and methods,2,/public/data/computer_science/Biomedical_Signal_Processing_and_Control/2013/xml/13.xml
+10.1016/j.bspc.2013.06.002,2,Results,3,/public/data/computer_science/Biomedical_Signal_Processing_and_Control/2013/xml/13.xml
+10.1016/j.bspc.2013.06.002,3,Conclusion,4,/public/data/computer_science/Biomedical_Signal_Processing_and_Control/2013/xml/13.xml
+10.1016/j.bspc.2013.06.002,4,Competing interests,-1,/public/data/computer_science/Biomedical_Signal_Processing_and_Control/2013/xml/13.xml
+10.1016/j.bspc.2013.06.002,5,Ethical approval,-1,/public/data/computer_science/Biomedical_Signal_Processing_and_Control/2013/xml/13.xml
+10.1016/j.chb.2005.01.001,0,Introduction,0,/public/data/computer_science/Computers_in_Human_Behavior/2006/xml/72.xml
+10.1016/j.chb.2005.01.001,1,Method,2,/public/data/computer_science/Computers_in_Human_Behavior/2006/xml/72.xml
+10.1016/j.chb.2005.01.001,2,Results,3,/public/data/computer_science/Computers_in_Human_Behavior/2006/xml/72.xml
+10.1016/j.chb.2005.01.001,3,Discussion,4,/public/data/computer_science/Computers_in_Human_Behavior/2006/xml/72.xml
+10.1016/j.cad.2012.10.012,0,Introduction,0,/public/data/computer_science/Computer-Aided_Design/2013/xml/121.xml
+10.1016/j.cad.2012.10.012,1,Background and problem definition,1,/public/data/computer_science/Computer-Aided_Design/2013/xml/121.xml
+10.1016/j.cad.2012.10.012,2,Prior art,1,/public/data/computer_science/Computer-Aided_Design/2013/xml/121.xml
+10.1016/j.cad.2012.10.012,3,Revisiting interior exterior classification rules,2,/public/data/computer_science/Computer-Aided_Design/2013/xml/121.xml
+10.1016/j.cad.2012.10.012,4,The rendering algorithm,2,/public/data/computer_science/Computer-Aided_Design/2013/xml/121.xml
+10.1016/j.cad.2012.10.012,5,Implementation and results,3,/public/data/computer_science/Computer-Aided_Design/2013/xml/121.xml
+10.1016/j.cad.2012.10.012,6,Conclusions and future work,4,/public/data/computer_science/Computer-Aided_Design/2013/xml/121.xml
+10.1016/j.dam.2009.09.021,0,Introduction,0,/public/data/computer_science/Discrete_Applied_Mathematics/2005/xml/472.xml
+10.1016/j.dam.2009.09.021,1,Preliminary results,3,/public/data/computer_science/Discrete_Applied_Mathematics/2005/xml/472.xml
+10.1016/j.dam.2009.09.021,2,The nonidealness index of rank-ideal matrices,2,/public/data/computer_science/Discrete_Applied_Mathematics/2005/xml/472.xml
+10.1016/j.dam.2009.09.021,3,Circulant matrices,2,/public/data/computer_science/Discrete_Applied_Mathematics/2005/xml/472.xml
+10.1016/j.dam.2009.09.021,4,The relation between the nonidealness index and the strength of facets,2,/public/data/computer_science/Discrete_Applied_Mathematics/2005/xml/472.xml
+10.1016/j.dam.2009.09.021,5,Concluding remarks,4,/public/data/computer_science/Discrete_Applied_Mathematics/2005/xml/472.xml
+10.1016/j.simpat.2012.03.001,0,Introduction,0,/public/data/computer_science/Simulation_Modelling_Practice_and_Theory/2012/xml/52.xml
+10.1016/j.simpat.2012.03.001,1,Mathematical model of SR motor,2,/public/data/computer_science/Simulation_Modelling_Practice_and_Theory/2012/xml/52.xml
+10.1016/j.simpat.2012.03.001,2,Second Order Sliding Mode (SOSM),2,/public/data/computer_science/Simulation_Modelling_Practice_and_Theory/2012/xml/52.xml
+10.1016/j.simpat.2012.03.001,3,Sliding mode controller design,2,/public/data/computer_science/Simulation_Modelling_Practice_and_Theory/2012/xml/52.xml
+10.1016/j.simpat.2012.03.001,4,Simulation results and discussions,3,/public/data/computer_science/Simulation_Modelling_Practice_and_Theory/2012/xml/52.xml
+10.1016/j.simpat.2012.03.001,5,Conclusion,4,/public/data/computer_science/Simulation_Modelling_Practice_and_Theory/2012/xml/52.xml
+10.1016/j.ejor.2005.02.044,0,Introduction,0,/public/data/computer_science/European_Journal_of_Operational_Research/2006/xml/798.xml
+10.1016/j.ejor.2005.02.044,1,Previous studies of efficiency in higher education,1,/public/data/computer_science/European_Journal_of_Operational_Research/2006/xml/798.xml
+10.1016/j.ejor.2005.02.044,2,Methodology,2,/public/data/computer_science/European_Journal_of_Operational_Research/2006/xml/798.xml
+10.1016/j.ejor.2005.02.044,3,"Outputs, inputs and data",3,/public/data/computer_science/European_Journal_of_Operational_Research/2006/xml/798.xml
+10.1016/j.ejor.2005.02.044,4,Results,3,/public/data/computer_science/European_Journal_of_Operational_Research/2006/xml/798.xml
+10.1016/j.ejor.2005.02.044,5,Conclusion,4,/public/data/computer_science/European_Journal_of_Operational_Research/2006/xml/798.xml
+10.1016/S0167-8655(01)00054-X,0,Introduction,0,/public/data/computer_science/Pattern_Recognition_Letters/2001/xml/134.xml
+10.1016/S0167-8655(01)00054-X,1,Definition and notation,2,/public/data/computer_science/Pattern_Recognition_Letters/2001/xml/134.xml
+10.1016/S0167-8655(01)00054-X,2,Robust parameter estimation,2,/public/data/computer_science/Pattern_Recognition_Letters/2001/xml/134.xml
+10.1016/S0167-8655(01)00054-X,3,Computation of GM estimate and its theoretical convergence,2,/public/data/computer_science/Pattern_Recognition_Letters/2001/xml/134.xml
+10.1016/S0167-8655(01)00054-X,4,Restoration algorithm,2,/public/data/computer_science/Pattern_Recognition_Letters/2001/xml/134.xml
+10.1016/S0167-8655(01)00054-X,5,Experimental results,3,/public/data/computer_science/Pattern_Recognition_Letters/2001/xml/134.xml
+10.1016/S0167-8655(01)00054-X,6,Conclusions,4,/public/data/computer_science/Pattern_Recognition_Letters/2001/xml/134.xml
+10.1016/S0026-2692(01)00030-1,0,Introduction,0,/public/data/computer_science/Microelectronics_Journal/2001/xml/45.xml
+10.1016/S0026-2692(01)00030-1,1,Experimental details,3,/public/data/computer_science/Microelectronics_Journal/2001/xml/45.xml
+10.1016/S0026-2692(01)00030-1,2,Results and discussion,3,/public/data/computer_science/Microelectronics_Journal/2001/xml/45.xml
+10.1016/S0026-2692(01)00030-1,3,Conclusions,4,/public/data/computer_science/Microelectronics_Journal/2001/xml/45.xml
+10.1016/j.jmgm.2010.01.011,0,Introduction,0,/public/data/computer_science/Journal_of_Molecular_Graphics_and_Modelling/2009/xml/4.xml
+10.1016/j.jmgm.2010.01.011,1,Computational details,2,/public/data/computer_science/Journal_of_Molecular_Graphics_and_Modelling/2009/xml/4.xml
+10.1016/j.jmgm.2010.01.011,2,Molecular structures,2,/public/data/computer_science/Journal_of_Molecular_Graphics_and_Modelling/2009/xml/4.xml
+10.1016/j.jmgm.2010.01.011,3,Results and discussion,3,/public/data/computer_science/Journal_of_Molecular_Graphics_and_Modelling/2009/xml/4.xml
+10.1016/j.jmgm.2010.01.011,4,Conclusions,4,/public/data/computer_science/Journal_of_Molecular_Graphics_and_Modelling/2009/xml/4.xml
+10.1016/j.ejor.2005.02.066,0,Introduction,0,/public/data/computer_science/European_Journal_of_Operational_Research/2006/xml/773.xml
+10.1016/j.ejor.2005.02.066,1,An improved hill climbing algorithm,2,/public/data/computer_science/European_Journal_of_Operational_Research/2006/xml/773.xml
+10.1016/j.ejor.2005.02.066,2,Using a genetic algorithm,2,/public/data/computer_science/European_Journal_of_Operational_Research/2006/xml/773.xml
+10.1016/j.ejor.2005.02.066,3,Using node adjustments,2,/public/data/computer_science/European_Journal_of_Operational_Research/2006/xml/773.xml
+10.1016/j.ejor.2005.02.066,4,Computational experiments,3,/public/data/computer_science/European_Journal_of_Operational_Research/2006/xml/773.xml
+10.1016/j.ejor.2005.02.066,5,Conclusions,4,/public/data/computer_science/European_Journal_of_Operational_Research/2006/xml/773.xml
+10.1016/j.cma.2012.10.002,0,Introduction,0,/public/data/computer_science/Computer_Methods_in_Applied_Mechanics_and_Engineering/2013/xml/320.xml
+10.1016/j.cma.2012.10.002,1,Description of the plate problem,2,/public/data/computer_science/Computer_Methods_in_Applied_Mechanics_and_Engineering/2013/xml/320.xml
+10.1016/j.cma.2012.10.002,2,The finite element approximations: the triangular six-node FE,2,/public/data/computer_science/Computer_Methods_in_Applied_Mechanics_and_Engineering/2013/xml/320.xml
+10.1016/j.cma.2012.10.002,3,The numerical results,3,/public/data/computer_science/Computer_Methods_in_Applied_Mechanics_and_Engineering/2013/xml/320.xml
+10.1016/j.cma.2012.10.002,4,Conclusion,4,/public/data/computer_science/Computer_Methods_in_Applied_Mechanics_and_Engineering/2013/xml/320.xml
+10.1016/j.microrel.2010.09.016,0,Introduction,0,/public/data/computer_science/Microelectronics_Reliability/2011/xml/809.xml
+10.1016/j.microrel.2010.09.016,1,Experimental details,3,/public/data/computer_science/Microelectronics_Reliability/2011/xml/809.xml
+10.1016/j.microrel.2010.09.016,2,Results and discussion,3,/public/data/computer_science/Microelectronics_Reliability/2011/xml/809.xml
+10.1016/j.microrel.2010.09.016,3,Conclusion,4,/public/data/computer_science/Microelectronics_Reliability/2011/xml/809.xml
+10.1016/S0923-5965(01)00008-X,0,Introduction,0,/public/data/computer_science/Signal_Processing__Image_Communication/2000/xml/19.xml
+10.1016/S0923-5965(01)00008-X,1,WaveVideo coding method,2,/public/data/computer_science/Signal_Processing__Image_Communication/2000/xml/19.xml
+10.1016/S0923-5965(01)00008-X,2,Filter operations,2,/public/data/computer_science/Signal_Processing__Image_Communication/2000/xml/19.xml
+10.1016/S0923-5965(01)00008-X,3,Evaluation of filter operations,3,/public/data/computer_science/Signal_Processing__Image_Communication/2000/xml/19.xml
+10.1016/S0923-5965(01)00008-X,4,Conclusions and future research,4,/public/data/computer_science/Signal_Processing__Image_Communication/2000/xml/19.xml
+10.1016/S0923-5965(01)00008-X,5,Uncited reference,-1,/public/data/computer_science/Signal_Processing__Image_Communication/2000/xml/19.xml
+10.1016/j.apergo.2011.11.008,0,Introduction,0,/public/data/computer_science/Applied_Ergonomics/2012/xml/58.xml
+10.1016/j.apergo.2011.11.008,1,Materials and methods,2,/public/data/computer_science/Applied_Ergonomics/2012/xml/58.xml
+10.1016/j.apergo.2011.11.008,2,Results,3,/public/data/computer_science/Applied_Ergonomics/2012/xml/58.xml
+10.1016/j.apergo.2011.11.008,3,Discussion,4,/public/data/computer_science/Applied_Ergonomics/2012/xml/58.xml
+10.1016/j.apergo.2011.11.008,4,Conclusions,4,/public/data/computer_science/Applied_Ergonomics/2012/xml/58.xml
+10.1016/j.im.2008.03.002,0,Introduction,0,/public/data/computer_science/Information___Management/2008/xml/34.xml
+10.1016/j.im.2008.03.002,1,The new paradigm in information industries according to IEC,1,/public/data/computer_science/Information___Management/2008/xml/34.xml
+10.1016/j.im.2008.03.002,2,Extant work and hypothesis development,1,/public/data/computer_science/Information___Management/2008/xml/34.xml
+10.1016/j.im.2008.03.002,3,Data and methodology,2,/public/data/computer_science/Information___Management/2008/xml/34.xml
+10.1016/j.im.2008.03.002,4,Empirical results,3,/public/data/computer_science/Information___Management/2008/xml/34.xml
+10.1016/j.im.2008.03.002,5,Summary and conclusions,4,/public/data/computer_science/Information___Management/2008/xml/34.xml
+10.1016/S0026-2714(97)00230-8,0,Introduction,0,/public/data/computer_science/Microelectronics_Reliability/1991/xml/411.xml
+10.1016/S0026-2714(97)00230-8,1,Model,2,/public/data/computer_science/Microelectronics_Reliability/1991/xml/411.xml
+10.1016/S0026-2714(97)00230-8,2,Results,3,/public/data/computer_science/Microelectronics_Reliability/1991/xml/411.xml
+10.1016/S0026-2714(97)00230-8,3,Conclusions,4,/public/data/computer_science/Microelectronics_Reliability/1991/xml/411.xml
+10.1016/j.cmpb.2006.11.006,0,Introduction,0,/public/data/computer_science/Computer_Methods_and_Programs_in_Biomedicine/2006/xml/172.xml
+10.1016/j.cmpb.2006.11.006,1,"Materials, rat muscle culture and microscopy",2,/public/data/computer_science/Computer_Methods_and_Programs_in_Biomedicine/2006/xml/172.xml
+10.1016/j.cmpb.2006.11.006,2,Computational method,2,/public/data/computer_science/Computer_Methods_and_Programs_in_Biomedicine/2006/xml/172.xml
+10.1016/j.cmpb.2006.11.006,3,Results,3,/public/data/computer_science/Computer_Methods_and_Programs_in_Biomedicine/2006/xml/172.xml
+10.1016/j.cmpb.2006.11.006,4,Discussion,4,/public/data/computer_science/Computer_Methods_and_Programs_in_Biomedicine/2006/xml/172.xml
+10.1016/j.jsis.2009.05.002,0,Introduction,0,/public/data/computer_science/The_Journal_of_Strategic_Information_Systems/2009/xml/19.xml
+10.1016/j.jsis.2009.05.002,1,IT-enabled competitive positioning: a critical review,1,/public/data/computer_science/The_Journal_of_Strategic_Information_Systems/2009/xml/19.xml
+10.1016/j.jsis.2009.05.002,2,Research framework,2,/public/data/computer_science/The_Journal_of_Strategic_Information_Systems/2009/xml/19.xml
+10.1016/j.jsis.2009.05.002,3,Research methods,2,/public/data/computer_science/The_Journal_of_Strategic_Information_Systems/2009/xml/19.xml
+10.1016/j.jsis.2009.05.002,4,Research results,3,/public/data/computer_science/The_Journal_of_Strategic_Information_Systems/2009/xml/19.xml
+10.1016/j.jsis.2009.05.002,5,"Discussion: contribution, implications and limitations",4,/public/data/computer_science/The_Journal_of_Strategic_Information_Systems/2009/xml/19.xml
+10.1016/j.cag.2009.05.003,0,Introduction,0,/public/data/computer_science/Computers___Graphics/2009/xml/5.xml
+10.1016/j.cag.2009.05.003,1,Preliminaries,0,/public/data/computer_science/Computers___Graphics/2009/xml/5.xml
+10.1016/j.cag.2009.05.003,2,A special class of non-linear iterated function systems,2,/public/data/computer_science/Computers___Graphics/2009/xml/5.xml
+10.1016/j.cag.2009.05.003,3,Cleaning attractors and patterns with sth order restriction and domain restriction,3,/public/data/computer_science/Computers___Graphics/2009/xml/5.xml
+10.1016/j.cag.2009.05.003,4,Discussion,4,/public/data/computer_science/Computers___Graphics/2009/xml/5.xml
+10.1016/j.sigpro.2012.09.021,0,Introduction,0,/public/data/computer_science/Signal_Processing/2011/xml/458.xml
+10.1016/j.sigpro.2012.09.021,1,Brief review on spline interpolation scheme,1,/public/data/computer_science/Signal_Processing/2011/xml/458.xml
+10.1016/j.sigpro.2012.09.021,2,Spline adaptive filter,2,/public/data/computer_science/Signal_Processing/2011/xml/458.xml
+10.1016/j.sigpro.2012.09.021,3,Convergence properties,2,/public/data/computer_science/Signal_Processing/2011/xml/458.xml
+10.1016/j.sigpro.2012.09.021,4,Experimental results,3,/public/data/computer_science/Signal_Processing/2011/xml/458.xml
+10.1016/j.sigpro.2012.09.021,5,Conclusion,4,/public/data/computer_science/Signal_Processing/2011/xml/458.xml
+10.1016/j.jvcir.2008.04.001,0,Introduction,0,/public/data/computer_science/Journal_of_Visual_Communication_and_Image_Representation/2008/xml/102.xml
+10.1016/j.jvcir.2008.04.001,1,Face segmentation algorithm,2,/public/data/computer_science/Journal_of_Visual_Communication_and_Image_Representation/2008/xml/102.xml
+10.1016/j.jvcir.2008.04.001,2,Tracking based face segmentation,2,/public/data/computer_science/Journal_of_Visual_Communication_and_Image_Representation/2008/xml/102.xml
+10.1016/j.jvcir.2008.04.001,3,Segmentation experiments,3,/public/data/computer_science/Journal_of_Visual_Communication_and_Image_Representation/2008/xml/102.xml
+10.1016/j.jvcir.2008.04.001,4,Conclusion,4,/public/data/computer_science/Journal_of_Visual_Communication_and_Image_Representation/2008/xml/102.xml
+10.1016/j.neucom.2011.05.006,0,Introduction,,/public/data/computer_science/Neurocomputing/2007/xml/216.xml
+10.1016/j.neucom.2011.05.006,1,Overview of the tracking algorithm,0,/public/data/computer_science/Neurocomputing/2007/xml/216.xml
+10.1016/j.neucom.2011.05.006,2,The proposed appearance model,1,/public/data/computer_science/Neurocomputing/2007/xml/216.xml
+10.1016/j.neucom.2011.05.006,3,Particle filtering-based tracking framework,2,/public/data/computer_science/Neurocomputing/2007/xml/216.xml
+10.1016/j.neucom.2011.05.006,4,Experimental results,3,/public/data/computer_science/Neurocomputing/2007/xml/216.xml
+10.1016/j.neucom.2011.05.006,5,Conclusion,4,/public/data/computer_science/Neurocomputing/2007/xml/216.xml
+10.1016/S0377-2217(98)00376-2,0,Introduction,0,/public/data/computer_science/European_Journal_of_Operational_Research/1998/xml/28.xml
+10.1016/S0377-2217(98)00376-2,1,Problem description,2,/public/data/computer_science/European_Journal_of_Operational_Research/1998/xml/28.xml
+10.1016/S0377-2217(98)00376-2,2,Algorithm FBEST,2,/public/data/computer_science/European_Journal_of_Operational_Research/1998/xml/28.xml
+10.1016/S0377-2217(98)00376-2,3,A generalization,2,/public/data/computer_science/European_Journal_of_Operational_Research/1998/xml/28.xml
+10.1016/S0377-2217(98)00376-2,4,Conclusion and directions for future research,4,/public/data/computer_science/European_Journal_of_Operational_Research/1998/xml/28.xml
+10.1016/j.jmgm.2010.11.009,0,Introduction,0,/public/data/computer_science/Journal_of_Molecular_Graphics_and_Modelling/2010/xml/43.xml
+10.1016/j.jmgm.2010.11.009,1,Materials and methods,2,/public/data/computer_science/Journal_of_Molecular_Graphics_and_Modelling/2010/xml/43.xml
+10.1016/j.jmgm.2010.11.009,2,Results and discussion,3,/public/data/computer_science/Journal_of_Molecular_Graphics_and_Modelling/2010/xml/43.xml
+10.1016/j.jmgm.2010.11.009,3,Conclusion,4,/public/data/computer_science/Journal_of_Molecular_Graphics_and_Modelling/2010/xml/43.xml
+10.1016/j.artmed.2011.09.006,0,Introduction,0,/public/data/computer_science/Artificial_Intelligence_in_Medicine/2011/xml/132.xml
+10.1016/j.artmed.2011.09.006,1,Methods,2,/public/data/computer_science/Artificial_Intelligence_in_Medicine/2011/xml/132.xml
+10.1016/j.artmed.2011.09.006,2,Results,3,/public/data/computer_science/Artificial_Intelligence_in_Medicine/2011/xml/132.xml
+10.1016/j.artmed.2011.09.006,3,Discussion,4,/public/data/computer_science/Artificial_Intelligence_in_Medicine/2011/xml/132.xml
+10.1016/j.artmed.2011.09.006,4,Conclusions,4,/public/data/computer_science/Artificial_Intelligence_in_Medicine/2011/xml/132.xml
+10.1016/j.artmed.2011.09.006,5,Conflict of interest,-1,/public/data/computer_science/Artificial_Intelligence_in_Medicine/2011/xml/132.xml
+10.1016/j.im.2008.05.003,0,Introduction,0,/public/data/computer_science/Information___Management/2008/xml/11.xml
+10.1016/j.im.2008.05.003,1,Background,1,/public/data/computer_science/Information___Management/2008/xml/11.xml
+10.1016/j.im.2008.05.003,2,Methodology,2,/public/data/computer_science/Information___Management/2008/xml/11.xml
+10.1016/j.im.2008.05.003,3,Results,3,/public/data/computer_science/Information___Management/2008/xml/11.xml
+10.1016/j.im.2008.05.003,4,Conclusion,4,/public/data/computer_science/Information___Management/2008/xml/11.xml
+10.1016/j.comcom.2004.03.001,0,Introduction,0,/public/data/computer_science/Computer_Communications/2004/xml/63.xml
+10.1016/j.comcom.2004.03.001,1,Related work,1,/public/data/computer_science/Computer_Communications/2004/xml/63.xml
+10.1016/j.comcom.2004.03.001,2,System design and implementation,2,/public/data/computer_science/Computer_Communications/2004/xml/63.xml
+10.1016/j.comcom.2004.03.001,3,Performance evaluation,3,/public/data/computer_science/Computer_Communications/2004/xml/63.xml
+10.1016/j.comcom.2004.03.001,4,Conclusion and future work,4,/public/data/computer_science/Computer_Communications/2004/xml/63.xml
+10.1016/j.engappai.2004.08.009,0,Introduction,0,/public/data/computer_science/Engineering_Applications_of_Artificial_Intelligence/2004/xml/4.xml
+10.1016/j.engappai.2004.08.009,1,FNN methodology,2,/public/data/computer_science/Engineering_Applications_of_Artificial_Intelligence/2004/xml/4.xml
+10.1016/j.engappai.2004.08.009,2,Design of fuzzy-neural systems through symbiotic evolution,2,/public/data/computer_science/Engineering_Applications_of_Artificial_Intelligence/2004/xml/4.xml
+10.1016/j.engappai.2004.08.009,3,Vibration signal measurements and sample selection,3,/public/data/computer_science/Engineering_Applications_of_Artificial_Intelligence/2004/xml/4.xml
+10.1016/j.engappai.2004.08.009,4,Results,3,/public/data/computer_science/Engineering_Applications_of_Artificial_Intelligence/2004/xml/4.xml
+10.1016/j.engappai.2004.08.009,5,Conclusion,4,/public/data/computer_science/Engineering_Applications_of_Artificial_Intelligence/2004/xml/4.xml
+10.1016/j.neunet.2012.07.006,0,Introduction,0,/public/data/computer_science/Neural_Networks/2013/xml/143.xml
+10.1016/j.neunet.2012.07.006,1,Invariance by rank list comparison,2,/public/data/computer_science/Neural_Networks/2013/xml/143.xml
+10.1016/j.neunet.2012.07.006,2,Rank list comparison by a spiking neural network,2,/public/data/computer_science/Neural_Networks/2013/xml/143.xml
+10.1016/j.neunet.2012.07.006,3,Experiments and results,3,/public/data/computer_science/Neural_Networks/2013/xml/143.xml
+10.1016/j.neunet.2012.07.006,4,Discussion,4,/public/data/computer_science/Neural_Networks/2013/xml/143.xml
+10.1016/j.mee.2011.04.041,0,Introduction,0,/public/data/computer_science/Microelectronic_Engineering/2005/xml/45.xml
+10.1016/j.mee.2011.04.041,1,Methodology,2,/public/data/computer_science/Microelectronic_Engineering/2005/xml/45.xml
+10.1016/j.mee.2011.04.041,2,Results and discussion,3,/public/data/computer_science/Microelectronic_Engineering/2005/xml/45.xml
+10.1016/j.mee.2011.04.041,3,Conclusions,4,/public/data/computer_science/Microelectronic_Engineering/2005/xml/45.xml
+10.1016/S0026-2714(97)00054-1,0,Introduction,0,/public/data/computer_science/Microelectronics_Reliability/1991/xml/475.xml
+10.1016/S0026-2714(97)00054-1,1,Technologies and devices,2,/public/data/computer_science/Microelectronics_Reliability/1991/xml/475.xml
+10.1016/S0026-2714(97)00054-1,2,Stress conditions and reliability measurements,3,/public/data/computer_science/Microelectronics_Reliability/1991/xml/475.xml
+10.1016/S0026-2714(97)00054-1,3,Experimental results,3,/public/data/computer_science/Microelectronics_Reliability/1991/xml/475.xml
+10.1016/S0026-2714(97)00054-1,4,Conclusions,4,/public/data/computer_science/Microelectronics_Reliability/1991/xml/475.xml
+10.1016/j.jcp.2010.07.019,0,Introduction,0,/public/data/computer_science/Journal_of_Computational_Physics/2007/xml/590.xml
+10.1016/j.jcp.2010.07.019,1,Governing equations,1,/public/data/computer_science/Journal_of_Computational_Physics/2007/xml/590.xml
+10.1016/j.jcp.2010.07.019,2,Numerical algorithm,2,/public/data/computer_science/Journal_of_Computational_Physics/2007/xml/590.xml
+10.1016/j.jcp.2010.07.019,3,Numerical results,3,/public/data/computer_science/Journal_of_Computational_Physics/2007/xml/590.xml
+10.1016/j.jcp.2010.07.019,4,Conclusion,4,/public/data/computer_science/Journal_of_Computational_Physics/2007/xml/590.xml
+10.1016/j.csda.2013.03.002,0,Introduction,0,/public/data/computer_science/Computational_Statistics___Data_Analysis/2014/xml/105.xml
+10.1016/j.csda.2013.03.002,1,Prior distribution,1,/public/data/computer_science/Computational_Statistics___Data_Analysis/2014/xml/105.xml
+10.1016/j.csda.2013.03.002,2,The Markov chain Monte Carlo sampler,2,/public/data/computer_science/Computational_Statistics___Data_Analysis/2014/xml/105.xml
+10.1016/j.csda.2013.03.002,3,Simulation results,3,/public/data/computer_science/Computational_Statistics___Data_Analysis/2014/xml/105.xml
+10.1016/j.csda.2013.03.002,4,Numerical considerations,3,/public/data/computer_science/Computational_Statistics___Data_Analysis/2014/xml/105.xml
+10.1016/j.csda.2013.03.002,5,Concluding remarks,4,/public/data/computer_science/Computational_Statistics___Data_Analysis/2014/xml/105.xml
+10.1016/j.ijepes.2011.10.014,0,Introduction,0,/public/data/computer_science/International_Journal_of_Electrical_Power___Energy_Systems/2012/xml/315.xml
+10.1016/j.ijepes.2011.10.014,1,Problem description,2,/public/data/computer_science/International_Journal_of_Electrical_Power___Energy_Systems/2012/xml/315.xml
+10.1016/j.ijepes.2011.10.014,2,The proposed possibilistic mathematical model,2,/public/data/computer_science/International_Journal_of_Electrical_Power___Energy_Systems/2012/xml/315.xml
+10.1016/j.ijepes.2011.10.014,3,The proposed solution method,2,/public/data/computer_science/International_Journal_of_Electrical_Power___Energy_Systems/2012/xml/315.xml
+10.1016/j.ijepes.2011.10.014,4,Case study,3,/public/data/computer_science/International_Journal_of_Electrical_Power___Energy_Systems/2012/xml/315.xml
+10.1016/j.ijepes.2011.10.014,5,Concluding remarks,4,/public/data/computer_science/International_Journal_of_Electrical_Power___Energy_Systems/2012/xml/315.xml
+10.1016/S0168-1699(01)00169-7,0,Introduction,0,/public/data/computer_science/Computers_and_Electronics_in_Agriculture/2001/xml/67.xml
+10.1016/S0168-1699(01)00169-7,1,Approach to the problem,2,/public/data/computer_science/Computers_and_Electronics_in_Agriculture/2001/xml/67.xml
+10.1016/S0168-1699(01)00169-7,2,Materials and methods,2,/public/data/computer_science/Computers_and_Electronics_in_Agriculture/2001/xml/67.xml
+10.1016/S0168-1699(01)00169-7,3,Results and discussion,3,/public/data/computer_science/Computers_and_Electronics_in_Agriculture/2001/xml/67.xml
+10.1016/S0168-1699(01)00169-7,4,Conclusions,4,/public/data/computer_science/Computers_and_Electronics_in_Agriculture/2001/xml/67.xml
+10.1016/S0167-9317(03)00391-5,0,Introduction,0,/public/data/computer_science/Microelectronic_Engineering/2002/xml/9.xml
+10.1016/S0167-9317(03)00391-5,1,Quantitation of lithographic performance using -D and -D NMR data,2,/public/data/computer_science/Microelectronic_Engineering/2002/xml/9.xml
+10.1016/S0167-9317(03)00391-5,2,Experimental,3,/public/data/computer_science/Microelectronic_Engineering/2002/xml/9.xml
+10.1016/S0167-9317(03)00391-5,3,Results and discussions,3,/public/data/computer_science/Microelectronic_Engineering/2002/xml/9.xml
+10.1016/S0167-9317(03)00391-5,4,Conclusion,4,/public/data/computer_science/Microelectronic_Engineering/2002/xml/9.xml
+10.1016/S0377-2217(01)00124-2,0,Introduction,0,/public/data/computer_science/European_Journal_of_Operational_Research/2001/xml/150.xml
+10.1016/S0377-2217(01)00124-2,1,Comparison method,2,/public/data/computer_science/European_Journal_of_Operational_Research/2001/xml/150.xml
+10.1016/S0377-2217(01)00124-2,2,Example,3,/public/data/computer_science/European_Journal_of_Operational_Research/2001/xml/150.xml
+10.1016/S0377-2217(01)00124-2,3,Experimental design,3,/public/data/computer_science/European_Journal_of_Operational_Research/2001/xml/150.xml
+10.1016/S0377-2217(01)00124-2,4,Results of experiments,3,/public/data/computer_science/European_Journal_of_Operational_Research/2001/xml/150.xml
+10.1016/S0377-2217(01)00124-2,5,Conclusion,4,/public/data/computer_science/European_Journal_of_Operational_Research/2001/xml/150.xml
+10.1016/j.knosys.2011.11.022,0,Introduction,0,/public/data/computer_science/Knowledge-Based_Systems/2012/xml/217.xml
+10.1016/j.knosys.2011.11.022,1,Simple description of a rating recommendation system,1,/public/data/computer_science/Knowledge-Based_Systems/2012/xml/217.xml
+10.1016/j.knosys.2011.11.022,2,Algorithms,2,/public/data/computer_science/Knowledge-Based_Systems/2012/xml/217.xml
+10.1016/j.knosys.2011.11.022,3,Evaluation criteria,3,/public/data/computer_science/Knowledge-Based_Systems/2012/xml/217.xml
+10.1016/j.knosys.2011.11.022,4,Experimental data,3,/public/data/computer_science/Knowledge-Based_Systems/2012/xml/217.xml
+10.1016/j.knosys.2011.11.022,5,Experiment planning,3,/public/data/computer_science/Knowledge-Based_Systems/2012/xml/217.xml
+10.1016/j.knosys.2011.11.022,6,Results for each algorithm,3,/public/data/computer_science/Knowledge-Based_Systems/2012/xml/217.xml
+10.1016/j.knosys.2011.11.022,7,Overall comparisons among eight algorithms,3,/public/data/computer_science/Knowledge-Based_Systems/2012/xml/217.xml
+10.1016/j.knosys.2011.11.022,8,Conclusion and future work,4,/public/data/computer_science/Knowledge-Based_Systems/2012/xml/217.xml
+10.1016/j.compag.2005.02.012,0,Introduction,0,/public/data/computer_science/Computers_and_Electronics_in_Agriculture/2003/xml/46.xml
+10.1016/j.compag.2005.02.012,1,Methodology,2,/public/data/computer_science/Computers_and_Electronics_in_Agriculture/2003/xml/46.xml
+10.1016/j.compag.2005.02.012,2,Case study,3,/public/data/computer_science/Computers_and_Electronics_in_Agriculture/2003/xml/46.xml
+10.1016/j.compag.2005.02.012,3,Results,3,/public/data/computer_science/Computers_and_Electronics_in_Agriculture/2003/xml/46.xml
+10.1016/j.compag.2005.02.012,4,Discussion,4,/public/data/computer_science/Computers_and_Electronics_in_Agriculture/2003/xml/46.xml
+10.1016/j.patcog.2010.04.028,0,Introduction,0,/public/data/computer_science/Pattern_Recognition/2010/xml/415.xml
+10.1016/j.patcog.2010.04.028,1,Preliminary concepts,1,/public/data/computer_science/Pattern_Recognition/2010/xml/415.xml
+10.1016/j.patcog.2010.04.028,2,Description of the transition method,2,/public/data/computer_science/Pattern_Recognition/2010/xml/415.xml
+10.1016/j.patcog.2010.04.028,3,Design of experiments,3,/public/data/computer_science/Pattern_Recognition/2010/xml/415.xml
+10.1016/j.patcog.2010.04.028,4,Results,3,/public/data/computer_science/Pattern_Recognition/2010/xml/415.xml
+10.1016/j.patcog.2010.04.028,5,Conclusions,4,/public/data/computer_science/Pattern_Recognition/2010/xml/415.xml
+10.1016/j.eswa.2011.09.136,0,Introduction,0,/public/data/computer_science/Expert_Systems_with_Applications/2012/xml/870.xml
+10.1016/j.eswa.2011.09.136,1,Breast segmentation,2,/public/data/computer_science/Expert_Systems_with_Applications/2012/xml/870.xml
+10.1016/j.eswa.2011.09.136,2,Experiment results,3,/public/data/computer_science/Expert_Systems_with_Applications/2012/xml/870.xml
+10.1016/j.eswa.2011.09.136,3,Conclusions,4,/public/data/computer_science/Expert_Systems_with_Applications/2012/xml/870.xml
+10.1016/j.patrec.2007.06.001,0,Introduction,0,/public/data/computer_science/Pattern_Recognition_Letters/2007/xml/46.xml
+10.1016/j.patrec.2007.06.001,1,Experiment setup,3,/public/data/computer_science/Pattern_Recognition_Letters/2007/xml/46.xml
+10.1016/j.patrec.2007.06.001,2,Organization feature parameters by genetic algorithm,2,/public/data/computer_science/Pattern_Recognition_Letters/2007/xml/46.xml
+10.1016/j.patrec.2007.06.001,3,Results and discussion,3,/public/data/computer_science/Pattern_Recognition_Letters/2007/xml/46.xml
+10.1016/j.patrec.2007.06.001,4,Conclusion,4,/public/data/computer_science/Pattern_Recognition_Letters/2007/xml/46.xml
+10.1016/j.chb.2012.02.022,0,Introduction,0,/public/data/computer_science/Computers_in_Human_Behavior/2012/xml/128.xml
+10.1016/j.chb.2012.02.022,1,Theoretical background,1,/public/data/computer_science/Computers_in_Human_Behavior/2012/xml/128.xml
+10.1016/j.chb.2012.02.022,2,Research model and hypothesis,2,/public/data/computer_science/Computers_in_Human_Behavior/2012/xml/128.xml
+10.1016/j.chb.2012.02.022,3,Method,2,/public/data/computer_science/Computers_in_Human_Behavior/2012/xml/128.xml
+10.1016/j.chb.2012.02.022,4,Results,3,/public/data/computer_science/Computers_in_Human_Behavior/2012/xml/128.xml
+10.1016/j.chb.2012.02.022,5,Discussion,4,/public/data/computer_science/Computers_in_Human_Behavior/2012/xml/128.xml
+10.1016/j.sigpro.2010.10.008,0,Introduction,0,/public/data/computer_science/Signal_Processing/2011/xml/987.xml
+10.1016/j.sigpro.2010.10.008,1,The fractional Fourier transform,2,/public/data/computer_science/Signal_Processing/2011/xml/987.xml
+10.1016/j.sigpro.2010.10.008,2,Practical realizations of FRFT,2,/public/data/computer_science/Signal_Processing/2011/xml/987.xml
+10.1016/j.sigpro.2010.10.008,3,Applications,3,/public/data/computer_science/Signal_Processing/2011/xml/987.xml
+10.1016/j.sigpro.2010.10.008,4,Conclusion,4,/public/data/computer_science/Signal_Processing/2011/xml/987.xml
+10.1016/j.comnet.2009.04.014,0,Introduction,0,/public/data/computer_science/Computer_Networks/2009/xml/15.xml
+10.1016/j.comnet.2009.04.014,1,Background and system overview,1,/public/data/computer_science/Computer_Networks/2009/xml/15.xml
+10.1016/j.comnet.2009.04.014,2,Monitoring and profiling in Sandpiper,2,/public/data/computer_science/Computer_Networks/2009/xml/15.xml
+10.1016/j.comnet.2009.04.014,3,Hotspot detection,2,/public/data/computer_science/Computer_Networks/2009/xml/15.xml
+10.1016/j.comnet.2009.04.014,4,Resource provisioning,2,/public/data/computer_science/Computer_Networks/2009/xml/15.xml
+10.1016/j.comnet.2009.04.014,5,Hotspot mitigation,2,/public/data/computer_science/Computer_Networks/2009/xml/15.xml
+10.1016/j.comnet.2009.04.014,6,Implementation and evaluation,3,/public/data/computer_science/Computer_Networks/2009/xml/15.xml
+10.1016/j.comnet.2009.04.014,7,Related work,1,/public/data/computer_science/Computer_Networks/2009/xml/15.xml
+10.1016/j.comnet.2009.04.014,8,Conclusions,4,/public/data/computer_science/Computer_Networks/2009/xml/15.xml
+10.1016/j.compbiomed.2003.12.007,0,Introduction,0,/public/data/computer_science/Computers_in_Biology_and_Medicine/2005/xml/59.xml
+10.1016/j.compbiomed.2003.12.007,1,Materials and methods,2,/public/data/computer_science/Computers_in_Biology_and_Medicine/2005/xml/59.xml
+10.1016/j.compbiomed.2003.12.007,2,Results,3,/public/data/computer_science/Computers_in_Biology_and_Medicine/2005/xml/59.xml
+10.1016/j.compbiomed.2003.12.007,3,Discussion,4,/public/data/computer_science/Computers_in_Biology_and_Medicine/2005/xml/59.xml
+10.1016/j.compbiomed.2003.12.007,4,Conclusion,4,/public/data/computer_science/Computers_in_Biology_and_Medicine/2005/xml/59.xml
+10.1016/j.ins.2013.12.016,0,Introduction,0,/public/data/computer_science/Information_Sciences/2014/xml/149.xml
+10.1016/j.ins.2013.12.016,1,Background,1,/public/data/computer_science/Information_Sciences/2014/xml/149.xml
+10.1016/j.ins.2013.12.016,2,Decorrelated neural-net ensembles with random weights,2,/public/data/computer_science/Information_Sciences/2014/xml/149.xml
+10.1016/j.ins.2013.12.016,3,Performance evaluation,3,/public/data/computer_science/Information_Sciences/2014/xml/149.xml
+10.1016/j.ins.2013.12.016,4,Conclusions,4,/public/data/computer_science/Information_Sciences/2014/xml/149.xml
+10.1016/S0167-739X(02)00088-2,0,Introduction,0,/public/data/computer_science/Future_Generation_Computer_Systems/2001/xml/422.xml
+10.1016/S0167-739X(02)00088-2,1,The Knowledge Grid architecture,1,/public/data/computer_science/Future_Generation_Computer_Systems/2001/xml/422.xml
+10.1016/S0167-739X(02)00088-2,2,Distributed meta-learning on grids,2,/public/data/computer_science/Future_Generation_Computer_Systems/2001/xml/422.xml
+10.1016/S0167-739X(02)00088-2,3,Knowledge Grid implementation,3,/public/data/computer_science/Future_Generation_Computer_Systems/2001/xml/422.xml
+10.1016/S0167-739X(02)00088-2,4,Conclusion and future work,4,/public/data/computer_science/Future_Generation_Computer_Systems/2001/xml/422.xml
+10.1016/j.eswa.2007.08.103,0,Introduction,0,/public/data/computer_science/Expert_Systems_with_Applications/2008/xml/527.xml
+10.1016/j.eswa.2007.08.103,1,Literature overview,1,/public/data/computer_science/Expert_Systems_with_Applications/2008/xml/527.xml
+10.1016/j.eswa.2007.08.103,2,Fundamentals of the methodology tool,2,/public/data/computer_science/Expert_Systems_with_Applications/2008/xml/527.xml
+10.1016/j.eswa.2007.08.103,3,Estimating the impact of HR practices,3,/public/data/computer_science/Expert_Systems_with_Applications/2008/xml/527.xml
+10.1016/j.eswa.2007.08.103,4,Preliminary experiments,3,/public/data/computer_science/Expert_Systems_with_Applications/2008/xml/527.xml
+10.1016/j.eswa.2007.08.103,5,Conclusion,4,/public/data/computer_science/Expert_Systems_with_Applications/2008/xml/527.xml
+10.1016/j.ymssp.2004.02.003,0,Introduction,0,/public/data/computer_science/Mechanical_Systems_and_Signal_Processing/2005/xml/51.xml
+10.1016/j.ymssp.2004.02.003,1,Overview of PsD tests,1,/public/data/computer_science/Mechanical_Systems_and_Signal_Processing/2005/xml/51.xml
+10.1016/j.ymssp.2004.02.003,2,Experimental model,2,/public/data/computer_science/Mechanical_Systems_and_Signal_Processing/2005/xml/51.xml
+10.1016/j.ymssp.2004.02.003,3,Model selection and identification,3,/public/data/computer_science/Mechanical_Systems_and_Signal_Processing/2005/xml/51.xml
+10.1016/j.ymssp.2004.02.003,4,Validation,3,/public/data/computer_science/Mechanical_Systems_and_Signal_Processing/2005/xml/51.xml
+10.1016/j.ymssp.2004.02.003,5,Conclusions,4,/public/data/computer_science/Mechanical_Systems_and_Signal_Processing/2005/xml/51.xml
+10.1016/j.mee.2013.03.156,0,Introduction,0,/public/data/computer_science/Microelectronic_Engineering/2013/xml/135.xml
+10.1016/j.mee.2013.03.156,1,Experimental,3,/public/data/computer_science/Microelectronic_Engineering/2013/xml/135.xml
+10.1016/j.mee.2013.03.156,2,Results,3,/public/data/computer_science/Microelectronic_Engineering/2013/xml/135.xml
+10.1016/j.mee.2013.03.156,3,Discussions,4,/public/data/computer_science/Microelectronic_Engineering/2013/xml/135.xml
+10.1016/j.mee.2013.03.156,4,Conclusions,4,/public/data/computer_science/Microelectronic_Engineering/2013/xml/135.xml
+10.1016/j.cor.2005.01.023,0,Introduction,0,/public/data/computer_science/Computers___Operations_Research/2006/xml/25.xml
+10.1016/j.cor.2005.01.023,1,A hybrid simulated annealing and artificial neural network algorithm for solving binary variable knapsack classification problem,2,/public/data/computer_science/Computers___Operations_Research/2006/xml/25.xml
+10.1016/j.cor.2005.01.023,2,The DM-CSOP problem solution procedure,2,/public/data/computer_science/Computers___Operations_Research/2006/xml/25.xml
+10.1016/j.cor.2005.01.023,3,The DM-CSOP problem for medical diagnosis,2,/public/data/computer_science/Computers___Operations_Research/2006/xml/25.xml
+10.1016/j.cor.2005.01.023,4,Experiments and results,3,/public/data/computer_science/Computers___Operations_Research/2006/xml/25.xml
+10.1016/j.cor.2005.01.023,5,Summary and direction for future work,4,/public/data/computer_science/Computers___Operations_Research/2006/xml/25.xml
+10.1016/j.simpat.2007.09.004,0,Introduction,0,/public/data/computer_science/Simulation_Modelling_Practice_and_Theory/2007/xml/10.xml
+10.1016/j.simpat.2007.09.004,1,Problem description,2,/public/data/computer_science/Simulation_Modelling_Practice_and_Theory/2007/xml/10.xml
+10.1016/j.simpat.2007.09.004,2,Algorithm description,2,/public/data/computer_science/Simulation_Modelling_Practice_and_Theory/2007/xml/10.xml
+10.1016/j.simpat.2007.09.004,3,Computing program,2,/public/data/computer_science/Simulation_Modelling_Practice_and_Theory/2007/xml/10.xml
+10.1016/j.simpat.2007.09.004,4,Experimental results,3,/public/data/computer_science/Simulation_Modelling_Practice_and_Theory/2007/xml/10.xml
+10.1016/j.simpat.2007.09.004,5,Conclusion,4,/public/data/computer_science/Simulation_Modelling_Practice_and_Theory/2007/xml/10.xml
+10.1016/j.comcom.2007.05.037,0,Introduction,0,/public/data/computer_science/Computer_Communications/2006/xml/75.xml
+10.1016/j.comcom.2007.05.037,1,Related works,1,/public/data/computer_science/Computer_Communications/2006/xml/75.xml
+10.1016/j.comcom.2007.05.037,2,Overlay network architecture,2,/public/data/computer_science/Computer_Communications/2006/xml/75.xml
+10.1016/j.comcom.2007.05.037,3,System and service models,2,/public/data/computer_science/Computer_Communications/2006/xml/75.xml
+10.1016/j.comcom.2007.05.037,4,Numerical results,3,/public/data/computer_science/Computer_Communications/2006/xml/75.xml
+10.1016/j.comcom.2007.05.037,5,Conclusion,4,/public/data/computer_science/Computer_Communications/2006/xml/75.xml
+10.1016/j.cviu.2012.12.006,0,Introduction,0,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2013/xml/62.xml
+10.1016/j.cviu.2012.12.006,1,Method,2,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2013/xml/62.xml
+10.1016/j.cviu.2012.12.006,2,Experiments,3,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2013/xml/62.xml
+10.1016/j.cviu.2012.12.006,3,Results,3,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2013/xml/62.xml
+10.1016/j.cviu.2012.12.006,4,Discussion,4,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2013/xml/62.xml
+10.1016/j.cviu.2012.12.006,5,Conclusions,4,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2013/xml/62.xml
+10.1016/j.jcp.2009.09.025,0,Introduction,0,/public/data/computer_science/Journal_of_Computational_Physics/2007/xml/1075.xml
+10.1016/j.jcp.2009.09.025,1,Projection-based finite element variational multiscale methods,1,/public/data/computer_science/Journal_of_Computational_Physics/2007/xml/1075.xml
+10.1016/j.jcp.2009.09.025,2,The projection-based finite element variational multiscale method with an adaptively chosen large scale space,2,/public/data/computer_science/Journal_of_Computational_Physics/2007/xml/1075.xml
+10.1016/j.jcp.2009.09.025,3,Numerical studies,3,/public/data/computer_science/Journal_of_Computational_Physics/2007/xml/1075.xml
+10.1016/j.jcp.2009.09.025,4,Summary and outlook,4,/public/data/computer_science/Journal_of_Computational_Physics/2007/xml/1075.xml
+10.1016/j.cmpb.2007.06.001,0,Introduction,0,/public/data/computer_science/Computer_Methods_and_Programs_in_Biomedicine/2006/xml/106.xml
+10.1016/j.cmpb.2007.06.001,1,Materials and methods,2,/public/data/computer_science/Computer_Methods_and_Programs_in_Biomedicine/2006/xml/106.xml
+10.1016/j.cmpb.2007.06.001,2,Results,3,/public/data/computer_science/Computer_Methods_and_Programs_in_Biomedicine/2006/xml/106.xml
+10.1016/j.cmpb.2007.06.001,3,Discussion,4,/public/data/computer_science/Computer_Methods_and_Programs_in_Biomedicine/2006/xml/106.xml
+10.1016/j.ejor.2007.11.059,0,Introduction,0,/public/data/computer_science/European_Journal_of_Operational_Research/2008/xml/687.xml
+10.1016/j.ejor.2007.11.059,1,Model formulation,2,/public/data/computer_science/European_Journal_of_Operational_Research/2008/xml/687.xml
+10.1016/j.ejor.2007.11.059,2,Main results,3,/public/data/computer_science/European_Journal_of_Operational_Research/2008/xml/687.xml
+10.1016/j.ejor.2007.11.059,3,Conclusions and future research,4,/public/data/computer_science/European_Journal_of_Operational_Research/2008/xml/687.xml
+10.1016/j.ijhcs.2006.08.006,0,Introduction,0,/public/data/computer_science/International_Journal_of_Human-Computer_Studies/2007/xml/80.xml
+10.1016/j.ijhcs.2006.08.006,1,Related work,1,/public/data/computer_science/International_Journal_of_Human-Computer_Studies/2007/xml/80.xml
+10.1016/j.ijhcs.2006.08.006,2,Research design,2,/public/data/computer_science/International_Journal_of_Human-Computer_Studies/2007/xml/80.xml
+10.1016/j.ijhcs.2006.08.006,3,Results,3,/public/data/computer_science/International_Journal_of_Human-Computer_Studies/2007/xml/80.xml
+10.1016/j.ijhcs.2006.08.006,4,Conclusion,4,/public/data/computer_science/International_Journal_of_Human-Computer_Studies/2007/xml/80.xml
+10.1016/j.compbiomed.2009.11.019,0,Introduction,0,/public/data/computer_science/Computers_in_Biology_and_Medicine/2010/xml/91.xml
+10.1016/j.compbiomed.2009.11.019,1,Materials and methods,2,/public/data/computer_science/Computers_in_Biology_and_Medicine/2010/xml/91.xml
+10.1016/j.compbiomed.2009.11.019,2,Processing examples,3,/public/data/computer_science/Computers_in_Biology_and_Medicine/2010/xml/91.xml
+10.1016/j.compbiomed.2009.11.019,3,System usability scenarios,3,/public/data/computer_science/Computers_in_Biology_and_Medicine/2010/xml/91.xml
+10.1016/j.compbiomed.2009.11.019,4,Discussion,4,/public/data/computer_science/Computers_in_Biology_and_Medicine/2010/xml/91.xml
+10.1016/j.compbiomed.2009.11.019,5,Conclusion,4,/public/data/computer_science/Computers_in_Biology_and_Medicine/2010/xml/91.xml
+10.1016/j.compbiomed.2009.11.019,6,Summary,4,/public/data/computer_science/Computers_in_Biology_and_Medicine/2010/xml/91.xml
+10.1016/j.compbiomed.2009.11.019,7,Conflict of interest statement,-1,/public/data/computer_science/Computers_in_Biology_and_Medicine/2010/xml/91.xml
+10.1016/j.compbiomed.2009.11.019,8,Acknowledgement,-1,/public/data/computer_science/Computers_in_Biology_and_Medicine/2010/xml/91.xml
+10.1016/j.compag.2005.03.003,0,Introduction,0,/public/data/computer_science/Computers_and_Electronics_in_Agriculture/2003/xml/64.xml
+10.1016/j.compag.2005.03.003,1,Materials and methods,2,/public/data/computer_science/Computers_and_Electronics_in_Agriculture/2003/xml/64.xml
+10.1016/j.compag.2005.03.003,2,Results and discussion,3,/public/data/computer_science/Computers_and_Electronics_in_Agriculture/2003/xml/64.xml
+10.1016/j.compag.2005.03.003,3,Conclusions,4,/public/data/computer_science/Computers_and_Electronics_in_Agriculture/2003/xml/64.xml
+10.1016/j.cageo.2012.03.016,0,Introduction,0,/public/data/computer_science/Computers___Geosciences/2012/xml/178.xml
+10.1016/j.cageo.2012.03.016,1,Problem statement,2,/public/data/computer_science/Computers___Geosciences/2012/xml/178.xml
+10.1016/j.cageo.2012.03.016,2,Proposed approach,2,/public/data/computer_science/Computers___Geosciences/2012/xml/178.xml
+10.1016/j.cageo.2012.03.016,3,Simulation experiments and comparative studies,3,/public/data/computer_science/Computers___Geosciences/2012/xml/178.xml
+10.1016/j.cageo.2012.03.016,4,Conclusion and future work,4,/public/data/computer_science/Computers___Geosciences/2012/xml/178.xml
+10.1016/j.neucom.2004.11.021,0,Introduction,0,/public/data/computer_science/Neurocomputing/2004/xml/81.xml
+10.1016/j.neucom.2004.11.021,1,Sparse kernel logistic regression,1,/public/data/computer_science/Neurocomputing/2004/xml/81.xml
+10.1016/j.neucom.2004.11.021,2,Sparse Bayesian kernel logistic regression,2,/public/data/computer_science/Neurocomputing/2004/xml/81.xml
+10.1016/j.neucom.2004.11.021,3,Results,3,/public/data/computer_science/Neurocomputing/2004/xml/81.xml
+10.1016/j.neucom.2004.11.021,4,Discussion,4,/public/data/computer_science/Neurocomputing/2004/xml/81.xml
+10.1016/j.neucom.2004.11.021,5,Conclusions,4,/public/data/computer_science/Neurocomputing/2004/xml/81.xml
+10.1016/j.ejor.2012.07.014,0,Introduction,0,/public/data/computer_science/European_Journal_of_Operational_Research/2012/xml/439.xml
+10.1016/j.ejor.2012.07.014,1,Problem formulation,2,/public/data/computer_science/European_Journal_of_Operational_Research/2012/xml/439.xml
+10.1016/j.ejor.2012.07.014,2,Metaheuristics,2,/public/data/computer_science/European_Journal_of_Operational_Research/2012/xml/439.xml
+10.1016/j.ejor.2012.07.014,3,Computational experiment,3,/public/data/computer_science/European_Journal_of_Operational_Research/2012/xml/439.xml
+10.1016/j.ejor.2012.07.014,4,Conclusions,4,/public/data/computer_science/European_Journal_of_Operational_Research/2012/xml/439.xml
+10.1016/j.ejor.2007.04.019,0,Introduction,0,/public/data/computer_science/European_Journal_of_Operational_Research/2007/xml/201.xml
+10.1016/j.ejor.2007.04.019,1,Preliminaries,0,/public/data/computer_science/European_Journal_of_Operational_Research/2007/xml/201.xml
+10.1016/j.ejor.2007.04.019,2,An alternative perspective on power measures,2,/public/data/computer_science/European_Journal_of_Operational_Research/2007/xml/201.xml
+10.1016/j.ejor.2007.04.019,3,The multilinear extensions,2,/public/data/computer_science/European_Journal_of_Operational_Research/2007/xml/201.xml
+10.1016/j.ejor.2007.04.019,4,Examples,3,/public/data/computer_science/European_Journal_of_Operational_Research/2007/xml/201.xml
+10.1016/j.ejor.2007.04.019,5,Conclusions,4,/public/data/computer_science/European_Journal_of_Operational_Research/2007/xml/201.xml
+10.1016/S0169-023X(02)00190-8,0,Introduction,0,/public/data/computer_science/Data___Knowledge_Engineering/2003/xml/38.xml
+10.1016/S0169-023X(02)00190-8,1,Assumptions and requirements,0,/public/data/computer_science/Data___Knowledge_Engineering/2003/xml/38.xml
+10.1016/S0169-023X(02)00190-8,2,Related research,1,/public/data/computer_science/Data___Knowledge_Engineering/2003/xml/38.xml
+10.1016/S0169-023X(02)00190-8,3,Overall design of Dipe-R,2,/public/data/computer_science/Data___Knowledge_Engineering/2003/xml/38.xml
+10.1016/S0169-023X(02)00190-8,4,Content and expression in Dipe-R,2,/public/data/computer_science/Data___Knowledge_Engineering/2003/xml/38.xml
+10.1016/S0169-023X(02)00190-8,5,Source information,2,/public/data/computer_science/Data___Knowledge_Engineering/2003/xml/38.xml
+10.1016/S0169-023X(02)00190-8,6,Derivation,2,/public/data/computer_science/Data___Knowledge_Engineering/2003/xml/38.xml
+10.1016/S0169-023X(02)00190-8,7,Experimental support,3,/public/data/computer_science/Data___Knowledge_Engineering/2003/xml/38.xml
+10.1016/S0169-023X(02)00190-8,8,Conclusions and future research,4,/public/data/computer_science/Data___Knowledge_Engineering/2003/xml/38.xml
+10.1016/S0026-2714(00)00071-8,0,Introduction,0,/public/data/computer_science/Microelectronics_Reliability/1991/xml/36.xml
+10.1016/S0026-2714(00)00071-8,1,Theory,2,/public/data/computer_science/Microelectronics_Reliability/1991/xml/36.xml
+10.1016/S0026-2714(00)00071-8,2,Simulation results,3,/public/data/computer_science/Microelectronics_Reliability/1991/xml/36.xml
+10.1016/S0026-2714(00)00071-8,3,Conclusion,4,/public/data/computer_science/Microelectronics_Reliability/1991/xml/36.xml
+10.1016/j.mee.2008.09.030,0,Introduction,0,/public/data/computer_science/Microelectronic_Engineering/2005/xml/1136.xml
+10.1016/j.mee.2008.09.030,1,Experimental,3,/public/data/computer_science/Microelectronic_Engineering/2005/xml/1136.xml
+10.1016/j.mee.2008.09.030,2,Results and discussion,3,/public/data/computer_science/Microelectronic_Engineering/2005/xml/1136.xml
+10.1016/j.mee.2008.09.030,3,Conclusions,4,/public/data/computer_science/Microelectronic_Engineering/2005/xml/1136.xml
+10.1016/j.cageo.2012.07.009,0,Introduction,0,/public/data/computer_science/Computers___Geosciences/2012/xml/0.xml
+10.1016/j.cageo.2012.07.009,1,Method,2,/public/data/computer_science/Computers___Geosciences/2012/xml/0.xml
+10.1016/j.cageo.2012.07.009,2,Numerical comparison,3,/public/data/computer_science/Computers___Geosciences/2012/xml/0.xml
+10.1016/j.cageo.2012.07.009,3,Conclusion,4,/public/data/computer_science/Computers___Geosciences/2012/xml/0.xml
+10.1016/j.ins.2011.06.025,0,Introduction,0,/public/data/computer_science/Information_Sciences/2011/xml/200.xml
+10.1016/j.ins.2011.06.025,1,Related work,1,/public/data/computer_science/Information_Sciences/2011/xml/200.xml
+10.1016/j.ins.2011.06.025,2,Prosemantic image descriptors,2,/public/data/computer_science/Information_Sciences/2011/xml/200.xml
+10.1016/j.ins.2011.06.025,3,Image retrieval by relevance feedback,2,/public/data/computer_science/Information_Sciences/2011/xml/200.xml
+10.1016/j.ins.2011.06.025,4,Evaluation,3,/public/data/computer_science/Information_Sciences/2011/xml/200.xml
+10.1016/j.ins.2011.06.025,5,Conclusions,4,/public/data/computer_science/Information_Sciences/2011/xml/200.xml
+10.1016/j.eswa.2013.07.013,0,Introduction,0,/public/data/computer_science/Expert_Systems_with_Applications/2014/xml/649.xml
+10.1016/j.eswa.2013.07.013,1,A classification framework for textile and apparel supply chains and decision support and intelligent systems,1,/public/data/computer_science/Expert_Systems_with_Applications/2014/xml/649.xml
+10.1016/j.eswa.2013.07.013,2,Research methodology,2,/public/data/computer_science/Expert_Systems_with_Applications/2014/xml/649.xml
+10.1016/j.eswa.2013.07.013,3,Analysis and findings,3,/public/data/computer_science/Expert_Systems_with_Applications/2014/xml/649.xml
+10.1016/j.eswa.2013.07.013,4,Discussion and implications,4,/public/data/computer_science/Expert_Systems_with_Applications/2014/xml/649.xml
+10.1016/j.eswa.2013.07.013,5,Conclusion,4,/public/data/computer_science/Expert_Systems_with_Applications/2014/xml/649.xml
+10.1016/j.robot.2006.09.002,0,Introduction,0,/public/data/computer_science/Robotics_and_Autonomous_Systems/2007/xml/74.xml
+10.1016/j.robot.2006.09.002,1,Notation,1,/public/data/computer_science/Robotics_and_Autonomous_Systems/2007/xml/74.xml
+10.1016/j.robot.2006.09.002,2,Stability of delayed systems,1,/public/data/computer_science/Robotics_and_Autonomous_Systems/2007/xml/74.xml
+10.1016/j.robot.2006.09.002,3,Statement of the control problem,2,/public/data/computer_science/Robotics_and_Autonomous_Systems/2007/xml/74.xml
+10.1016/j.robot.2006.09.002,4,Model of the communication channel,2,/public/data/computer_science/Robotics_and_Autonomous_Systems/2007/xml/74.xml
+10.1016/j.robot.2006.09.002,5,Control structure proposed for bilateral teleoperation of robots,3,/public/data/computer_science/Robotics_and_Autonomous_Systems/2007/xml/74.xml
+10.1016/j.robot.2006.09.002,6,Experimental results,3,/public/data/computer_science/Robotics_and_Autonomous_Systems/2007/xml/74.xml
+10.1016/j.robot.2006.09.002,7,Conclusions,4,/public/data/computer_science/Robotics_and_Autonomous_Systems/2007/xml/74.xml
+10.1016/j.microrel.2009.10.010,0,Introduction,0,/public/data/computer_science/Microelectronics_Reliability/2001/xml/236.xml
+10.1016/j.microrel.2009.10.010,1,Method description,2,/public/data/computer_science/Microelectronics_Reliability/2001/xml/236.xml
+10.1016/j.microrel.2009.10.010,2,Application of the method,3,/public/data/computer_science/Microelectronics_Reliability/2001/xml/236.xml
+10.1016/j.microrel.2009.10.010,3,Conclusion,4,/public/data/computer_science/Microelectronics_Reliability/2001/xml/236.xml
+10.1016/j.jvlc.2009.07.003,0,Introduction,0,/public/data/computer_science/Journal_of_Visual_Languages___Computing/2009/xml/10.xml
+10.1016/j.jvlc.2009.07.003,1,A visualhaptic simulator for aircraft maintenance,2,/public/data/computer_science/Journal_of_Visual_Languages___Computing/2009/xml/10.xml
+10.1016/j.jvlc.2009.07.003,2,Experimental results,3,/public/data/computer_science/Journal_of_Visual_Languages___Computing/2009/xml/10.xml
+10.1016/j.jvlc.2009.07.003,3,Discussion,4,/public/data/computer_science/Journal_of_Visual_Languages___Computing/2009/xml/10.xml
+10.1016/j.jvlc.2009.07.003,4,Conclusions and future works,4,/public/data/computer_science/Journal_of_Visual_Languages___Computing/2009/xml/10.xml
+10.1016/j.media.2012.02.004,0,Introduction,0,/public/data/computer_science/Medical_Image_Analysis/2012/xml/179.xml
+10.1016/j.media.2012.02.004,1,ICA based motion compensation revisited,1,/public/data/computer_science/Medical_Image_Analysis/2012/xml/179.xml
+10.1016/j.media.2012.02.004,2,Method,2,/public/data/computer_science/Medical_Image_Analysis/2012/xml/179.xml
+10.1016/j.media.2012.02.004,3,Experiments and validation,3,/public/data/computer_science/Medical_Image_Analysis/2012/xml/179.xml
+10.1016/j.media.2012.02.004,4,Results,3,/public/data/computer_science/Medical_Image_Analysis/2012/xml/179.xml
+10.1016/j.media.2012.02.004,5,Discussion,4,/public/data/computer_science/Medical_Image_Analysis/2012/xml/179.xml
+10.1016/j.media.2012.02.004,6,Conclusion,4,/public/data/computer_science/Medical_Image_Analysis/2012/xml/179.xml
+10.1016/j.cor.2005.11.008,0,Introduction,0,/public/data/computer_science/Computers___Operations_Research/2007/xml/50.xml
+10.1016/j.cor.2005.11.008,1,Definition and evaluation of the PTSP,1,/public/data/computer_science/Computers___Operations_Research/2007/xml/50.xml
+10.1016/j.cor.2005.11.008,2,The hybrid scatter search (HSS) for the PTSP,2,/public/data/computer_science/Computers___Operations_Research/2007/xml/50.xml
+10.1016/j.cor.2005.11.008,3,Numerical experiment,3,/public/data/computer_science/Computers___Operations_Research/2007/xml/50.xml
+10.1016/j.cor.2005.11.008,4,Results and discussion,3,/public/data/computer_science/Computers___Operations_Research/2007/xml/50.xml
+10.1016/j.cor.2005.11.008,5,Conclusions,4,/public/data/computer_science/Computers___Operations_Research/2007/xml/50.xml
+10.1016/j.envsoft.2008.11.010,0,Introduction,0,/public/data/computer_science/Environmental_Modelling___Software/2009/xml/81.xml
+10.1016/j.envsoft.2008.11.010,1,Background,1,/public/data/computer_science/Environmental_Modelling___Software/2009/xml/81.xml
+10.1016/j.envsoft.2008.11.010,2,A formal approach to scenario development,2,/public/data/computer_science/Environmental_Modelling___Software/2009/xml/81.xml
+10.1016/j.envsoft.2008.11.010,3,Discussions,4,/public/data/computer_science/Environmental_Modelling___Software/2009/xml/81.xml
+10.1016/j.envsoft.2008.11.010,4,Summary and future recommendations,4,/public/data/computer_science/Environmental_Modelling___Software/2009/xml/81.xml
+10.1016/S0377-2217(98)00223-9,0,Introduction,0,/public/data/computer_science/European_Journal_of_Operational_Research/1998/xml/221.xml
+10.1016/S0377-2217(98)00223-9,1,Model assumptions and definitions,2,/public/data/computer_science/European_Journal_of_Operational_Research/1998/xml/221.xml
+10.1016/S0377-2217(98)00223-9,2,Analysis,3,/public/data/computer_science/European_Journal_of_Operational_Research/1998/xml/221.xml
+10.1016/S0377-2217(98)00223-9,3,The equivalent discrete time model,2,/public/data/computer_science/European_Journal_of_Operational_Research/1998/xml/221.xml
+10.1016/S0377-2217(98)00223-9,4,Some approximate models,2,/public/data/computer_science/European_Journal_of_Operational_Research/1998/xml/221.xml
+10.1016/S0377-2217(98)00223-9,5,Conclusions,4,/public/data/computer_science/European_Journal_of_Operational_Research/1998/xml/221.xml
+10.1016/j.neucom.2013.09.003,0,Introduction,0,/public/data/computer_science/Neurocomputing/2013/xml/75.xml
+10.1016/j.neucom.2013.09.003,1,Related work,1,/public/data/computer_science/Neurocomputing/2013/xml/75.xml
+10.1016/j.neucom.2013.09.003,2,The proposed method,2,/public/data/computer_science/Neurocomputing/2013/xml/75.xml
+10.1016/j.neucom.2013.09.003,3,Performance analysis,3,/public/data/computer_science/Neurocomputing/2013/xml/75.xml
+10.1016/j.neucom.2013.09.003,4,Conclusions,4,/public/data/computer_science/Neurocomputing/2013/xml/75.xml
+10.1016/j.cageo.2013.07.008,0,Introduction,0,/public/data/computer_science/Computers___Geosciences/2013/xml/30.xml
+10.1016/j.cageo.2013.07.008,1,Materials and methods,2,/public/data/computer_science/Computers___Geosciences/2013/xml/30.xml
+10.1016/j.cageo.2013.07.008,2,Image processing algorithm,2,/public/data/computer_science/Computers___Geosciences/2013/xml/30.xml
+10.1016/j.cageo.2013.07.008,3,Example of application,3,/public/data/computer_science/Computers___Geosciences/2013/xml/30.xml
+10.1016/j.cageo.2013.07.008,4,The FFPS analyzer software,3,/public/data/computer_science/Computers___Geosciences/2013/xml/30.xml
+10.1016/j.cageo.2013.07.008,5,Conclusive remarks,4,/public/data/computer_science/Computers___Geosciences/2013/xml/30.xml
+10.1016/j.microrel.2011.09.017,0,Introduction,0,/public/data/computer_science/Microelectronics_Reliability/2011/xml/577.xml
+10.1016/j.microrel.2011.09.017,1,Experiments,3,/public/data/computer_science/Microelectronics_Reliability/2011/xml/577.xml
+10.1016/j.microrel.2011.09.017,2,Results and discussion,3,/public/data/computer_science/Microelectronics_Reliability/2011/xml/577.xml
+10.1016/j.microrel.2011.09.017,3,Conclusion,4,/public/data/computer_science/Microelectronics_Reliability/2011/xml/577.xml
+10.1016/j.cageo.2011.09.020,0,Introduction,0,/public/data/computer_science/Computers___Geosciences/2012/xml/506.xml
+10.1016/j.cageo.2011.09.020,1,Methods,2,/public/data/computer_science/Computers___Geosciences/2012/xml/506.xml
+10.1016/j.cageo.2011.09.020,2,Illustration,3,/public/data/computer_science/Computers___Geosciences/2012/xml/506.xml
+10.1016/j.cageo.2011.09.020,3,Discussion and conclusions,4,/public/data/computer_science/Computers___Geosciences/2012/xml/506.xml
+10.1016/j.cageo.2011.09.020,4,Accessing the software,-1,/public/data/computer_science/Computers___Geosciences/2012/xml/506.xml
+10.1016/j.adhoc.2010.01.002,0,Introduction,0,/public/data/computer_science/Ad_Hoc_Networks/2010/xml/25.xml
+10.1016/j.adhoc.2010.01.002,1,Related works,1,/public/data/computer_science/Ad_Hoc_Networks/2010/xml/25.xml
+10.1016/j.adhoc.2010.01.002,2,Probabilistic proactive routing with active route trace-back,2,/public/data/computer_science/Ad_Hoc_Networks/2010/xml/25.xml
+10.1016/j.adhoc.2010.01.002,3,Packethint distance correlation,2,/public/data/computer_science/Ad_Hoc_Networks/2010/xml/25.xml
+10.1016/j.adhoc.2010.01.002,4,Simulation and results analysis,3,/public/data/computer_science/Ad_Hoc_Networks/2010/xml/25.xml
+10.1016/j.adhoc.2010.01.002,5,Conclusion,4,/public/data/computer_science/Ad_Hoc_Networks/2010/xml/25.xml
+10.1016/j.cviu.2003.07.001,0,Introduction,0,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2003/xml/3.xml
+10.1016/j.cviu.2003.07.001,1,Related work,1,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2003/xml/3.xml
+10.1016/j.cviu.2003.07.001,2,Notation,2,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2003/xml/3.xml
+10.1016/j.cviu.2003.07.001,3,Incremental registration and integration,2,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2003/xml/3.xml
+10.1016/j.cviu.2003.07.001,4,Results,3,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2003/xml/3.xml
+10.1016/j.cviu.2003.07.001,5,Conclusion,4,/public/data/computer_science/Computer_Vision_and_Image_Understanding/2003/xml/3.xml
+10.1016/j.mee.2010.05.011,0,Introduction,0,/public/data/computer_science/Microelectronic_Engineering/2005/xml/466.xml
+10.1016/j.mee.2010.05.011,1,Experimental,3,/public/data/computer_science/Microelectronic_Engineering/2005/xml/466.xml
+10.1016/j.mee.2010.05.011,2,Results and discussion,3,/public/data/computer_science/Microelectronic_Engineering/2005/xml/466.xml
+10.1016/j.mee.2010.05.011,3,Conclusions,4,/public/data/computer_science/Microelectronic_Engineering/2005/xml/466.xml
+10.1016/j.simpat.2007.05.006,0,Introduction,0,/public/data/computer_science/Simulation_Modelling_Practice_and_Theory/2007/xml/33.xml
+10.1016/j.simpat.2007.05.006,1,Literature review,1,/public/data/computer_science/Simulation_Modelling_Practice_and_Theory/2007/xml/33.xml
+10.1016/j.simpat.2007.05.006,2,Semiconductor manufacturing automated material handling systems,2,/public/data/computer_science/Simulation_Modelling_Practice_and_Theory/2007/xml/33.xml
+10.1016/j.simpat.2007.05.006,3,Developing a neural network simulation metamodel,2,/public/data/computer_science/Simulation_Modelling_Practice_and_Theory/2007/xml/33.xml
+10.1016/j.simpat.2007.05.006,4,Conclusions,4,/public/data/computer_science/Simulation_Modelling_Practice_and_Theory/2007/xml/33.xml
+10.1016/j.chb.2005.10.002,0,Introduction,0,/public/data/computer_science/Computers_in_Human_Behavior/2007/xml/31.xml
+10.1016/j.chb.2005.10.002,1,Methodology,2,/public/data/computer_science/Computers_in_Human_Behavior/2007/xml/31.xml
+10.1016/j.chb.2005.10.002,2,Result and discussion,3,/public/data/computer_science/Computers_in_Human_Behavior/2007/xml/31.xml
+10.1016/j.chb.2005.10.002,3,Limitation and conclusion,4,/public/data/computer_science/Computers_in_Human_Behavior/2007/xml/31.xml
+10.1016/j.aei.2010.01.001,0,Introduction,0,/public/data/computer_science/Advanced_Engineering_Informatics/2007/xml/274.xml
+10.1016/j.aei.2010.01.001,1,Process-view and TCPN combined approach,2,/public/data/computer_science/Advanced_Engineering_Informatics/2007/xml/274.xml
+10.1016/j.aei.2010.01.001,2,Hybrid PP based decentralized WMS,2,/public/data/computer_science/Advanced_Engineering_Informatics/2007/xml/274.xml
+10.1016/j.aei.2010.01.001,3,Case study,3,/public/data/computer_science/Advanced_Engineering_Informatics/2007/xml/274.xml
+10.1016/j.aei.2010.01.001,4,Discussion,4,/public/data/computer_science/Advanced_Engineering_Informatics/2007/xml/274.xml
+10.1016/j.aei.2010.01.001,5,Conclusion,4,/public/data/computer_science/Advanced_Engineering_Informatics/2007/xml/274.xml
+10.1016/j.ejor.2011.09.003,0,Introduction,0,/public/data/computer_science/European_Journal_of_Operational_Research/2011/xml/317.xml
+10.1016/j.ejor.2011.09.003,1,Notations and assumptions,2,/public/data/computer_science/European_Journal_of_Operational_Research/2011/xml/317.xml
+10.1016/j.ejor.2011.09.003,2,The model,2,/public/data/computer_science/European_Journal_of_Operational_Research/2011/xml/317.xml
+10.1016/j.ejor.2011.09.003,3,The coordination mechanism for symmetric information scenario,3,/public/data/computer_science/European_Journal_of_Operational_Research/2011/xml/317.xml
+10.1016/j.ejor.2011.09.003,4,The coordination mechanism for asymmetric information scenario,3,/public/data/computer_science/European_Journal_of_Operational_Research/2011/xml/317.xml
+10.1016/j.ejor.2011.09.003,5,Numerical examples,3,/public/data/computer_science/European_Journal_of_Operational_Research/2011/xml/317.xml
+10.1016/j.ejor.2011.09.003,6,Conclusions,4,/public/data/computer_science/European_Journal_of_Operational_Research/2011/xml/317.xml
+10.1016/j.specom.2005.01.002,0,Introduction,0,/public/data/computer_science/Speech_Communication/2005/xml/40.xml
+10.1016/j.specom.2005.01.002,1,Generative factor analyzed HMM,2,/public/data/computer_science/Speech_Communication/2005/xml/40.xml
+10.1016/j.specom.2005.01.002,2,Maximum likelihood estimation of the GFA-HMM,2,/public/data/computer_science/Speech_Communication/2005/xml/40.xml
+10.1016/j.specom.2005.01.002,3,"Relationship to mixtures of PCA, semi-tied covariance modeling, and maximum likelihood linear transformation",2,/public/data/computer_science/Speech_Communication/2005/xml/40.xml
+10.1016/j.specom.2005.01.002,4,Experimental results,3,/public/data/computer_science/Speech_Communication/2005/xml/40.xml
+10.1016/j.specom.2005.01.002,5,Discussion,4,/public/data/computer_science/Speech_Communication/2005/xml/40.xml
+10.1016/j.specom.2005.01.002,6,Conclusions,4,/public/data/computer_science/Speech_Communication/2005/xml/40.xml
+10.1016/j.cose.2005.03.006,0,Introduction,0,/public/data/computer_science/Computers___Security/2005/xml/170.xml
+10.1016/j.cose.2005.03.006,1,Basic idea,2,/public/data/computer_science/Computers___Security/2005/xml/170.xml
+10.1016/j.cose.2005.03.006,2,Our scheme,2,/public/data/computer_science/Computers___Security/2005/xml/170.xml
+10.1016/j.cose.2005.03.006,3,Discussions,3,/public/data/computer_science/Computers___Security/2005/xml/170.xml
+10.1016/j.cose.2005.03.006,4,Performance analysis,3,/public/data/computer_science/Computers___Security/2005/xml/170.xml
+10.1016/j.cose.2005.03.006,5,Conclusion,4,/public/data/computer_science/Computers___Security/2005/xml/170.xml
+10.1016/j.comcom.2011.07.007,0,Introduction,0,/public/data/computer_science/Computer_Communications/2012/xml/308.xml
+10.1016/j.comcom.2011.07.007,1,State of the art,1,/public/data/computer_science/Computer_Communications/2012/xml/308.xml
+10.1016/j.comcom.2011.07.007,2,Assumptions and tools,2,/public/data/computer_science/Computer_Communications/2012/xml/308.xml
+10.1016/j.comcom.2011.07.007,3,Trusted anonymous routing protocol design,2,/public/data/computer_science/Computer_Communications/2012/xml/308.xml
+10.1016/j.comcom.2011.07.007,4,Protocol evaluation,3,/public/data/computer_science/Computer_Communications/2012/xml/308.xml
+10.1016/j.comcom.2011.07.007,5,Conclusions and future work,4,/public/data/computer_science/Computer_Communications/2012/xml/308.xml
+10.1016/j.ijepes.2004.08.003,0,Introduction,0,/public/data/computer_science/International_Journal_of_Electrical_Power___Energy_Systems/2004/xml/214.xml
+10.1016/j.ijepes.2004.08.003,1,Dynamic matrix control,1,/public/data/computer_science/International_Journal_of_Electrical_Power___Energy_Systems/2004/xml/214.xml
+10.1016/j.ijepes.2004.08.003,2,Fuzzy logic control,2,/public/data/computer_science/International_Journal_of_Electrical_Power___Energy_Systems/2004/xml/214.xml
+10.1016/j.ijepes.2004.08.003,3,Implementation,3,/public/data/computer_science/International_Journal_of_Electrical_Power___Energy_Systems/2004/xml/214.xml
+10.1016/j.ijepes.2004.08.003,4,Controllers performance,3,/public/data/computer_science/International_Journal_of_Electrical_Power___Energy_Systems/2004/xml/214.xml
+10.1016/j.ijepes.2004.08.003,5,Conclusions,4,/public/data/computer_science/International_Journal_of_Electrical_Power___Energy_Systems/2004/xml/214.xml
+10.1016/j.csda.2011.11.009,0,Introduction,0,/public/data/computer_science/Computational_Statistics___Data_Analysis/2006/xml/245.xml
+10.1016/j.csda.2011.11.009,1,Black-box constrained estimation by adjustment,1,/public/data/computer_science/Computational_Statistics___Data_Analysis/2006/xml/245.xml
+10.1016/j.csda.2011.11.009,2,The algorithm,2,/public/data/computer_science/Computational_Statistics___Data_Analysis/2006/xml/245.xml
+10.1016/j.csda.2011.11.009,3,Application to shape-constrained kernel density estimation,3,/public/data/computer_science/Computational_Statistics___Data_Analysis/2006/xml/245.xml
+10.1016/j.csda.2011.11.009,4,Further examples,3,/public/data/computer_science/Computational_Statistics___Data_Analysis/2006/xml/245.xml
+10.1016/j.csda.2011.11.009,5,Discussion,4,/public/data/computer_science/Computational_Statistics___Data_Analysis/2006/xml/245.xml
+10.1016/S1389-1286(02)00456-5,0,Introduction,0,/public/data/computer_science/Computer_Networks/2003/xml/105.xml
+10.1016/S1389-1286(02)00456-5,1,Analysis: a simple parallel-link model,2,/public/data/computer_science/Computer_Networks/2003/xml/105.xml
+10.1016/S1389-1286(02)00456-5,2,Predictive flow-time aware routing in a mesh network,2,/public/data/computer_science/Computer_Networks/2003/xml/105.xml
+10.1016/S1389-1286(02)00456-5,3,Application: routing maxmin rate adaptive sessions,3,/public/data/computer_science/Computer_Networks/2003/xml/105.xml
+10.1016/S1389-1286(02)00456-5,4,Conclusion and discussion,4,/public/data/computer_science/Computer_Networks/2003/xml/105.xml
+10.1016/j.chb.2013.10.057,0,Introduction,0,/public/data/computer_science/Computers_in_Human_Behavior/2014/xml/155.xml
+10.1016/j.chb.2013.10.057,1,Literature review and hypotheses,1,/public/data/computer_science/Computers_in_Human_Behavior/2014/xml/155.xml
+10.1016/j.chb.2013.10.057,2,Method,2,/public/data/computer_science/Computers_in_Human_Behavior/2014/xml/155.xml
+10.1016/j.chb.2013.10.057,3,Results,3,/public/data/computer_science/Computers_in_Human_Behavior/2014/xml/155.xml
+10.1016/j.chb.2013.10.057,4,Discussion,4,/public/data/computer_science/Computers_in_Human_Behavior/2014/xml/155.xml
+10.1016/j.chb.2013.10.057,5,Conclusion,4,/public/data/computer_science/Computers_in_Human_Behavior/2014/xml/155.xml
+10.1016/j.jss.2006.09.031,0,Introduction,0,/public/data/computer_science/Journal_of_Systems_and_Software/2004/xml/77.xml
+10.1016/j.jss.2006.09.031,1,Design of the FC-ORB architecture,2,/public/data/computer_science/Journal_of_Systems_and_Software/2004/xml/77.xml
+10.1016/j.jss.2006.09.031,2,Empirical evaluation,3,/public/data/computer_science/Journal_of_Systems_and_Software/2004/xml/77.xml
+10.1016/j.jss.2006.09.031,3,Related work,1,/public/data/computer_science/Journal_of_Systems_and_Software/2004/xml/77.xml
+10.1016/j.jss.2006.09.031,4,Conclusions,4,/public/data/computer_science/Journal_of_Systems_and_Software/2004/xml/77.xml
+10.1016/S0164-1212(00)00029-7,0,Introduction,0,/public/data/computer_science/Journal_of_Systems_and_Software/2000/xml/880.xml
+10.1016/S0164-1212(00)00029-7,1,General concepts and definitions,2,/public/data/computer_science/Journal_of_Systems_and_Software/2000/xml/880.xml
+10.1016/S0164-1212(00)00029-7,2,An example,2,/public/data/computer_science/Journal_of_Systems_and_Software/2000/xml/880.xml
+10.1016/S0164-1212(00)00029-7,3,A case study,3,/public/data/computer_science/Journal_of_Systems_and_Software/2000/xml/880.xml
+10.1016/S0164-1212(00)00029-7,4,Conclusions,4,/public/data/computer_science/Journal_of_Systems_and_Software/2000/xml/880.xml
+10.1016/S0950-7051(02)00079-5,0,Introduction,0,/public/data/computer_science/Knowledge-Based_Systems/2003/xml/8.xml
+10.1016/S0950-7051(02)00079-5,1,Fuzzy partition method,2,/public/data/computer_science/Knowledge-Based_Systems/2003/xml/8.xml
+10.1016/S0950-7051(02)00079-5,2,Determine large fuzzy grids,2,/public/data/computer_science/Knowledge-Based_Systems/2003/xml/8.xml
+10.1016/S0950-7051(02)00079-5,3,Fuzzy grids based rules mining algorithm,2,/public/data/computer_science/Knowledge-Based_Systems/2003/xml/8.xml
+10.1016/S0950-7051(02)00079-5,4,Numerical example,3,/public/data/computer_science/Knowledge-Based_Systems/2003/xml/8.xml
+10.1016/S0950-7051(02)00079-5,5,Discussions and analysis,4,/public/data/computer_science/Knowledge-Based_Systems/2003/xml/8.xml
+10.1016/S0950-7051(02)00079-5,6,Conclusions,4,/public/data/computer_science/Knowledge-Based_Systems/2003/xml/8.xml
+10.1016/j.jss.2010.03.080,0,Introduction,0,/public/data/computer_science/Journal_of_Systems_and_Software/2008/xml/3442.xml
+10.1016/j.jss.2010.03.080,1,Related work,1,/public/data/computer_science/Journal_of_Systems_and_Software/2008/xml/3442.xml
+10.1016/j.jss.2010.03.080,2,Layer Handover,2,/public/data/computer_science/Journal_of_Systems_and_Software/2008/xml/3442.xml
+10.1016/j.jss.2010.03.080,3,Anticipated Handover,2,/public/data/computer_science/Journal_of_Systems_and_Software/2008/xml/3442.xml
+10.1016/j.jss.2010.03.080,4,Proposed Scheme,2,/public/data/computer_science/Journal_of_Systems_and_Software/2008/xml/3442.xml
+10.1016/j.jss.2010.03.080,5,Simulation setup,3,/public/data/computer_science/Journal_of_Systems_and_Software/2008/xml/3442.xml
+10.1016/j.jss.2010.03.080,6,Conclusion,4,/public/data/computer_science/Journal_of_Systems_and_Software/2008/xml/3442.xml
+10.1016/j.image.2006.12.010,0,Introduction,0,/public/data/computer_science/Signal_Processing__Image_Communication/2007/xml/107.xml
+10.1016/j.image.2006.12.010,1,Error-resilience transcoding using prioritized intra-refresh,2,/public/data/computer_science/Signal_Processing__Image_Communication/2007/xml/107.xml
+10.1016/j.image.2006.12.010,2,Intra-refresh strategy for video multicast,2,/public/data/computer_science/Signal_Processing__Image_Communication/2007/xml/107.xml
+10.1016/j.image.2006.12.010,3,Experimental results,3,/public/data/computer_science/Signal_Processing__Image_Communication/2007/xml/107.xml
+10.1016/j.image.2006.12.010,4,Conclusion,4,/public/data/computer_science/Signal_Processing__Image_Communication/2007/xml/107.xml
+10.1016/j.imavis.2008.02.002,0,Introduction,0,/public/data/computer_science/Image_and_Vision_Computing/2008/xml/147.xml
+10.1016/j.imavis.2008.02.002,1,Previous work,1,/public/data/computer_science/Image_and_Vision_Computing/2008/xml/147.xml
+10.1016/j.imavis.2008.02.002,2,The mathematical framework and three surface representation methods,2,/public/data/computer_science/Image_and_Vision_Computing/2008/xml/147.xml
+10.1016/j.imavis.2008.02.002,3,Conversion between surface representations,2,/public/data/computer_science/Image_and_Vision_Computing/2008/xml/147.xml
+10.1016/j.imavis.2008.02.002,4,Experiments,3,/public/data/computer_science/Image_and_Vision_Computing/2008/xml/147.xml
+10.1016/j.imavis.2008.02.002,5,Conclusion,4,/public/data/computer_science/Image_and_Vision_Computing/2008/xml/147.xml
+10.1016/j.cpc.2011.12.003,0,Introduction,0,/public/data/computer_science/Computer_Physics_Communications/2012/xml/211.xml
+10.1016/j.cpc.2011.12.003,1,Method,2,/public/data/computer_science/Computer_Physics_Communications/2012/xml/211.xml
+10.1016/j.cpc.2011.12.003,2,Applications,3,/public/data/computer_science/Computer_Physics_Communications/2012/xml/211.xml
+10.1016/j.cpc.2011.12.003,3,Computational procedure,3,/public/data/computer_science/Computer_Physics_Communications/2012/xml/211.xml
+10.1016/j.cpc.2011.12.003,4,Results and discussion,3,/public/data/computer_science/Computer_Physics_Communications/2012/xml/211.xml
+10.1016/j.cpc.2011.12.003,5,Conclusions,4,/public/data/computer_science/Computer_Physics_Communications/2012/xml/211.xml
+10.1016/j.ijepes.2013.06.003,0,Introduction,0,/public/data/computer_science/International_Journal_of_Electrical_Power___Energy_Systems/2013/xml/1059.xml
+10.1016/j.ijepes.2013.06.003,1,Methodology,2,/public/data/computer_science/International_Journal_of_Electrical_Power___Energy_Systems/2013/xml/1059.xml
+10.1016/j.ijepes.2013.06.003,2,Case studies,3,/public/data/computer_science/International_Journal_of_Electrical_Power___Energy_Systems/2013/xml/1059.xml
+10.1016/j.ijepes.2013.06.003,3,Conclusions,4,/public/data/computer_science/International_Journal_of_Electrical_Power___Energy_Systems/2013/xml/1059.xml
+10.1016/j.micpro.2010.09.009,0,Introduction,0,/public/data/computer_science/Microprocessors_and_Microsystems/2011/xml/135.xml
+10.1016/j.micpro.2010.09.009,1,Related work,1,/public/data/computer_science/Microprocessors_and_Microsystems/2011/xml/135.xml
+10.1016/j.micpro.2010.09.009,2,Scheme for repaid stream transactions,2,/public/data/computer_science/Microprocessors_and_Microsystems/2011/xml/135.xml
+10.1016/j.micpro.2010.09.009,3,Hierarchy of ring interconnections,2,/public/data/computer_science/Microprocessors_and_Microsystems/2011/xml/135.xml
+10.1016/j.micpro.2010.09.009,4,On-demand configuration/organization,2,/public/data/computer_science/Microprocessors_and_Microsystems/2011/xml/135.xml
+10.1016/j.micpro.2010.09.009,5,Experimental results,3,/public/data/computer_science/Microprocessors_and_Microsystems/2011/xml/135.xml
+10.1016/j.micpro.2010.09.009,6,Conclusion,4,/public/data/computer_science/Microprocessors_and_Microsystems/2011/xml/135.xml
+10.1016/j.compbiomed.2012.01.005,0,Introduction,0,/public/data/computer_science/Computers_in_Biology_and_Medicine/2012/xml/73.xml
+10.1016/j.compbiomed.2012.01.005,1,Active deformable model,2,/public/data/computer_science/Computers_in_Biology_and_Medicine/2012/xml/73.xml
+10.1016/j.compbiomed.2012.01.005,2,Hybrid speed function based on integral measure,2,/public/data/computer_science/Computers_in_Biology_and_Medicine/2012/xml/73.xml
+10.1016/j.compbiomed.2012.01.005,3,Analysis,3,/public/data/computer_science/Computers_in_Biology_and_Medicine/2012/xml/73.xml
+10.1016/j.compbiomed.2012.01.005,4,Experimental results,3,/public/data/computer_science/Computers_in_Biology_and_Medicine/2012/xml/73.xml
+10.1016/j.compbiomed.2012.01.005,5,Conclusions,4,/public/data/computer_science/Computers_in_Biology_and_Medicine/2012/xml/73.xml
+10.1016/j.infsof.2005.12.009,0,Introduction,0,/public/data/computer_science/Information_and_Software_Technology/2006/xml/130.xml
+10.1016/j.infsof.2005.12.009,1,An overview of awareness mechanisms,1,/public/data/computer_science/Information_and_Software_Technology/2006/xml/130.xml
+10.1016/j.infsof.2005.12.009,2,Research methodology,2,/public/data/computer_science/Information_and_Software_Technology/2006/xml/130.xml
+10.1016/j.infsof.2005.12.009,3,The usability experiments,3,/public/data/computer_science/Information_and_Software_Technology/2006/xml/130.xml
+10.1016/j.infsof.2005.12.009,4,Data analysis,3,/public/data/computer_science/Information_and_Software_Technology/2006/xml/130.xml
+10.1016/j.infsof.2005.12.009,5,Awareness mechanisms,3,/public/data/computer_science/Information_and_Software_Technology/2006/xml/130.xml
+10.1016/j.infsof.2005.12.009,6,Conclusions and future work,4,/public/data/computer_science/Information_and_Software_Technology/2006/xml/130.xml
+10.1016/j.compbiomed.2013.01.018,0,Introduction,0,/public/data/computer_science/Computers_in_Biology_and_Medicine/2013/xml/211.xml
+10.1016/j.compbiomed.2013.01.018,1,Material,2,/public/data/computer_science/Computers_in_Biology_and_Medicine/2013/xml/211.xml
+10.1016/j.compbiomed.2013.01.018,2,Methods,2,/public/data/computer_science/Computers_in_Biology_and_Medicine/2013/xml/211.xml
+10.1016/j.compbiomed.2013.01.018,3,Results,3,/public/data/computer_science/Computers_in_Biology_and_Medicine/2013/xml/211.xml
+10.1016/j.compbiomed.2013.01.018,4,Discussions and conclusions,4,/public/data/computer_science/Computers_in_Biology_and_Medicine/2013/xml/211.xml
+10.1016/j.compbiomed.2013.01.018,5,Summary,4,/public/data/computer_science/Computers_in_Biology_and_Medicine/2013/xml/211.xml
+10.1016/j.compbiomed.2013.01.018,6,Conflicts of interest statement,-1,/public/data/computer_science/Computers_in_Biology_and_Medicine/2013/xml/211.xml
+10.1016/j.jcp.2004.11.019,0,Introduction,0,/public/data/computer_science/Journal_of_Computational_Physics/2004/xml/225.xml
+10.1016/j.jcp.2004.11.019,1,Atomisticcontinuum flows: the alternating Schwarz method,2,/public/data/computer_science/Journal_of_Computational_Physics/2004/xml/225.xml
+10.1016/j.jcp.2004.11.019,2,Atomistic region: molecular dynamics of non-periodic systems,2,/public/data/computer_science/Journal_of_Computational_Physics/2004/xml/225.xml
+10.1016/j.jcp.2004.11.019,3,The macroscopic model,2,/public/data/computer_science/Journal_of_Computational_Physics/2004/xml/225.xml
+10.1016/j.jcp.2004.11.019,4,Results,3,/public/data/computer_science/Journal_of_Computational_Physics/2004/xml/225.xml
+10.1016/j.jcp.2004.11.019,5,Summary and conclusions,4,/public/data/computer_science/Journal_of_Computational_Physics/2004/xml/225.xml
+10.1016/S0045-7949(02)00224-9,0,Introduction,0,/public/data/computer_science/Computers___Structures/2002/xml/29.xml
+10.1016/S0045-7949(02)00224-9,1,Problem formulation and constitutive equations,2,/public/data/computer_science/Computers___Structures/2002/xml/29.xml
+10.1016/S0045-7949(02)00224-9,2,Finite element discretization,2,/public/data/computer_science/Computers___Structures/2002/xml/29.xml
+10.1016/S0045-7949(02)00224-9,3,Numerical results and discussion,3,/public/data/computer_science/Computers___Structures/2002/xml/29.xml
+10.1016/S0045-7949(02)00224-9,4,Conclusions,4,/public/data/computer_science/Computers___Structures/2002/xml/29.xml
+10.1016/j.comcom.2013.01.014,0,Introduction,0,/public/data/computer_science/Computer_Communications/2012/xml/55.xml
+10.1016/j.comcom.2013.01.014,1,Requirements,1,/public/data/computer_science/Computer_Communications/2012/xml/55.xml
+10.1016/j.comcom.2013.01.014,2,Related work,1,/public/data/computer_science/Computer_Communications/2012/xml/55.xml
+10.1016/j.comcom.2013.01.014,3,NRS architectures,2,/public/data/computer_science/Computer_Communications/2012/xml/55.xml
+10.1016/j.comcom.2013.01.014,4,Global name resolution,2,/public/data/computer_science/Computer_Communications/2012/xml/55.xml
+10.1016/j.comcom.2013.01.014,5,Analysis,3,/public/data/computer_science/Computer_Communications/2012/xml/55.xml
+10.1016/j.comcom.2013.01.014,6,Simulation,3,/public/data/computer_science/Computer_Communications/2012/xml/55.xml
+10.1016/j.comcom.2013.01.014,7,Conclusion,4,/public/data/computer_science/Computer_Communications/2012/xml/55.xml
+10.1016/j.isprsjprs.2010.06.001,0,Introduction,0,/public/data/computer_science/ISPRS_Journal_of_Photogrammetry_and_Remote_Sensing/2010/xml/16.xml
+10.1016/j.isprsjprs.2010.06.001,1,Related work,1,/public/data/computer_science/ISPRS_Journal_of_Photogrammetry_and_Remote_Sensing/2010/xml/16.xml
+10.1016/j.isprsjprs.2010.06.001,2,Proposed building detection technique,2,/public/data/computer_science/ISPRS_Journal_of_Photogrammetry_and_Remote_Sensing/2010/xml/16.xml
+10.1016/j.isprsjprs.2010.06.001,3,Performance evaluation,3,/public/data/computer_science/ISPRS_Journal_of_Photogrammetry_and_Remote_Sensing/2010/xml/16.xml
+10.1016/j.isprsjprs.2010.06.001,4,Conclusion,4,/public/data/computer_science/ISPRS_Journal_of_Photogrammetry_and_Remote_Sensing/2010/xml/16.xml
+10.1016/j.patrec.2012.07.020,0,Introduction,0,/public/data/computer_science/Pattern_Recognition_Letters/2013/xml/562.xml
+10.1016/j.patrec.2012.07.020,1,Related work,1,/public/data/computer_science/Pattern_Recognition_Letters/2013/xml/562.xml
+10.1016/j.patrec.2012.07.020,2,Demonstrator hardware,2,/public/data/computer_science/Pattern_Recognition_Letters/2013/xml/562.xml
+10.1016/j.patrec.2012.07.020,3,Hyper-spectral image registration,2,/public/data/computer_science/Pattern_Recognition_Letters/2013/xml/562.xml
+10.1016/j.patrec.2012.07.020,4,Hyper-spectral classification,2,/public/data/computer_science/Pattern_Recognition_Letters/2013/xml/562.xml
+10.1016/j.patrec.2012.07.020,5,Tissue biopsies and expert annotations,3,/public/data/computer_science/Pattern_Recognition_Letters/2013/xml/562.xml
+10.1016/j.patrec.2012.07.020,6,Registration and classification results,3,/public/data/computer_science/Pattern_Recognition_Letters/2013/xml/562.xml
+10.1016/j.patrec.2012.07.020,7,Conclusions,4,/public/data/computer_science/Pattern_Recognition_Letters/2013/xml/562.xml
+10.1016/j.jpdc.2011.07.002,0,Introduction,0,/public/data/computer_science/Journal_of_Parallel_and_Distributed_Computing/2012/xml/317.xml
+10.1016/j.jpdc.2011.07.002,1,Related work,1,/public/data/computer_science/Journal_of_Parallel_and_Distributed_Computing/2012/xml/317.xml
+10.1016/j.jpdc.2011.07.002,2,Construction of EWCDSs under the CC model,2,/public/data/computer_science/Journal_of_Parallel_and_Distributed_Computing/2012/xml/317.xml
+10.1016/j.jpdc.2011.07.002,3,Simulations,3,/public/data/computer_science/Journal_of_Parallel_and_Distributed_Computing/2012/xml/317.xml
+10.1016/j.jpdc.2011.07.002,4,Conclusion and future work,4,/public/data/computer_science/Journal_of_Parallel_and_Distributed_Computing/2012/xml/317.xml
+10.1016/j.microrel.2010.02.015,0,Introduction,0,/public/data/computer_science/Microelectronics_Reliability/2001/xml/81.xml
+10.1016/j.microrel.2010.02.015,1,Theory,2,/public/data/computer_science/Microelectronics_Reliability/2001/xml/81.xml
+10.1016/j.microrel.2010.02.015,2,Critical voltage model,2,/public/data/computer_science/Microelectronics_Reliability/2001/xml/81.xml
+10.1016/j.microrel.2010.02.015,3,Discussion,4,/public/data/computer_science/Microelectronics_Reliability/2001/xml/81.xml
+10.1016/j.microrel.2010.02.015,4,Conclusion,4,/public/data/computer_science/Microelectronics_Reliability/2001/xml/81.xml
+10.1016/j.enganabound.2013.01.009,0,Introduction,0,/public/data/computer_science/Engineering_Analysis_with_Boundary_Elements/2013/xml/100.xml
+10.1016/j.enganabound.2013.01.009,1,Construction of the method,2,/public/data/computer_science/Engineering_Analysis_with_Boundary_Elements/2013/xml/100.xml
+10.1016/j.enganabound.2013.01.009,2,Numerical study,3,/public/data/computer_science/Engineering_Analysis_with_Boundary_Elements/2013/xml/100.xml
+10.1016/j.enganabound.2013.01.009,3,Concluding remarks,4,/public/data/computer_science/Engineering_Analysis_with_Boundary_Elements/2013/xml/100.xml
+10.1016/j.microrel.2009.10.015,0,Introduction,0,/public/data/computer_science/Microelectronics_Reliability/2001/xml/195.xml
+10.1016/j.microrel.2009.10.015,1,Experiments and simulations,3,/public/data/computer_science/Microelectronics_Reliability/2001/xml/195.xml
+10.1016/j.microrel.2009.10.015,2,Results,3,/public/data/computer_science/Microelectronics_Reliability/2001/xml/195.xml
+10.1016/j.microrel.2009.10.015,3,Discussion,4,/public/data/computer_science/Microelectronics_Reliability/2001/xml/195.xml
+10.1016/j.microrel.2009.10.015,4,Conclusions,4,/public/data/computer_science/Microelectronics_Reliability/2001/xml/195.xml
+10.1016/j.compag.2008.01.008,0,Introduction,0,/public/data/computer_science/Computers_and_Electronics_in_Agriculture/2008/xml/268.xml
+10.1016/j.compag.2008.01.008,1,Methodology,2,/public/data/computer_science/Computers_and_Electronics_in_Agriculture/2008/xml/268.xml
+10.1016/j.compag.2008.01.008,2,Results and analysis,3,/public/data/computer_science/Computers_and_Electronics_in_Agriculture/2008/xml/268.xml
+10.1016/j.compag.2008.01.008,3,Conclusion,4,/public/data/computer_science/Computers_and_Electronics_in_Agriculture/2008/xml/268.xml
+10.1016/j.eswa.2010.02.104,0,Introduction,0,/public/data/computer_science/Expert_Systems_with_Applications/2010/xml/1156.xml
+10.1016/j.eswa.2010.02.104,1,Petri nets,1,/public/data/computer_science/Expert_Systems_with_Applications/2010/xml/1156.xml
+10.1016/j.eswa.2010.02.104,2,Task definition,2,/public/data/computer_science/Expert_Systems_with_Applications/2010/xml/1156.xml
+10.1016/j.eswa.2010.02.104,3,Methodology,2,/public/data/computer_science/Expert_Systems_with_Applications/2010/xml/1156.xml
+10.1016/j.eswa.2010.02.104,4,Simulation and experimental results,3,/public/data/computer_science/Expert_Systems_with_Applications/2010/xml/1156.xml
+10.1016/j.eswa.2010.02.104,5,Conclusion,4,/public/data/computer_science/Expert_Systems_with_Applications/2010/xml/1156.xml
+10.1016/j.patcog.2009.01.035,0,Introduction,0,/public/data/computer_science/Pattern_Recognition/2009/xml/44.xml
+10.1016/j.patcog.2009.01.035,1,Background,1,/public/data/computer_science/Pattern_Recognition/2009/xml/44.xml
+10.1016/j.patcog.2009.01.035,2,Research methodology,2,/public/data/computer_science/Pattern_Recognition/2009/xml/44.xml
+10.1016/j.patcog.2009.01.035,3,Implementation and results,3,/public/data/computer_science/Pattern_Recognition/2009/xml/44.xml
+10.1016/j.patcog.2009.01.035,4,Summary and future work,4,/public/data/computer_science/Pattern_Recognition/2009/xml/44.xml
