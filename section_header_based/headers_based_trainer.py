@@ -2,8 +2,6 @@
 import sys
 sys.path.append('.')
 sys.path.append('..')
-from itertools import chain
-import nltk
 import sklearn
 import scipy.stats
 from sklearn.metrics import make_scorer
