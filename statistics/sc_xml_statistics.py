@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup as bs
 import re
 from collections import defaultdict
 from datetime import datetime
+import string
 import re
 
 #parse xml 
@@ -46,7 +47,10 @@ def parse_content(path):
 
                     if class_str=='svArticle':
                         if header!='':
+                            # content = content.translate(None, string.punctuation)
+                            
                             content = re.sub(r'<[^>]*?>','',content)
+                            content = re.sub(r'[^\w\s]',' ',content)
                             content = re.sub(r'\s+',' ',content)
                             content = content.replace('{math_begin}','').replace('{math_end}','').replace(u' ','').replace(u' )',')')
                             yield header,content

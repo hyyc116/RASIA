@@ -3,6 +3,8 @@
 Construct content based identification by using some specific headers.
 """
 import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
 sys.path.append('.')
 sys.path.append('..')
 from collections import defaultdict
@@ -34,7 +36,7 @@ def build_dataset(content_headers_path,sc_index_path,saved_path):
         for header,content in parse_content(path):
             if header in header_set:
                 sample={
-                    'header':header,
+                    'header':header_dict[header],
                     'content':content
                 }
                 data.append(sample)
@@ -49,7 +51,7 @@ def build_dataset(content_headers_path,sc_index_path,saved_path):
 
 if __name__ == '__main__':
     build_dataset(sys.argv[1],sys.argv[2],sys.argv[3])
-
+    # build_dataset('../data/content_headers.csv','../test/index.txt','data.json')
                 
 
 

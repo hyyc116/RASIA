@@ -123,6 +123,25 @@ def train_SVM(datapath,name):
     logging.info('---- saved learned model ----')
     classifier.save_model(best_clf,name)
 
+def train_RF(datapath,name):
+    logging.info('#### train section content based model with SVM ####')
+    classifier = content_based_classifier()
+    logging.info('==== reading training data ====')
+    classifier.set_dataset(datapath)
+    logging.info('##### Initialize SVM ####')
+    clf=svm.SVC()
+    classifier.set_classifier(clf)
+    params_space = {
+        'C': scipy.stats.expon(scale=100),
+        'gamma': scipy.stats.expon(scale=0.1),
+        'kernel':['rbf']
+    }
+    best_clf = classifier.train_and_test(params_space,clf)
+    logging.info('---- saved learned feature vector ----')
+    classifier.save_feature_vector(name)
+    logging.info('---- saved learned model ----')
+    classifier.save_model(best_clf,name)
+
 if __name__ == '__main__':
     train_SVM(sys.argv[1],sys.argv[2])
 

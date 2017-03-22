@@ -21,7 +21,6 @@ import numpy as np
 from optparse import OptionParser
 import os
 
-
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s',level=logging.INFO)
 
 class headers_based_classifer:
