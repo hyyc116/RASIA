@@ -25,6 +25,8 @@ import os
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
 
+logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s',level=logging.INFO)
+
 class content_based_classifier:
 
     def __init__(self,test_size=0.4):
