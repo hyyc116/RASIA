@@ -29,7 +29,7 @@ import string
 from nltk.stem.porter import PorterStemmer
 from sklearn.ensemble import ExtraTreesClassifier
 from sklearn.feature_selection import SelectFromModel
-
+from collections import defaultdict
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s',level=logging.INFO)
 
@@ -66,9 +66,14 @@ class content_based_classifier:
         data=json.loads(open(data_path).read().strip())
         X=[]
         y=[]
+        label_dict=defaultdict(int)
         for sample in data['data']:
             y.append(int(sample['header']))
+            label_dict[int(sample['header'])]+=1
             X.append(sample['content'])
+
+        for label in sorted(label_dict.keys()):
+            logging.info('{:}:{:}'.format(label,label_dict[label]))
         self.X_=self.vec_.fit_transform(X)
         self.y_=y
         logging.info('training data loading complete! length:{:}'.format(len(self.X_)))
