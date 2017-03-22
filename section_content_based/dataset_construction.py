@@ -8,6 +8,7 @@ sys.path.append('..')
 from collections import defaultdict
 from statistics.sc_xml_statistics import *
 import json
+import logging
 
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s',level=logging.INFO)
