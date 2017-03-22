@@ -24,8 +24,27 @@ from optparse import OptionParser
 import os
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
+import nltk
+import string
+from nltk.stem.porter import PorterStemmer
+from sklearn.ensemble import ExtraTreesClassifier
+from sklearn.feature_selection import SelectFromModel
+
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s',level=logging.INFO)
+
+stemmer = PorterStemmer()
+
+def stem_tokens(tokens, stemmer):
+    stemmed = []
+    for item in tokens:
+        stemmed.append(stemmer.stem(item))
+    return stemmed
+
+def tokenize(text):
+    tokens = nltk.word_tokenize(text.lower())
+    stems = stem_tokens(tokens, stemmer)
+    return stems
 
 class content_based_classifier:
 
@@ -40,8 +59,7 @@ class content_based_classifier:
         }
         self.labels_ =[self.tag_dict_[i] for i in sorted(self.tag_dict_.keys())]
         self.test_size_=test_size
-        self.vec_= TfidfVectorizer(sublinear_tf=True, max_df=0.5,
-                                 stop_words='english')
+        self.vec_= TfidfVectorizer(stokenizer=tokenize, stop_words='english', max_df=0.5)
 
     #set dataset and get train text
     def set_dataset(self,data_path):
@@ -55,7 +73,18 @@ class content_based_classifier:
         self.y_=y
         logging.info('training data loading complete! length:{:}'.format(len(self.X_)))
 
-    def train_test_split(self):
+    #learn feature selection model
+    def learn_FS_model(self):
+        clf = ExtraTreesClassifier()
+        clf.fit(self.X_,self,y_)
+        self.fs_model_ = SelectFromModel(clf, prefit=True)
+        self.X_ = self.fs_model_.transfrom(self.X_)
+
+    def feature_selection(self,X):
+        self.fs_model_.transfrom(X)
+
+
+    def split_train_test(self):
         self.X_train_,self.X_test_,self.y_train_,self.y_test_=train_test_split(self.X_,self.y_,test_size=self.test_size_,random_state=0)
 
     #set the classifier used
@@ -85,9 +114,16 @@ class content_based_classifier:
 
     def save_feature_vector(self,name):
         joblib.dump(self.vec_,'{:}-vec.pkl'.format(name))
+        logging.info('feature extraction vector saved to {:}-vec.pkl'.format(name))
+
+    def save_fs_model(self,name):
+        joblib.dump(self.fs_model_,'{:}-fsm.pkl'.format(name))
+        logging.info('feature selection vector saved to {:}-fsm.pkl'.format(name))
+
 
     def save_model(self,clf,name):
         joblib.dump(clf,'{:}-model.pkl'.format(name))
+        logging.info('trained model saved to {:}-model.pkl'.format(name))
 
     # train and test
     def train_and_test(self,params_space,clf):
@@ -109,28 +145,14 @@ def train_SVM(datapath,name):
     classifier = content_based_classifier()
     logging.info('==== reading training data ====')
     classifier.set_dataset(datapath)
-    logging.info('##### Initialize SVM ####')
-    clf=svm.SVC()
-    classifier.set_classifier(clf)
-    params_space = {
-        'C': scipy.stats.expon(scale=100),
-        'gamma': scipy.stats.expon(scale=0.1),
-        'kernel':['rbf']
-    }
-    best_clf = classifier.train_and_test(params_space,clf)
-    logging.info('---- saved learned feature vector ----')
-    classifier.save_feature_vector(name)
-    logging.info('---- saved learned model ----')
-    classifier.save_model(best_clf,name)
+    logging.info('==== feature selection ====')
+    classifier.learn_FS_model()
+    classifier.save_fs_model(name)
+    logging.info('==== feature selection ====')
+    classifier.split_train_test()
 
-def train_RF(datapath,name):
-    logging.info('#### train section content based model with SVM ####')
-    classifier = content_based_classifier()
-    logging.info('==== reading training data ====')
-    classifier.set_dataset(datapath)
     logging.info('##### Initialize SVM ####')
     clf=svm.SVC()
-    classifier.set_classifier(clf)
     params_space = {
         'C': scipy.stats.expon(scale=100),
         'gamma': scipy.stats.expon(scale=0.1),
@@ -141,6 +163,7 @@ def train_RF(datapath,name):
     classifier.save_feature_vector(name)
     logging.info('---- saved learned model ----')
     classifier.save_model(best_clf,name)
+    logging.info('---- Training complete ----')
 
 if __name__ == '__main__':
     train_SVM(sys.argv[1],sys.argv[2])
