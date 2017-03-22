@@ -33,7 +33,7 @@ def build_dataset(content_headers_path,sc_index_path,saved_path):
     for line in open(sc_index_path):
         count+=1
         if count%100==1:
-            logging.info('PROGRESS:{:}, extract {:} samples.'.format(count,len(data)))
+            logging.info('PROGRESS:{:}, extract {:} samples.'.format(count))
         path = line.strip()
         for header,content in parse_content(path):
             if header in header_set:
