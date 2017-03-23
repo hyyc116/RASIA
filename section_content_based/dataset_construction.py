@@ -46,7 +46,7 @@ def build_dataset(content_headers_path,sc_index_path,saved_path):
     logging.info('random select 5000 samples for every label.')
     for label in sorted(label_dict.keys()):
         logging.info('{:}:{:}'.format(label,len(label_dict[label])))
-        data.extend(random.sample(label_dict[label]),5000)
+        data.extend(random.sample(label_dict[label],5000))
 
     random.shuffle(data)  
 
