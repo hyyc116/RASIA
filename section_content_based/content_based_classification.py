@@ -107,7 +107,7 @@ class content_based_classifier:
     def search_hyper_parameter(self,n_iter=50):
       
         rs = RandomizedSearchCV(self.clf_, self.params_space_,
-                        cv=cv,
+                        cv=3,
                         verbose=1,
                         n_jobs=-1,
                         n_iter=n_iter)
