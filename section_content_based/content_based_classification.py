@@ -80,7 +80,7 @@ class content_based_classifier:
 
         self.X_=self.vec_.fit_transform(X)
         self.y_=y
-        logging.info('training data loading complete! length:{:}'.format(len(self.X_)))
+        logging.info('training data loading complete! length:{:}'.format(self.X_.shape[0]))
 
     #learn feature selection model
     def learn_FS_model(self):
