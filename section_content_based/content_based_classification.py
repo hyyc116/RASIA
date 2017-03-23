@@ -87,7 +87,7 @@ class content_based_classifier:
         clf = ExtraTreesClassifier()
         clf.fit(self.X_,self.y_)
         self.fs_model_ = SelectFromModel(clf, prefit=True)
-        self.X_ = self.fs_model_.transfrom(self.X_)
+        self.X_ = self.fs_model_.transform(self.X_)
 
     def feature_selection(self,X):
         self.fs_model_.transfrom(X)
