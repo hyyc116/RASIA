@@ -109,7 +109,7 @@ class content_based_classifier:
         rs = RandomizedSearchCV(self.clf_, self.params_space_,
                         cv=3,
                         verbose=1,
-                        n_jobs=-1,
+                        n_jobs=4,
                         n_iter=n_iter)
 
         rs.fit(self.X_train_, self.y_train_)
