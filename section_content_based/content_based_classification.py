@@ -30,6 +30,7 @@ from nltk.stem.porter import PorterStemmer
 from sklearn.ensemble import ExtraTreesClassifier
 from sklearn.feature_selection import SelectFromModel
 from collections import defaultdict
+import string
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s',level=logging.INFO)
 
@@ -42,7 +43,9 @@ def stem_tokens(tokens, stemmer):
     return stemmed
 
 def tokenize(text):
-    tokens = nltk.word_tokenize(text.lower())
+    text = text.lower()
+    text = text.translate(None, string.punctuation)
+    tokens = nltk.word_tokenize(text)
     stems = stem_tokens(tokens, stemmer)
     return stems
 
@@ -74,6 +77,7 @@ class content_based_classifier:
 
         for label in sorted(label_dict.keys()):
             logging.info('{:}:{:}'.format(label,label_dict[label]))
+
         self.X_=self.vec_.fit_transform(X)
         self.y_=y
         logging.info('training data loading complete! length:{:}'.format(len(self.X_)))
