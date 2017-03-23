@@ -44,7 +44,7 @@ def stem_tokens(tokens, stemmer):
 
 def tokenize(text):
     text = text.lower()
-    text = text.translate(None, string.punctuation)
+    text = str(text).translate(None, string.punctuation)
     tokens = nltk.word_tokenize(text)
     stems = stem_tokens(tokens, stemmer)
     return stems
