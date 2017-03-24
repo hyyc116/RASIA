@@ -164,7 +164,7 @@ def train_SVM(datapath,name):
     clf=svm.SVC()
     params_space = {
         'C': scipy.stats.expon(scale=100),
-        'gamma': scipy.stats.expon(scale=0.1),
+        'gamma': scipy.stats.expon(scale=0.01),
         'kernel':['rbf']
     }
     best_clf = classifier.train_and_test(params_space,clf)
