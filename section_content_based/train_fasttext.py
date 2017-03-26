@@ -45,10 +45,20 @@ def train_fasttext(data_path,name):
     for label in sorted(label_dict.keys()):
         logging.info('{:}:{:}'.format(label,label_dict[label]))
 
+    logging.info('split training dataset')
     train_lines,test_lines = train_test_split(lines,test_size=0.4,random_state=0)
     open('../raw_data/train_data_for_fasttext.txt','w').write('\n'.join(train_lines))
     open('../raw_data/test_data_for_fasttext.txt','w').write('\n'.join(test_lines))
-        
+
+    logging.info('training')
+
+    ft_trainer = fasttext_trainer('ft_model')
+    ft_trainer.train('../raw_data/train_data_for_fasttext.txt')
+    result = tf_trainer.test('../raw_data/testdata_for_fasttext.txt')
+    logging.info('Precision:{:}'.format(result.precision))
+    logging.info('Recall:{:}'.format(result.recall))
+    logging.info('Number of examples:{:}'.format(result.nexamples))
+
 
 
 
