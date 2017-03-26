@@ -4,6 +4,7 @@ import fasttext
 import json
 import logging
 from sklearn.model_selection import train_test_split
+from collections import defaultdict
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s',level=logging.INFO)
 
