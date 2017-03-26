@@ -55,7 +55,7 @@ def train_fasttext(data_path,name):
 
     ft_trainer = fasttext_trainer(name)
     ft_trainer.train('../raw_data/train_data_for_fasttext.txt')
-    result = tf_trainer.test('../raw_data/testdata_for_fasttext.txt')
+    result = ft_trainer.test('../raw_data/testdata_for_fasttext.txt')
     logging.info('Precision:{:}'.format(result.precision))
     logging.info('Recall:{:}'.format(result.recall))
     logging.info('Number of examples:{:}'.format(result.nexamples))
