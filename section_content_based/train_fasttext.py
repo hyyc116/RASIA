@@ -52,12 +52,15 @@ def train_fasttext(data_path,name):
 
     logging.info('training')
 
-    ft_trainer = fasttext_trainer('ft_model')
+    ft_trainer = fasttext_trainer(name)
     ft_trainer.train('../raw_data/train_data_for_fasttext.txt')
     result = tf_trainer.test('../raw_data/testdata_for_fasttext.txt')
     logging.info('Precision:{:}'.format(result.precision))
     logging.info('Recall:{:}'.format(result.recall))
     logging.info('Number of examples:{:}'.format(result.nexamples))
+
+if __name__=="__main__":
+    train_fasttext(sys.argv[1],sys.argv[2])
 
 
 
