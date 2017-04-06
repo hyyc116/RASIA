@@ -55,7 +55,7 @@ def get_token_citation_sents(soup):
             # break
 
 def parse_one(path,all_refs_dict):
-    xml_str = open('../test/test.XML').read()
+    xml_str = open(path).read()
     soup = parse_xml_with_bs(xml_str)
     # doi=soup.select()
     ref_dict = parse_refs(soup)
