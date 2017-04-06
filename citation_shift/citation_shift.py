@@ -111,9 +111,4 @@ def parse_index(indexfile):
 
 
 if __name__ == '__main__':
-    all_refs_dict={}
-    all_refs_dict = parse_one('../test/test.XML',all_refs_dict)
-    for label in all_refs_dict.keys():
-        print '==============='
-        print label
-        print all_refs_dict[label]
+    parse_index(sys.argv[1])
