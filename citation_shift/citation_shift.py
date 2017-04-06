@@ -16,7 +16,10 @@ def parse_xml_with_bs(xml_str):
 #parse
 def parse_refs(soup):
     ref_dict=defaultdict(dict)
-    ref_list = soup.find_all('ref-list')[0]
+    ref_lists = soup.find_all('ref-list')
+    if len(ref_lists)==0:
+        return None
+    ref_list = ref_lists[0]
     for ref in ref_list.select('ref'):
         # print '===='
         years=ref.select('year')
@@ -59,6 +62,8 @@ def parse_one(path,all_refs_dict):
     soup = parse_xml_with_bs(xml_str)
     # doi=soup.select()
     ref_dict = parse_refs(soup)
+    if ref_dict is None:
+        return None
     for sent,title in get_token_citation_sents(soup):
       
         if "<xref" not in sent:
@@ -104,7 +109,11 @@ def parse_index(indexfile):
         if progress%100==1:
             print 'PROGRESS',progress
         path = line.strip()
-        all_refs_dict = parse_one(path,all_refs_dict)
+        new_dict = parse_one(path,all_refs_dict)
+        if new_dict is None:
+            continue
+        else:
+            all_refs_dict=new_dict
 
     print 'done'
     open('raw_data/plos_cf_ref_dict.json','w').write(json.dumps(all_refs_dict))
