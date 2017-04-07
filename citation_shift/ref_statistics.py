@@ -34,6 +34,9 @@ def parse_refs(soup):
 
     return ref_dict
 
+def parse_pub_date(soup):
+    return soup.select('pub-date year')[0].get_text()
+
 def get_token_citation_sents(soup):
     for sec in  soup.find_all('sec'):
         if sec.parent.name=='article':
@@ -64,6 +67,9 @@ def parse_one(path,all_refs_dict):
     ref_dict = parse_refs(soup)
     if ref_dict is None:
         return None
+
+    pub_year = int(parse_pub_date(soup))
+
     for sent,title in get_token_citation_sents(soup):
       
         if "<xref" not in sent:
@@ -88,7 +94,7 @@ def parse_one(path,all_refs_dict):
                         one_ref_dict = all_refs_dict.get(label,{})
                         one_ref_dict['ref']=ref_dict[rid]
                         countonelist = one_ref_dict.get('count_one',[])
-                        countonelist.append(path)
+                        countonelist.append((path,pub_year))
                         one_ref_dict['count_one'] = countonelist
                         one_ref_dict['count_X'] = one_ref_dict.get('count_X',0)+1
                         ctx = one_ref_dict.get('context',[])
@@ -117,6 +123,7 @@ def parse_index(indexfile):
         else:
             all_refs_dict=new_dict
 
+    # print all_refs_dict
     print 'done'
     open('raw_data/plos_cf_ref_dict.json','w').write(json.dumps(all_refs_dict))
 
