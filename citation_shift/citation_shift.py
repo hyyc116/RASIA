@@ -109,6 +109,8 @@ def parse_index(indexfile):
         if progress%100==1:
             print 'PROGRESS',progress
         path = line.strip()
+        if not path.endswith('.nxml'):
+            continue
         new_dict = parse_one(path,all_refs_dict)
         if new_dict is None:
             continue
