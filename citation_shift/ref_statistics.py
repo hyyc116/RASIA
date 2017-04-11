@@ -102,6 +102,7 @@ def parse_one(path,all_refs_dict):
                         c['path']=path
                         c['pos_tit']=title
                         c['context']=sent_str
+                        c['year']=pub_year
                         ctx.append(c)
                         one_ref_dict['context']=ctx
                         all_refs_dict[label]=one_ref_dict
@@ -129,4 +130,4 @@ def parse_index(indexfile):
 
 
 if __name__ == '__main__':
-    parse_index(sys.argv[1])
+    parse_index(argv[1])

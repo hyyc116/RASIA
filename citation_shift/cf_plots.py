@@ -17,7 +17,7 @@ def get_top_N_papers(data,N=100):
 
 
 def random_select_N_papers(data,N=100):
-    random_index = random(0,len(data.keys()))
+    random_index = randrange(0,len(data.keys()))
     selected_dic={}
     for index in random_index:
         key = data.keys[index]
