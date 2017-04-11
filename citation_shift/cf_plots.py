@@ -41,10 +41,37 @@ def load_structure_dict(path):
 def plot_general_statistics(one_article_dict):
     pass
 
+#plot the distribution over structure
 def plot_structure_dis(one_article_dict):
     pass
 
+#plot the temporal distribution over structure
 def plot_temporal_dis_over_structure(one_article_dict):
     pass
 
+#weighted citation network, Count X or weighted fields
+def plot_weighted_citation_network():
+    pass
+
+#co-citation, co-cited in different structure
+def cocitation_network_within_structrue(one_article_dict):
+    pass
+
+def plot_sentiment_curve(one_article_dict):
+    pass
+
+#context diversity
+def citation_context_diversity(one_article_dict):
+    pass
+
+def cal_citation_delta_t(one_article_dict):
+    pass
+
+def main():
+    data = load_data('raw_data/plos_cf_ref_dict.json')
+    top_dict = get_top_N_papers(data)
+    open('plos_top_10_dict.json','w').write(json.dumps(top_dict))
+
+if __name__ == '__main__':
+    main()
 
