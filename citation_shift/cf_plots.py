@@ -8,7 +8,7 @@ from random import randrange
 def load_data(json_path):
     return json.loads(open(json_path).read())
 
-def get_top_N_papers(data,N=10):
+def get_top_N_papers(data,N=100):
     top_dict={}
     for k,v in sorted(data.items(),key=lambda x:x[1]['count_X'],reverse=True):
         top_dict[k]=v
@@ -16,7 +16,7 @@ def get_top_N_papers(data,N=10):
     return top_dict
 
 
-def random_select_N_papers(data,N=10):
+def random_select_N_papers(data,N=100):
     random_index = random(0,len(data.keys()))
     selected_dic={}
     for index in random_index:
@@ -70,7 +70,9 @@ def cal_citation_delta_t(one_article_dict):
 def main():
     data = load_data('raw_data/plos_cf_ref_dict.json')
     top_dict = get_top_N_papers(data)
-    open('plos_top_10_dict.json','w').write(json.dumps(top_dict))
+    random_dict = random_select_N_papers(data)
+    open('plos_top_100_dict.json','w').write(json.dumps(top_dict))
+    open('plos_rand_100_dict.json','w').write(json.dumps(random_dict))
 
 if __name__ == '__main__':
     main()
