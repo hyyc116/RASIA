@@ -130,4 +130,4 @@ def parse_index(indexfile):
 
 
 if __name__ == '__main__':
-    parse_index(argv[1])
+    parse_index(sys.argv[1])
