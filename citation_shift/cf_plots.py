@@ -143,7 +143,7 @@ def plot_top_10(path,structure_path):
             xs.append(xs)
             ys.append(ys)
 
-        plot_line(xs,ys,ax[count,0],title='Count One')
+        plot_line(xs,ys,axes[count,0],title='Count One')
         #for count X
         xs=[]
         ys=[]
@@ -151,7 +151,7 @@ def plot_top_10(path,structure_path):
             xs.append(xs)
             ys.append(ys)
 
-        plot_line(xs,ys,ax[count,1],title='Count X')
+        plot_line(xs,ys,axes[count,1],title='Count X')
 
         #plot structure dis
         xs=[]
