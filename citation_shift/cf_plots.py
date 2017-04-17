@@ -2,25 +2,32 @@
 import sys
 import json
 from random import randrange
-
+from collections import defaultdict
 
 
 def load_data(json_path):
     return json.loads(open(json_path).read())
 
-def get_top_N_papers(data,N=100):
+def get_top_N_papers_by_countX(data,N=100):
     top_dict={}
-    for k,v in sorted(data.items(),key=lambda x:x[1]['count_X'],reverse=True):
+    for k,v in sorted(data.items(),key=lambda x:x[1]['count_X'],reverse=True)[:N]:
+        top_dict[k]=v
+
+    return top_dict
+
+def get_top_N_papers_by_countO(data,N=100):
+    top_dict={}
+    for k,v in sorted(data.items(),key=lambda x:len(set(x[1]['count_one'])),reverse=True)[:N]:
         top_dict[k]=v
 
     return top_dict
 
 
 def random_select_N_papers(data,N=100):
-    random_index = randrange(0,len(data.keys()))
+    # random_index = randrange(0,len(data.keys()))
     selected_dic={}
-    for index in random_index:
-        key = data.keys[index]
+    for index in range(N):
+        key = random.choice(data.keys())
         value = data[key]
         selected_dic[key] = value
 
@@ -46,8 +53,17 @@ def plot_structure_dis(one_article_dict):
     pass
 
 #plot the temporal distribution over structure
-def plot_temporal_dis_over_structure(one_article_dict):
-    pass
+def temporal_dis_over_structure(one_article_dict,structure_dict):
+    year_heading_dict=defaultdict(dict)
+    contexts = one_article_dict['context']
+    for ctx in contexts:
+        heading = ctx['pos_tit']
+        year = ctx['year']
+        structure_tag = structure_dict.get(structure_dict,'-1')
+        if structure_tag!='-1':
+            year_heading_dict[year][structure_tag]=year_heading_dict[year].get(structure_tag,0)+1
+
+    return year_heading_dict
 
 #weighted citation network, Count X or weighted fields
 def plot_weighted_citation_network():
@@ -64,14 +80,17 @@ def plot_sentiment_curve(one_article_dict):
 def citation_context_diversity(one_article_dict):
     pass
 
+#delta_t plot
 def cal_citation_delta_t(one_article_dict):
     pass
 
 def main():
     data = load_data('raw_data/plos_cf_ref_dict.json')
-    top_dict = get_top_N_papers(data)
+    topO_dict = get_top_N_papers_by_countO(data)
+    topX_dict = get_top_N_papers_by_countX(data)
     random_dict = random_select_N_papers(data)
-    open('plos_top_100_dict.json','w').write(json.dumps(top_dict))
+    open('plos_topO_100_dict.json','w').write(json.dumps(topO_dict))
+    open('plos_topX_100_dict.json','w').write(json.dumps(topX_dict))
     open('plos_rand_100_dict.json','w').write(json.dumps(random_dict))
 
 if __name__ == '__main__':

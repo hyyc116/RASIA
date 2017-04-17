@@ -126,8 +126,8 @@ def parse_index(indexfile):
 
     # print all_refs_dict
     print 'done'
-    open('raw_data/plos_cf_ref_dict.json','w').write(json.dumps(all_refs_dict))
+    open('plos_cf_ref_dict.json','w').write(json.dumps(all_refs_dict))
 
 
 if __name__ == '__main__':
-    parse_index(sys.argv[1])
+    parse_index('../test/index.txt')
