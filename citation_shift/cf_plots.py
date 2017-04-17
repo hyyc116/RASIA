@@ -17,7 +17,7 @@ def get_top_N_papers_by_countX(data,N=100):
 
 def get_top_N_papers_by_countO(data,N=100):
     top_dict={}
-    for k,v in sorted(data.items(),key=lambda x:len(set(x[1]['count_one'])),reverse=True)[:N]:
+    for k,v in sorted(data.items(),key=lambda x:len(set(x[1]['count_one'][0])),reverse=True)[:N]:
         top_dict[k]=v
 
     return top_dict
@@ -89,9 +89,9 @@ def main():
     topO_dict = get_top_N_papers_by_countO(data)
     topX_dict = get_top_N_papers_by_countX(data)
     random_dict = random_select_N_papers(data)
-    open('plos_topO_100_dict.json','w').write(json.dumps(topO_dict))
-    open('plos_topX_100_dict.json','w').write(json.dumps(topX_dict))
-    open('plos_rand_100_dict.json','w').write(json.dumps(random_dict))
+    open('raw_data/plos_topO_100_dict.json','w').write(json.dumps(topO_dict))
+    open('raw_data/plos_topX_100_dict.json','w').write(json.dumps(topX_dict))
+    open('raw_data/plos_rand_100_dict.json','w').write(json.dumps(random_dict))
 
 if __name__ == '__main__':
     main()
