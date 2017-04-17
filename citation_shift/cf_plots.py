@@ -90,7 +90,7 @@ def get_temporal_structure_dis(one_article_dict,structure_dict):
     for ctx in contexts:
         heading = ctx['pos_tit']
         year = int(ctx['year'])
-        structure_tag = structure_dict.get(structure,'-1')
+        structure_tag = structure_dict.get(heading,'-1')
         if structure_tag!='-1':
             year_heading_dict[year][structure_tag]=year_heading_dict[year].get(structure_tag,0)+1
 
