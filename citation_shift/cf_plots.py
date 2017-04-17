@@ -128,7 +128,7 @@ def main():
 def plot_top_10(path,structure_path):
     structure_dict = load_structure_dict(structure_path)
     data = json.loads(open(path).read())
-    fig,axes = plt.subplots(10,4,figsize(10,50))
+    fig,axes = plt.subplots(10,4,figsize=(10,50))
     count=0
     for k,v in sorted(data.items(),key=lambda x:x[1]['count_X'],reverse=True)[:10]:
         one_article_dict = v
