@@ -17,7 +17,7 @@ def get_top_N_papers_by_countX(data,N=100):
 
 def get_top_N_papers_by_countO(data,N=100):
     top_dict={}
-    for k,v in sorted(data.items(),key=lambda x:len(set([one[0] for onr in x[1]['count_one']])),reverse=True)[:N]:
+    for k,v in sorted(data.items(),key=lambda x:len(set([one[0] for one in x[1]['count_one']])),reverse=True)[:N]:
         top_dict[k]=v
 
     return top_dict
@@ -52,6 +52,19 @@ def plot_general_statistics(one_article_dict):
     count_one_list = one_article_dict['count_one']
     
     count_one_dict = defaultdict(int)
+    count_X_dict=defaultdict(int)
+    already_set=set()
+    for citation in count_one_dict:
+        citation_path = citation[0]
+        citation_year = int(citation[1])
+
+        count_X_dict[citation_year]+=1
+        if citation_path not in already_set:
+            count_one_dict[citation_year]+=1
+
+        already_set.add(citation_path)
+
+
 
 
 
