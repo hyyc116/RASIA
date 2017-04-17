@@ -172,7 +172,7 @@ def plot_top_10(path,structure_path):
             structure_dis = temporal_structure_dis[year]
             ys_count=0
             for structure in sorted(structure_dis.keys()):
-                ys_count+=structure_dis[]
+                ys_count+=structure_dis[structure]
 
             for structure in sorted(structure_dis.keys()):
                 temporal_structure_dis[structure].append(temporal_structure_dis[structure]/float(ys_count))
