@@ -1,7 +1,7 @@
 #coding:utf-8
 import sys
 import json
-from random import randrange
+import random 
 from collections import defaultdict
 
 
@@ -17,7 +17,7 @@ def get_top_N_papers_by_countX(data,N=100):
 
 def get_top_N_papers_by_countO(data,N=100):
     top_dict={}
-    for k,v in sorted(data.items(),key=lambda x:len(set(x[1]['count_one'][0])),reverse=True)[:N]:
+    for k,v in sorted(data.items(),key=lambda x:len(set([one[0] for onr in x[1]['count_one']])),reverse=True)[:N]:
         top_dict[k]=v
 
     return top_dict
@@ -46,7 +46,16 @@ def load_structure_dict(path):
 
 # plot count one curve , count X curve
 def plot_general_statistics(one_article_dict):
-    pass
+    title = one_article_dict['ref']['title']
+    year = int(one_article_dict['ref']['year'])
+
+    count_one_list = one_article_dict['count_one']
+    
+    count_one_dict = defaultdict(int)
+
+
+
+
 
 #plot the distribution over structure
 def plot_structure_dis(one_article_dict):
