@@ -197,7 +197,7 @@ def plot_line(x,y,ax,title):
 def plot_bar(x,y,ax,title):
     x=np.array(x)
     x_pos = np.arange(len(x))
-    ax.bar(x_pos,y,align='center',color=cml.get_color('bar'))
+    ax.bar(x_pos,y,align='center')
     ax.set_xticks(x_pos)
     ax.set_xticklabels(x)
     ax.set_title(title)
