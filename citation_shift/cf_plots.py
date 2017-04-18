@@ -162,7 +162,7 @@ def plot_top_10(path,structure_path):
                 ys.append(structure_dis[structure])
 
         ys = [float(i)/sum(ys) for i in ys]
-        plot_bar(x,y,axes[count,2],title='Distribution Over structure')
+        plot_bar(xs,ys,axes[count,2],title='Distribution Over structure')
 
         #plot temporal distribution
         temporal_structure_dis = defaultdict(list)
