@@ -166,7 +166,7 @@ def plot_top_10(path,structure_path):
         plot_bar(xs,ys,axes[count,2],title='Distribution Over structure')
 
         #plot temporal distribution
-        temporal_structure_dis = defaultdict(list)
+        temp_structure_dis = defaultdict(list)
         xs=[]
         for year in sorted(temporal_structure_dis.keys()):
             xs.append(year)
@@ -176,11 +176,11 @@ def plot_top_10(path,structure_path):
                 ys_count+=structure_dis[structure]
 
             for structure in sorted(structure_dis.keys()):
-                temporal_structure_dis[structure].append(temporal_structure_dis[structure]/float(ys_count))
+                temp_structure_dis[structure].append(structure_dis[structure]/float(ys_count))
 
         ax4= axes[count,3]
-        for structure in sorted(temporal_structure_dis.keys()):
-            ax4.plot(xs,temporal_structure_dis[structure],label='{:}'.format(structure))
+        for structure in sorted(temp_structure_dis.keys()):
+            ax4.plot(xs,temp_structure_dis[structure],label='{:}'.format(structure))
 
         ax4.legend()
         ax4.set_title('Temporal Structure Distribution')
