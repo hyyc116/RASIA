@@ -184,11 +184,12 @@ def plot_top_10(path,structure_path):
                 temp_structure_dis[structure][year]=structure_dis[structure]/float(ys_count)
 
         ax4= axes[count,3]
+        print 'start to plot'
         for structure in sorted(temp_structure_dis.keys()):
             xs =[]
             ys=[]
             for year in sorted(temp_structure_dis[structure].keys()):
-                xs.append(xs)
+                xs.append(year)
                 ys.append(temp_structure_dis[structure][year])
             ax4.plot(xs,ys,label='{:}'.format(structure))
 
