@@ -131,6 +131,7 @@ def plot_top_10(path,structure_path):
     data = json.loads(open(path).read())
     fig,axes = plt.subplots(10,4,figsize=(10,50))
     count=0
+    print count
     for k,v in sorted(data.items(),key=lambda x:x[1]['count_X'],reverse=True)[:10]:
         one_article_dict = v
         count_one_dict,count_X_dict = get_general_statistics(one_article_dict)
@@ -138,6 +139,7 @@ def plot_top_10(path,structure_path):
         temporal_structure_dis = get_temporal_structure_dis(one_article_dict,structure_dict)
 
         #for count one
+        print 'count one'
         xs=[]
         ys=[]
         for year in sorted(count_one_dict.keys()):
@@ -146,6 +148,7 @@ def plot_top_10(path,structure_path):
 
         plot_line(xs,ys,axes[count,0],title='Count One')
         #for count X
+        print 'count X'
         xs=[]
         ys=[]
         for year in sorted(count_X_dict.keys()):
@@ -155,6 +158,7 @@ def plot_top_10(path,structure_path):
         plot_line(xs,ys,axes[count,1],title='Count X')
 
         #plot structure dis
+        print 'structure Distribution'
         xs=[]
         ys=[]
         for structure in sorted(structure_dis):
@@ -166,6 +170,7 @@ def plot_top_10(path,structure_path):
         plot_bar(xs,ys,axes[count,2],title='Distribution Over structure')
 
         #plot temporal distribution
+        print 'temporal structure distribution'
         temp_structure_dis = defaultdict(dict)
         # xs=[]
         for year in sorted(temporal_structure_dis.keys()):
