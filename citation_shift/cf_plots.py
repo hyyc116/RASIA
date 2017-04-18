@@ -59,7 +59,7 @@ def get_general_statistics(one_article_dict):
     count_one_dict = defaultdict(int)
     count_X_dict=defaultdict(int)
     already_set=set()
-    for citation in count_one_dict:
+    for citation in count_one_list:
         citation_path = citation[0]
         citation_year = int(citation[1])
 
@@ -90,14 +90,19 @@ def get_structure_dis(one_article_dict,structure_dict):
 
 #plot the temporal distribution over structure
 def get_temporal_structure_dis(one_article_dict,structure_dict):
+    title = one_article_dict['ref']['title']
+    year = int(one_article_dict['ref']['year'])
+
+
     year_heading_dict=defaultdict(dict)
     contexts = one_article_dict['context']
     for ctx in contexts:
         heading = ctx['pos_tit']
-        year = int(ctx['year'])
+        cit_year = int(ctx['year'])
+        delta_t = cit_year-year
         structure_tag = structure_dict.get(heading,'-1')
         if structure_tag!='-1':
-            year_heading_dict[year][structure_tag]=year_heading_dict[year].get(structure_tag,0)+1
+            year_heading_dict[delta_t][structure_tag]=year_heading_dict[delta_t].get(structure_tag,0)+1
 
     return year_heading_dict
 
