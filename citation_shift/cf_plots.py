@@ -55,7 +55,7 @@ def get_general_statistics(one_article_dict):
 
     count_one_list = one_article_dict['count_one']
     print title,year    
-    print len(count_one_dict)
+    print len(count_one_list)
     count_one_dict = defaultdict(int)
     count_X_dict=defaultdict(int)
     already_set=set()
