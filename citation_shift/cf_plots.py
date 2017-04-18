@@ -145,7 +145,9 @@ def plot_top_10(path,structure_path):
         for year in sorted(count_one_dict.keys()):
             xs.append(year)
             ys.append(count_one_dict[year])
-
+        print count_one_dict
+        print xs 
+        print ys
         plot_line(xs,ys,axes[count,0],title='Count One')
         #for count X
         print 'count X'
@@ -155,6 +157,9 @@ def plot_top_10(path,structure_path):
             xs.append(year)
             ys.append(count_X_dict[year])
 
+        print count_X_dict
+        print xs 
+        print ys
         plot_line(xs,ys,axes[count,1],title='Count X')
 
         #plot structure dis
