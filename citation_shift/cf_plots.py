@@ -49,11 +49,12 @@ def load_structure_dict(path):
 
 # plot count one curve , count X curve
 def get_general_statistics(one_article_dict):
+
     title = one_article_dict['ref']['title']
     year = int(one_article_dict['ref']['year'])
 
     count_one_list = one_article_dict['count_one']
-    
+    print title,year    
     count_one_dict = defaultdict(int)
     count_X_dict=defaultdict(int)
     already_set=set()
@@ -61,9 +62,10 @@ def get_general_statistics(one_article_dict):
         citation_path = citation[0]
         citation_year = int(citation[1])
 
-        count_X_dict[citation_year]+=1
+        delta_t = citation_year - year
+        count_X_dict[delta_t]+=1
         if citation_path not in already_set:
-            count_one_dict[citation_year]+=1
+            count_one_dict[delta_t]+=1
 
         already_set.add(citation_path)
 
