@@ -42,7 +42,7 @@ def load_structure_dict(path):
         line = line.strip()
         splits = line.split(',')
         header = splits[0]
-        label = splits[1]
+        label = splits[2]
         structure_dict[header]=label
 
     return structure_dict
@@ -129,7 +129,7 @@ def main():
 def plot_top_10(path,structure_path):
     structure_dict = load_structure_dict(structure_path)
     data = json.loads(open(path).read())
-    fig,axes = plt.subplots(10,4,figsize=(10,50))
+    fig,axes = plt.subplots(10,4,figsize=(20,50))
     count=0
     print count
     for k,v in sorted(data.items(),key=lambda x:x[1]['count_X'],reverse=True)[:10]:
@@ -143,8 +143,8 @@ def plot_top_10(path,structure_path):
         xs=[]
         ys=[]
         for year in sorted(count_one_dict.keys()):
-            xs.append(xs)
-            ys.append(ys)
+            xs.append(year)
+            ys.append(count_one_dict[year])
 
         plot_line(xs,ys,axes[count,0],title='Count One')
         #for count X
@@ -152,8 +152,8 @@ def plot_top_10(path,structure_path):
         xs=[]
         ys=[]
         for year in sorted(count_X_dict.keys()):
-            xs.append(xs)
-            ys.append(ys)
+            xs.append(year)
+            ys.append(count_X_dict[year])
 
         plot_line(xs,ys,axes[count,1],title='Count X')
 
