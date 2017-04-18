@@ -55,6 +55,7 @@ def get_general_statistics(one_article_dict):
 
     count_one_list = one_article_dict['count_one']
     print title,year    
+    print len(count_one_dict)
     count_one_dict = defaultdict(int)
     count_X_dict=defaultdict(int)
     already_set=set()
@@ -63,6 +64,7 @@ def get_general_statistics(one_article_dict):
         citation_year = int(citation[1])
 
         delta_t = citation_year - year
+        print delta_t
         count_X_dict[delta_t]+=1
         if citation_path not in already_set:
             count_one_dict[delta_t]+=1
