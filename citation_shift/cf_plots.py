@@ -6,6 +6,7 @@ from collections import defaultdict
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
+import numpy as np
 
 def load_data(json_path):
     return json.loads(open(json_path).read())
