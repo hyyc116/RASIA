@@ -159,7 +159,7 @@ def plot_top_10(path,structure_path):
         for structure in sorted(structure_dis):
             if structure !='-1':
                 xs.append(structure)
-                ys.append(structure_dis[ys])
+                ys.append(structure_dis[structure])
 
         ys = [float(i)/sum(ys) for i in ys]
         plot_bar(x,y,axes[count,2],title='Distribution Over structure')
